@@ -6,7 +6,7 @@ You have one button and three separate LEDs. When you hold the button, the first
 *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
 ### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/Workshop2/blob/master/Activity%207%20-%20Three%20LEDs/Circuit.png)
+![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%202/Activity%207%20-%20Three%20LEDs/Circuit.png)
 
 ### Code:
 ```C++
