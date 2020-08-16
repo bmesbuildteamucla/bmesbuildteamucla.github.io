@@ -1,32 +1,3 @@
-# Activity 8 - Morse Code (Challenge)
-
-### Task:
-Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
-
-*Hint: Read in inputted string and cycle through it using loops*
-
-*Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
-
-##### Morse code array:
- ```C++
-String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", // A-I
-                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", // J-R 
-                     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."}; // S-Z
-```
-##### Serial read functions:
-```C++
-if (Serial.available() > 0) // send data only when you receive data
-Serial.read() // reads incoming serial data
-Serial.readString() // reads characters from the serial buffer into a String
-```
-
-### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/Workshop-2/blob/master/Activity%208%20-%20Morse%20Code/Circuit.png)
-
-Circuit uses built in LED
-
-### Code:
-```C++
 String incomingString; // for incoming serial data
 String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",     // A-I
                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
@@ -83,4 +54,3 @@ void loop()
     Serial.println();
   }
 }
-```
