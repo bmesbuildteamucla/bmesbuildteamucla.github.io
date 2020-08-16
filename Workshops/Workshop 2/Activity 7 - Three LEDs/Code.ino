@@ -1,15 +1,3 @@
-# Activity 7 - Three LEDs
-
-### Task:
-You have one button and three separate LEDs. When you hold the button, the first LED turns on. If you are still holding the button after one second, the second LED also turns on. If you are still holding the button after two seconds, the third LED also turns on. If at any point you release the button, only the LEDs that have been turned on stay on. The next time you press the button, all the LEDs will turn off. Further button presses will continue the pattern.
-
-*Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
-
-### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/Workshop2/blob/master/Activity%207%20-%20Three%20LEDs/Circuit.png)
-
-### Code:
-```C++
 int LEDPin1 = 13; // yellow LED
 int LEDPin2 = 12; // white LED
 int LEDPin3 = 11; // blue LED
@@ -57,4 +45,3 @@ void loop()
     }
   }
 }
-```
