@@ -5,5 +5,5 @@
 ## Workshops:
 
 ## Other Resources:
-* [Syllabus](https://bmesbuildteamucla.github.io/Syllabus)
-* [Schedule](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/tree/master/Schedule)
+* [Syllabus](https://bmesbuildteamucla.github.io/Other%20Resources/Syllabus)
+* [Schedule](https://bmesbuildteamucla.github.io/Other%20Resources/Schedule)
