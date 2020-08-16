@@ -30,8 +30,18 @@
 
 	- *Hint: Read in inputted string and cycle through it using loops*
 	- *Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
-
-
+	- Morse code array:
+	```c++
+	String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",      // A-I
+			     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
+			     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};         // S-Z
+	```
+	- Serial read functions:
+	```c++
+	if (Serial.available() > 0) // send data only when you receive data
+	Serial.read() // reads incoming serial data
+	Serial.readString() // reads characters from the serial buffer into a String
+	```
 
 ## Solutions:
 
