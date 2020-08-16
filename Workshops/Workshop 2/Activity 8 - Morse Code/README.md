@@ -8,13 +8,13 @@ Write a program that lets you to input a word or sentence into the serial monito
 *Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
 
 ##### Morse code array:
- ```c++
-String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", // A-I
-                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", // J-R 
-                     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."}; // S-Z
+ ```c
+String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",      // A-I
+                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
+                     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};         // S-Z
 ```
 ##### Serial read functions:
-```c++
+```c
 if (Serial.available() > 0) // send data only when you receive data
 Serial.read() // reads incoming serial data
 Serial.readString() // reads characters from the serial buffer into a String
@@ -26,7 +26,7 @@ Serial.readString() // reads characters from the serial buffer into a String
 Circuit uses built in LED
 
 ### Code:
-```c++
+```c
 String incomingString; // for incoming serial data
 String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",     // A-I
                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
