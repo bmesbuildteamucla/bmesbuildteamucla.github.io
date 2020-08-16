@@ -1,2 +1,6 @@
 name: BMES Build Team
 title: null
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
