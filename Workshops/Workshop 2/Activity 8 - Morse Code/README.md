@@ -21,7 +21,7 @@ Serial.readString() // reads characters from the serial buffer into a String
 ```
 
 ### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/Workshop-2/blob/master/Activity%208%20-%20Morse%20Code/Circuit.png)
+![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%208%20-%20Morse%20Code/Circuit.png)
 
 Circuit uses built in LED
 
