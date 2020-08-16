@@ -9,7 +9,7 @@ You have one button and three separate LEDs. When you hold the button, the first
 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%207%20-%20Three%20LEDs/Circuit.png)
 
 ### Code:
-```C++
+```cpp
 int LEDPin1 = 13; // yellow LED
 int LEDPin2 = 12; // white LED
 int LEDPin3 = 11; // blue LED
