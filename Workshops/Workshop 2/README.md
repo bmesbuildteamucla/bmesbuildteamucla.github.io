@@ -35,5 +35,5 @@
 
 ## Solutions:
 
-* [Activity 7 - Three LEDs](https://github.com/bmesbuildteamucla/Workshop2/tree/master/Activity%207%20-%20Three%20LEDs)
-* [Activity 8 - Morse Code](https://github.com/bmesbuildteamucla/Workshop2/tree/master/Activity%208%20-%20Morse%20Code)
+* [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%207%20-%20Three%20LEDs)
+* [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%208%20-%20Morse%20Code)
