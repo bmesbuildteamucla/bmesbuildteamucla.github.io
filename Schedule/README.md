@@ -1,6 +1,7 @@
 # Schedule
 
 ### Fall:
+
 | Week        | Event       |
 | ----------- | ----------- |
 | 3           | Module 1    |
