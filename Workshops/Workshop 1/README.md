@@ -2,7 +2,7 @@
 
 ## Problems:
 
-#### Activity 1 -
+#### Activity 1 - Junction Rule
 * Make the following circuit and measure the voltage drop at different points to prove the junction rule with Ohm’s law
 
   - R1, R2, and R3 are 100, 220, and 330 Ohms respectively
@@ -19,7 +19,8 @@
     >
     > Junction Rule: Iin = Iout
 
-#### Activity 2 -
+
+#### Activity 2 - Voltage Divider
 * Prove the voltage divider equation using a voltmeter.
 
      ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%202%20Circuit.png)
@@ -29,10 +30,18 @@
     > Vout = Vin (R2/ (R1 + R2))
 
 
-#### Activity 3 -
+#### Activity 3 - LEDs and Data Sheets
+* Use a data sheet to find the optimal current for your LED and set up an appropriate circuit. Determine how increasing the resistance of the resistor will affect the power dissipated (P=IV) across the LED. Prove your conclusion by increasing the resistance of the resistor and observe the brightness of the LED. Set up LEDs in parallel and series with each other. Determine the differences in the brightness and give a reason for your observation with what we learned in the module.
 
-#### Activity 4 -
+* Relevant Equations:
 
+	> V = IR
+  >
+  > P = IV = I2R = V2/R
+
+
+#### Activity 4 - LEDs and Switches
+* Build a circuit with a switch and an LED where the LED turns on when the switch is pressed. Then try to make a circuit where the LED turns off when the switch is pressed.
 
 
 
