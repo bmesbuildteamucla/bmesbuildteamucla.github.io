@@ -9,6 +9,7 @@
 		![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%201%20Circuit.jpg)
 	
 	- Relevant Equations:
+	
 			> Ohm’s Law: V = IR
 			>
 			> Resistors in Series: Req = R1 + R2 + R3 + . . . + Rn
