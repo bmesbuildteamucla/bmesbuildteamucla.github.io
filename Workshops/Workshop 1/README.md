@@ -37,7 +37,7 @@
 
 	  > V = IR
 	  >
-	  > P = IV = I2R = V2/R
+	  > P = IV = I^2R = V^2/R
 
 
 #### Activity 4 - LEDs and Switches
