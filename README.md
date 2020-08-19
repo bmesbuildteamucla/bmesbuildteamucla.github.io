@@ -20,5 +20,9 @@
 * [Workshop 5](https://bmesbuildteamucla.github.io/Workshops/Workshop%205)
 * [Workshop 6](https://bmesbuildteamucla.github.io/Workshops/Workshop%206)
 
+## Winter Break:
+* [Problem Set 1](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%201)
+* [Problem Set 2](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202)
+
 ## Other Resources:
 * 
