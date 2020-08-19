@@ -7,7 +7,7 @@
 
 	- R1, R2, and R3 are 100, 220, and 330 Ohms respectively
 	
-	- ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%201%20Circuit.jpg)
+	 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%201%20Circuit.jpg)
 	
 	- Relevant Equations:
 	
