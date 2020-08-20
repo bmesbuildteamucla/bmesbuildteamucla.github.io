@@ -51,7 +51,10 @@ Install [Processing](https://processing.org/download/)
   - Now, you can use Processing to control your Arduino
 
 #### Activity 4 - Programming your Arduino using Processing
-* Use Proceessing to control your Arduino and have it turn an LED on
+* Use Proceessing to control your Arduino:
+  - Turn on LEDs
+  - Flash LEDs
+  - Read in inputs
 
 * To do this, we need to learn about classes:
   - Classes are 
