@@ -1,6 +1,6 @@
 # Workshop 2
 
-## Problems:
+## Activities:
 
 #### Activity 1 -
 * Turn the LED on after 5 seconds using a conditional statement. (Don’t use delay().)
