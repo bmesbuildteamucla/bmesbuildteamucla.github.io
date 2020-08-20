@@ -1,6 +1,6 @@
 # Workshop 3
 
-## Problems:
+## Activities:
 
 #### Activity 1 -
 * 
