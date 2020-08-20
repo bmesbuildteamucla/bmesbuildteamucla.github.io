@@ -1,4 +1,4 @@
-# Problem Set 1
+# Winter Break Problem Set 1
 
 These three problems are some of the same LED activities we did during workshop. We want to make sure that all of you can confidently complete these problems before attempting the second part.
 
