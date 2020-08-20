@@ -7,7 +7,7 @@
 
 	- R1, R2, and R3 are 100, 220, and 330 Ohms respectively
 	
-	 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%201%20Circuit.jpg)
+	 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry/Activity%201%20Circuit.jpg)
 	
 	- Relevant Equations:
 	
@@ -23,7 +23,7 @@
 #### Activity 2 - Voltage Divider
 * Prove the voltage divider equation using a voltmeter.
 
-     ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201/Activity%202%20Circuit.png)
+     ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry/Activity%202%20Circuit.png)
       
 	- Voltage Divider Equation:
 
