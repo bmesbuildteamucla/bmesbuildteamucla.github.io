@@ -13,7 +13,7 @@
 * [Module 7] []()
 
 ## Workshops:
-* [Workshop 1](https://bmesbuildteamucla.github.io/Workshops/Workshop%201)
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry)
 * [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202)
 * [Workshop 3](https://bmesbuildteamucla.github.io/Workshops/Workshop%203)
 * [Workshop 4](https://bmesbuildteamucla.github.io/Workshops/Workshop%204)
