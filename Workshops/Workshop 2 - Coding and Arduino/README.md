@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop 2 - Coding and Arduino
 
 ## Activities:
 
