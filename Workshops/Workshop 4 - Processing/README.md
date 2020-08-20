@@ -10,7 +10,7 @@ Install [Processing](https://processing.org/download/)
   - Getting Started
   - Processing Overview
   - Coordinate System and Shapes
-    - *Remember: (0,0) is at the top left*
+    - *Remember: (0,0) is at the top left corner*
   - Color
 
 * Important functions/variables
