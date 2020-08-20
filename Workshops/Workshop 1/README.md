@@ -1,4 +1,4 @@
-# Workshop 1
+# Workshop 1: Basic Circuitry
 
 ## Activities:
 
