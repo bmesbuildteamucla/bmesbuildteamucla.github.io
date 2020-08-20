@@ -1,6 +1,6 @@
 # Workshop 1
 
-## Problems:
+## Activities:
 
 #### Activity 1 - Junction Rule
 * Make the following circuit and measure the voltage drop at different points to prove the junction rule with Ohm’s law
