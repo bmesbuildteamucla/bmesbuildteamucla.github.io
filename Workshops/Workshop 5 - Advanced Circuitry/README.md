@@ -4,7 +4,6 @@
 
 #### Activity 1 - Set Up Circuits
 * Set up a potentiometer circuit
-
 * Set up separate op amp circuit
   - *Hint: Search up op amp data sheet to determine pin configuration*
   - *VDD is (+), VSS is (-)*
