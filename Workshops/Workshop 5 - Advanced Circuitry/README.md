@@ -26,16 +26,31 @@
   </details>
 
 #### Activity 3 - Non-inverting Amplifier
-* Set up an inverting amplifier circuit with the potentiometer output as Vin
+* Set up an non-inverting amplifier circuit with the potentiometer output as Vin
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
 
 #### Activity 4 - Transimpedance Amplifier
-* 
+* Find an OP905 photodiode and use it as the current source
+* Measure the voltage from the op amp and see how it changes when you cover the photodiode
+  <details>
+  <summary>What's so important about this amplifier?</summary>
+  <br>
+  This is the basis of our Pulse Ox circuit! Place your finger on the photodiode and shine a red LED on top of your fingernail. Keep everything steady and see if you can detect your pulse!
+  <br>
+  <br>
+      
+  </details>
 
 #### Activity 5 - Filters
-* 
+* Set up a low pass and high pass filter
+  - Filter your potentiometer output using each filter and observe what happens
+  - You can read in both the unfiltered and filtered signals through your Arduino and monitor using the Serial Plotter
+  - Try to filter at different frequencies by using different resistors/capacitors and see their effect on filtering
+  
+* Combine the low pass and high pass filters together to create a band pass filter
+  - Compare with using each filter by itself
 
 
 ## Solutions:
