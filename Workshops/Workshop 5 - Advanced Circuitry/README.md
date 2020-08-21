@@ -10,6 +10,9 @@
 
 #### Activity 2 - Inverting Amplifier
 * Set up an inverting amplifier circuit with the potentiometer output as Vin
+
+![Inverting Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Inverting%20Amplifier%20Circuit.png)
+
 * Simultaneously measure the voltage from the potentiometer and the op amp
   <details>
   <summary>What is the op amp's output voltage?</summary>
@@ -27,12 +30,18 @@
 
 #### Activity 3 - Non-inverting Amplifier
 * Set up an non-inverting amplifier circuit with the potentiometer output as Vin
+
+![Non-Inverting Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Non-Inverting%20Amplifier%20Circuit.png)
+
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
 
 #### Activity 4 - Transimpedance Amplifier
-* Find an OP905 photodiode and use it as the current source
+* Set up a transimpedance amplifier circuit wiht an OP905 photodiode as the current source
+
+![Transimpedance Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Transimpedance%20Amplifier%20Circuit.png)
+
 * Measure the voltage from the op amp and see how it changes when you cover the photodiode
   <details>
   <summary>What's so important about this amplifier?</summary>
