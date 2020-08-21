@@ -12,7 +12,6 @@
 #### Activity 2 - Inverting Amplifier
 * Set up an inverting amplifier circuit with the potentiometer output as Vin
 * Simultaneously measure the voltage from the potentiometer and the op amp
-
   <details>
   <summary>What is the op amp's output voltage?</summary>
   <br>
@@ -28,7 +27,10 @@
   </details>
 
 #### Activity 3 - Non-inverting Amplifier
-* 
+* Set up an inverting amplifier circuit with the potentiometer output as Vin
+* Simultaneously measure the voltage from the potentiometer and the op amp
+* Compare the two voltages and see if they match the expected gain
+
 
 #### Activity 4 - Transimpedance Amplifier
 * 
