@@ -8,4 +8,4 @@ Through hands-on instruction, students are introduced to fundamental engineering
 We hope that students coming out of this program are able to apply these skills in future classes, research, and internships.
 
 
-**Contact:** bmes.build.team@gmail.com
+**Contact:** [bmes.build.team@gmail.com](mailto:bmes.build.team@gmail.com)
