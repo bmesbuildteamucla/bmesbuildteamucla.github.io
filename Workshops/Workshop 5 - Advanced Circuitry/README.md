@@ -32,7 +32,6 @@
 * Set up an non-inverting amplifier circuit with the potentiometer output as Vin
 
     ![Non-Inverting Amplifier](https://bmesbuildteamucla.github.io/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Non-Inverting%20Amplifier%20Circuit.png)
-
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
