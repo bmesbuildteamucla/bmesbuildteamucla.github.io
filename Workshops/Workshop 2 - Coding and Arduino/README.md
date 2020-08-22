@@ -3,22 +3,23 @@
 ## Activities:
 
 #### Activity 1 -
-* Turn the LED on after 5 seconds using a conditional statement. (Don’t use delay().)
+* Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay() or millis(). Make a variable: int time)
 
 #### Activity 2 -
 * Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
 
 #### Activity 3 -
-*
+* Have the LED light up when the button is pressed down and turn off when not.
 
 #### Activity 4 -
-*
+* Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
 
 #### Activity 5 -
-*
+* Have an LED toggle on/off after three clicks of a button.
 
 #### Activity 6 -
-*
+* Have two LEDs blink at different rates.
+* Have one LED blink at a randomly created rate, and the other blink half as fast
 
 #### Activity 7 - Three LEDs
 * You have one button and three separate LEDs. When you hold the button, the first LED turns on. If you are still holding the button after one second, the second LED also turns on. If you are still holding the button after two seconds, the third LED also turns on. If at any point you release the button, only the LEDs that have been turned on stay on. The next time you press the button, all the LEDs will turn off. Further button presses will continue the pattern.
