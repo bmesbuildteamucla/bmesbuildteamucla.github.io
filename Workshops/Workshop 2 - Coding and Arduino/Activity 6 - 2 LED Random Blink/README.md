@@ -35,7 +35,7 @@ void loop()
   }
   else
   {
-    digitalWrite(pin1, LOW);
+   digitalWrite(pin1, LOW);
   	digitalWrite(pin2, LOW);
   }
 }
