@@ -46,5 +46,6 @@
 
 ## Solutions:
 * [Activity 5 - 3 Click LED Toggle](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/tree/master/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20%20-%203%20Click%20LED%20Toggle)
+* [Activity 6 - 2 LED Random Blink](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/tree/master/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%202%20LED%20Random%20Blink)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%207%20-%20Three%20LEDs)
 * [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/Workshops/Workshop%202/Activity%208%20-%20Morse%20Code)
