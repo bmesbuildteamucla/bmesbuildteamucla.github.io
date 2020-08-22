@@ -11,8 +11,8 @@ Have one LED blink at a randomly created rate, and the other blink half as fast
 int pin1 = 2;
 int pin2 = 3; 
 
-int rand1 = random(0,500);		// Random number from 0-500
-int rand2 = random(500,1000);   // Random number from 500-1000
+int time1 = random(500,1000);	// Random number from 500-1000
+int time2 = time1/2;   			// Half as fast
 
 void setup() 
 { 
@@ -25,18 +25,18 @@ void setup()
 void loop() 
 { 
   int time = millis();
-  if (time % rand1 == 0) 
+  if (time % time1 == 0) 
   {
-   digitalWrite(pin1, HIGH);
+  	digitalWrite(pin1, HIGH);
   }
-  if (time % rand2 == 0) 
+  if (time % time2 == 0) 
   {
-   digitalWrite(pin2, HIGH);
+  	digitalWrite(pin2, HIGH);
   }
   else
   {
-   digitalWrite(pin1, LOW);
-    digitalWrite(pin2, LOW);
+    digitalWrite(pin1, LOW);
+  	digitalWrite(pin2, LOW);
   }
 }
 ```
