@@ -27,16 +27,16 @@ void loop()
   int time = millis();
   if (time % rand1 == 0) 
   {
-  	digitalWrite(pin1, HIGH);
+   digitalWrite(pin1, HIGH);
   }
   if (time % rand2 == 0) 
   {
-  	digitalWrite(pin2, HIGH);
+   digitalWrite(pin2, HIGH);
   }
   else
   {
    digitalWrite(pin1, LOW);
-  	digitalWrite(pin2, LOW);
+    digitalWrite(pin2, LOW);
   }
 }
 ```
