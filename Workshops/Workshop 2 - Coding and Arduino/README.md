@@ -3,7 +3,7 @@
 ## Activities:
 
 #### Activity 1 -
-* Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay() or millis(). Make a variable: int time)
+* Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay(). Make a variable: int time)
 
 #### Activity 2 -
 * Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
