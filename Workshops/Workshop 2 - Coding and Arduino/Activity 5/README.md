@@ -1,7 +1,7 @@
-# Activity 2 - LED Flashing
+# Activity 5 - 3 Click LED Toggle
 
 ### Task:
-Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
+Have an LED toggle on/off after three clicks of a button.
 
 ### Circuit:
 ![Circuit](https://github.com/bmesbuildteamucla/Workshop-2/blob/master/Activity%202%20-%20LED%20Flashing/Activity%202.PNG)
