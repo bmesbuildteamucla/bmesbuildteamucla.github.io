@@ -2,10 +2,10 @@
 
 ## Activities:
 
-#### Activity 1 -
+#### Activity 1 - LED Time
 * Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay(). Make a variable: int time)
 
-#### Activity 2 -
+#### Activity 2 - LED Flashing
 * Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
 
 #### Activity 3 -
@@ -14,10 +14,10 @@
 #### Activity 4 -
 * Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
 
-#### Activity 5 -
+#### Activity 5 - 3 Click LED Toggle
 * Have an LED toggle on/off after three clicks of a button.
 
-#### Activity 6 -
+#### Activity 6 - 2 LED Random Blink
 * Have two LEDs blink at different rates.
 * Have one LED blink at a randomly created rate, and the other blink half as fast
 
