@@ -1,4 +1,4 @@
-# Activity 6 - 2 LED Random Blink
+# Activity 6 - LED Blinking
 
 ### Task:
 Have two LEDs blink at different rates.
