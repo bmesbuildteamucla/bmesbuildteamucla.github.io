@@ -4,7 +4,7 @@
 Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
 
 ### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/Workshop-2/blob/master/Activity%202%20-%20LED%20Flashing/Activity%202.PNG)
+![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%202%20-%20LED%20Flashing/Circuit.PNG)
 
 ### Code:
 ```C++
