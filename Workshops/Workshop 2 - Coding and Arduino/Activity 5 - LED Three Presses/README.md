@@ -4,7 +4,7 @@
 Have an LED toggle on/off after three clicks of a button.
 
 ### Circuit:
-[Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20%20-%203%20Click%20LED%20Toggle/Activity%205.png)
+![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Three%20Presses/Circuit.png)
 
 ### Code:
 ```c++
