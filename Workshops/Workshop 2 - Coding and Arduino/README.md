@@ -8,16 +8,16 @@
 #### Activity 2 - LED Flashing
 * Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
 
-#### Activity 3 -
+#### Activity 3 - LED Button
 * Have the LED light up when the button is pressed down and turn off when not.
 
-#### Activity 4 -
+#### Activity 4 - LED Switch
 * Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
 
-#### Activity 5 - 3 Click LED Toggle
+#### Activity 5 - LED Three Presses
 * Have an LED toggle on/off after three clicks of a button.
 
-#### Activity 6 - 2 LED Random Blink
+#### Activity 6 - LED Blinking
 * Have two LEDs blink at different rates.
 * Have one LED blink at a randomly created rate, and the other blink half as fast
 
