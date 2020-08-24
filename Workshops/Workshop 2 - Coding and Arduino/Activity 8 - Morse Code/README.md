@@ -1,4 +1,5 @@
-# Activity 8 - Morse Code (Challenge)
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+## Activity 8 - Morse Code (Challenge)
 
 ### Task:
 Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
