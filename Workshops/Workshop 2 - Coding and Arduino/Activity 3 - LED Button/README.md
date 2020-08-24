@@ -15,9 +15,9 @@ int previous = 0;
 
 void setup() 
 {  
- pinMode (LED, OUTPUT); 	// initialize pin1 as output
- pinMode (Button, INPUT); 	// initialize pin2 as input
- digitalWrite(LED,LOW);	// start with LED off
+ pinMode (LED, OUTPUT); 	
+ pinMode (Button, INPUT); 	
+ digitalWrite(LED,LOW);	
 }
 
 void loop() 
