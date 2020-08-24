@@ -1,4 +1,4 @@
-#[Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
 ## Activity 5 - 3 Click LED Toggle
 
 ### Task:
