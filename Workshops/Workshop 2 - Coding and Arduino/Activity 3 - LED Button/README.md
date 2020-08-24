@@ -4,7 +4,7 @@
 Have the LED light up when the button is pressed down and turn off when not.
 
 ### Circuit:
-
+![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%203%20-%20LED%20Button/W2A3_Circuit.png)
 ### Code: 
 
 ```c++
