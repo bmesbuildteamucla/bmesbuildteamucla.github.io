@@ -45,6 +45,8 @@
 	```
 
 ## Solutions:
+* [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Time)
+* [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Flashing)
 * [Activity 5 - 3 Click LED Toggle](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Three%20Presses)
 * [Activity 6 - 2 LED Random Blink](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%20LED%20Blinking)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%207%20-%20Three%20LEDs)
