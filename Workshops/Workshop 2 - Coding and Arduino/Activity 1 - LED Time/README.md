@@ -1,4 +1,6 @@
-# Activity 1 - LED Time
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+
+## Activity 1 - LED Time
 
 ### Task:
 Turn the LED on after 5 seconds using a conditional statement. (Don’t use delay().)
