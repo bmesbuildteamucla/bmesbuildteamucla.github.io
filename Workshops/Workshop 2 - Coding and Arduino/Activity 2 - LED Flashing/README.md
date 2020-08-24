@@ -1,4 +1,5 @@
-# Activity 2 - LED Flashing
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+## Activity 2 - LED Flashing
 
 ### Task:
 Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
