@@ -1,4 +1,5 @@
-# Activity 6 - LED Blinking
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+## Activity 6 - LED Blinking
 
 ### Task:
 Have two LEDs blink at different rates.
