@@ -1,3 +1,5 @@
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+
 ## Activity 3 - LED Button
 
 ### Task:
