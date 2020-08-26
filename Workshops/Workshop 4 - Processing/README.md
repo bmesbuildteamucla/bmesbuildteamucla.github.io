@@ -54,16 +54,12 @@ Install [Processing](https://processing.org/download/)
   - In the Processing IDE, go to **Sketch**, **Import Library...**, then **Add Library...**
   - Search for "Firmata" in the top bar
   - Select **Arduino (Firmata)** and install
-  - At the beginning of your Processing code, copy the following two lines:
+  - At the beginning of your Processing code, copy the following two lines to import libraries:
     ```java
     import processing.serial.*;
     import cc.arduino.*;
     ```
-  - In `void setup()`, copy the following two lines
-    ```java
-    printArray(Arduino.list());
-    myArduino = new Arduino(this, Arduino.list()[0], 57600); // may need to change index value
-    ```
+
 
 #### Activity 4 - Programming your Arduino using Processing
 * Use Proceessing to control your Arduino:
@@ -86,11 +82,17 @@ Install [Processing](https://processing.org/download/)
     - In Processing, we need to access the **Arduino** class to control your Arduino
     
   - Class Syntax
-    - To create an object of a certain class:
+    - To declare an object of a certain class:
       ```java
       class name;
       Servo myServo;
       Arduino myArduino;
+      ```
+    - To initialize new object in Java:
+      ```java
+      name = new class;
+      myServo = new Servo;
+      myArduino = new Arduino(____,____,____);
       ```
     - To access specific class functions:
       ```c++
@@ -98,6 +100,14 @@ Install [Processing](https://processing.org/download/)
       myServo.write(angle);
       myArduino.analogRead(pin);
       ```
+
+* Once you declare an **Arduino** object called `myArduino`
+    - In `void setup()`, copy the following two lines
+      ```java
+      printArray(Arduino.list());                                 // lists USB ports, find the one connected to Arduino
+      myArduino = new Arduino(this, Arduino.list()[0], 57600);    // may need to change index value based on printed array
+      ```
+    - This initializes your `myArduino` object and links your Arduino to Processing
 
 ## Solutions:
 * 
