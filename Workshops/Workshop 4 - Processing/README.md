@@ -16,10 +16,13 @@ Install [Processing](https://processing.org/download/)
 * Important functions/variables
 
     ```java
+    void setup() {  }
+    void draw() {  }
+    
     size(width, height)
-    background(color)
     width
     height
+    background(color)
     stroke(color)
     ```
 
