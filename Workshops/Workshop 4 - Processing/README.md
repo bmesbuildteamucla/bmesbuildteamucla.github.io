@@ -62,7 +62,7 @@ Install [Processing](https://processing.org/download/)
   - In `void setup()`, copy the following two lines
     ```java
     printArray(Arduino.list());
-    arduino = new Arduino(this, Arduino.list()[0], 57600); // may need to change index value
+    myArduino = new Arduino(this, Arduino.list()[0], 57600); // may need to change index value
     ```
 
 #### Activity 4 - Programming your Arduino using Processing
