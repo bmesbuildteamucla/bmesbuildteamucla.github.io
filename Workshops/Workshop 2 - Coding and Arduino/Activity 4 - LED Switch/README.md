@@ -1,8 +1,8 @@
 # [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
-## Activity 5 - 3 Click LED Toggle
+## Activity 4 - LED Switch
 
 ### Task:
-Have an LED toggle on/off after three clicks of a button.
+Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
 
 ### Circuit:
 
