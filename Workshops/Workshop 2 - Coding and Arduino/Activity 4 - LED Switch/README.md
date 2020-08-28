@@ -5,6 +5,7 @@
 Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
 
 ### Circuit:
+![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%204%20-%20LED%20Switch/W2A4_Circuit.png)
 
 ### Code:
 ```c++
