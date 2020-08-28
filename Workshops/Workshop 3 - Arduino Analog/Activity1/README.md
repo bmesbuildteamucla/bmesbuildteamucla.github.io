@@ -1,4 +1,4 @@
-# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
 
 ## Activity 1 - Piezo Buzzer
 
