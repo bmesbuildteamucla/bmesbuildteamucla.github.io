@@ -4,7 +4,7 @@
 
 #### Activity 1 - Piezo Buzzer
 * Arduino functions to use to operate the buzzer
-** tone, noTone
+* tone, noTone
 * Control pitches using potentiometer/photoresistor
 * Play a scale 
 
