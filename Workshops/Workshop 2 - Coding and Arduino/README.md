@@ -50,6 +50,6 @@
 * [Activity 3 - LED Button](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%203%20-%20LED%20Button)
 * [Activity 4 - LED Switch](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%204%20-%20LED%20Switch)
 * [Activity 5 - LED Three Presses](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Three%20Presses)
-* [Activity 6 - 2 LED Random Blink](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%20LED%20Blinking)
+* [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%20LED%20Blinking)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%207%20-%20Three%20LEDs)
 * [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%208%20-%20Morse%20Code)
