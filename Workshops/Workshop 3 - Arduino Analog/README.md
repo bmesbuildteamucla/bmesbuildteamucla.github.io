@@ -25,4 +25,4 @@
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
 
 ## Solutions:
-* 
+* [Activity 1 - Piezo Buzzer] (https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity1)
