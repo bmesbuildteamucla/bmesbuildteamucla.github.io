@@ -18,11 +18,16 @@
 ### Activity 4 - Night Light
 * Make a night light using a photoresistor and an LED. (The LED turns on when the room is dark.) 
 
-### Challenge Activity: Reaction Time Test
+### Challenge Activity - Reaction Time Test
 * Use an LED and a piezo buzzer to make a fun game! Have the LED or piezo buzzer turn on randomly so that the user has to press the button as fast as possible to turn it off. Have the reaction speed be printed in the serial monitor each time. See who has the fastest reaction times :)
 
-### Challenge Activity: Reaction Time Test
+### Challenge Activity - Dino Run
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
 
 ## Solutions:
 * [Activity 1 - Piezo Buzzer](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity1)
+* [Activity 2 - Servo motors + Joystick](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity2)
+* [Activity 3 - Light Level Sensor](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity3)
+* [Activity 4 -  Night Light](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity4)
+* [Challenge Activity - Reaction Time Test](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/ReactionTimeTest)
+* [Challenge Activity - Dino Run](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/DinoRun)
