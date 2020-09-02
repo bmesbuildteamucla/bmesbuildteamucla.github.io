@@ -85,20 +85,26 @@ Install [Processing](https://processing.org/download/)
     - To declare an object of a certain class:
       ```java
       class name;
-      Servo myServo;
-      Arduino myArduino;
+      Servo pauley;
+      Arduino boelter;
       ```
     - To initialize new object in Java:
       ```java
       name = new class;
-      myServo = new Servo;
-      myArduino = new Arduino(____,____,____);
+      pauley = new Servo;
+      boelter = new Arduino(____,____,____);
       ```
     - To access specific class functions:
       ```c++
       name.function();
-      myServo.write(angle);
-      myArduino.analogRead(pin);
+      pauley.write(angle);
+      boelter.analogRead(pin);
+      ```
+    - To access specific class variables:
+      ```c++
+      class.variable;
+      Arduino.OUTPUT;
+      Arduino.HIGH;
       ```
 
 * Once you declare an **Arduino** object called `myArduino`
@@ -110,4 +116,32 @@ Install [Processing](https://processing.org/download/)
     - This initializes your `myArduino` object and links your Arduino to Processing
 
 ## Solutions:
-* 
+#### Activity 4 - Programming your Arduino using Processing
+* Example code:
+    ```java
+    import cc.arduino.*;
+
+    Arduino jack;
+    int LED = 2;
+    int button = 7;
+
+    void setup()
+    {
+      printArray(Arduino.list());
+      jack = new Arduino(this, Arduino.list()[0], 57600); // may need to change index value based on printed array
+      jack.pinMode(LED, Arduino.OUTPUT);
+      jack.pinMode(button, Arduino.INPUT);
+    }
+
+    void draw()
+    {
+      if (jack.digitalRead(button) == Arduino.HIGH)
+      {
+        jack.digitalWrite(LED, Arduino.HIGH);
+      }
+      else 
+      {
+        jack.digitalWrite(LED, Arduino.LOW);
+      }
+    }
+    ```
