@@ -27,3 +27,6 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
   - *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
 ## Solutions:
+* [Problem 1 - LED Button](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%201/Problem%201%20-%20LED%20Button)
+* [Problem 2 - LED Light Switch](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%201/Problem%202%20-%20LED%20Light%20Switch)
+* [Problem 3 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%207%20-%20Three%20LEDs/)
