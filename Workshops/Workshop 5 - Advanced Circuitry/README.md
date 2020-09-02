@@ -83,3 +83,21 @@
       Serial.println(analogRead(A2));
     }
     ```
+
+#### Activity 4 - Transimpedance Amplifier
+* Circuit:
+
+    ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Transimpedance%20Amplifier%20Arduino%20Circuit.png)
+    
+* Code:
+    ```c++
+    void setup()
+    {
+      Serial.begin(9600);
+    }
+
+    void loop()
+    {
+      Serial.println(analogRead(A2));
+    }
+    ```
