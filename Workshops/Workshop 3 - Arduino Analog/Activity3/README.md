@@ -1,4 +1,4 @@
-## [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
+# [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
 
 ## Activity 3 - Light Level Sensor
 
