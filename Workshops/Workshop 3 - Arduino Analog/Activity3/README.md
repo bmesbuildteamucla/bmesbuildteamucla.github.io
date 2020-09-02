@@ -14,11 +14,11 @@
 ```c++
 void setup()
 {
-  Serial.begin(9600);       // initiate Serial Monitor
+  Serial.begin(9600);   // initiate Serial Monitor
 }
 
 void loop()
 {
-  Serial.println(analogRead(A0));       // open up Serial Plotter to see graphed values
+  Serial.println(analogRead(A0));   // open up Serial Plotter to see graphed values
 }
 ```
