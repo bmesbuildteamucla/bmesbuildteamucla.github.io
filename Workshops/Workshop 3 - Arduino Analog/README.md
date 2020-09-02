@@ -13,7 +13,9 @@
 * Bonus: Hook up the joystick/potentiometer to it to manually make it dab. 
 
 #### Activity 3 - Light Level Sensor
-* Use a photoresistor to graph light levels in the room that you’re sitting in. Slowly cover the photodiode with your hand to change the graph. 
+* Use a photoresistor to graph light levels in the room that you’re sitting in
+* Slowly cover the photodiode with your hand to change the graph
+* Graph using Serial Plotter
 
 #### Activity 4 - Night Light
 * Make a night light using a photoresistor and an LED. (The LED turns on when the room is dark.) 
