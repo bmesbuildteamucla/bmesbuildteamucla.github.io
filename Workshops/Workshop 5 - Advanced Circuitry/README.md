@@ -62,4 +62,24 @@
 
 
 ## Solutions:
-* 
+#### Activity 3 - Non-inverting Amplifier
+* Circuit:
+
+    ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%205%20-%20Advanced%20Circuitry/Non-Inverting%20Amplifier%20Arduino%20Circuit.png)
+    
+* Code:
+    ```c++
+    void setup()
+    {
+      Serial.begin(9600);
+    }
+
+    void loop()
+    {
+      Serial.print("Original: ");
+      Serial.print(analogRead(A0));
+      Serial.print("	");
+      Serial.print("Amplified: ");
+      Serial.println(analogRead(A2));
+    }
+    ```
