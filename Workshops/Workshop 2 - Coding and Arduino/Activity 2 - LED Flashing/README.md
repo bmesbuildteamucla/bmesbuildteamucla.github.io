@@ -19,6 +19,23 @@ void setup()
   digitalWrite(red, LOW); //initially, the red LED is off
 }
 
+void loop()
+{
+  digitalWrite(yellow, HIGH); //initially, yellow LED is on
+  delay(5000); //wait 5 seconds
+  digitalWrite(yellow, LOW); //turn off the yellow LED
+  
+  for (int i = 0; i < 10; i++) { //use a for loop to run blink() 10 times
+    digitalWrite(red, HIGH);
+    delay(500);
+    digitalWrite(red, LOW);
+    delay(500);
+  }
+  
+}
+
+/*
+Alternative Solution!
 void blink() //for practice, you can declare a function that blinks the red LED
 {
   digitalWrite(red, HIGH);
@@ -26,7 +43,6 @@ void blink() //for practice, you can declare a function that blinks the red LED
   digitalWrite(red, LOW);
   delay(500);
 } //make sure to declare the function before it is used
-
 void loop()
 {
   digitalWrite(yellow, HIGH); //initially, yellow LED is on
@@ -38,4 +54,5 @@ void loop()
   }
   
 }
+*/
 ```
