@@ -9,7 +9,7 @@ Turn the LED on after 5 seconds using a conditional statement. (Don’t use dela
 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%201%20-%20LED%20Time/Circuit_1.png)
 
 ### Code:
-```C++
+```c++
 void setup()
 {
   pinMode(13, OUTPUT);
