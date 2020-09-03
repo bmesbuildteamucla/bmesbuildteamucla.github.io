@@ -8,38 +8,34 @@ Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and 
 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%202%20-%20LED%20Flashing/Circuit_2.png)
 
 ### Code:
-```C++
+```c++
+int yellow = 2; //again, declare int variables for pin numbers for easy identification
+int red = 3;
+
 void setup()
 {
-  pinMode(2, OUTPUT);
-  pinMode(3, OUTPUT);
-  Serial.begin(9600);
-  digitalWrite(2, LOW);
-  digitalWrite(3, LOW);
+  pinMode(yellow, OUTPUT); //classify pins as outputs
+  pinMode(red, OUTPUT);
+  digitalWrite(red, LOW); //initially, the red LED is off
 }
+
+void blink() //for practice, you can declare a function that blinks the red LED
+{
+  digitalWrite(red, HIGH);
+  delay(500);
+  digitalWrite(red, LOW);
+  delay(500);
+} //make sure to declare the funtion before it is used
 
 void loop()
 {
-  digitalWrite(2, HIGH);
-  delay(5000);
-  digitalWrite(2, LOW);
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-  blink();
-}
-
-void blink()
-{
-  digitalWrite(3, HIGH);
-  delay(500);
-  digitalWrite(3, LOW);
-  delay(500);
+  digitalWrite(yellow, HIGH); //initially, yellow LED is on
+  delay(5000); //wait 5 seconds
+  digitalWrite(yellow, LOW); //turn off the yellow LED
+  
+  for (int i = 0; i < 10; i++) { //use a for loop to run blink() 10 times
+    blink();
+  }
+  
 }
 ```
