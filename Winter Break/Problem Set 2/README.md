@@ -1,8 +1,10 @@
-# Winter Break Problem Set 2
+# Winter Break Problem Set
 
-These four problems are more complex than the ones we did in workshop and will help you practice your skills. Try your best to use your current knowledge to solve them. Do not hesitate to message any of us for help.
+Before you start this problem set, please make sure that you can successfully complete all of the activities from [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/README.md). The solutions to those activities can be found at the bottom of the page for your reference. Even if you are super confident about these activities, please read through the solutions and make sure you understand everything.
 
-Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.build.team@gmail.com]() with the TinkerCAD share link (found at the top right of the page) for each problem. Please make your circuits organized enough so we can see the connections.
+These five problems are more complex than the ones we did in workshop and will help you practice your skills. Try your best to use your current knowledge to solve them. Do not hesitate to message any of us for help.
+
+Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.build.team@gmail.com](mailto:bmes.build.team@gmail.com) with the TinkerCAD share link (found at the top right of the page) for each problem. Please make your circuits organized enough so we can see the connections.
 
 ## Problems:
 
@@ -58,4 +60,4 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 * [Problem 2 - LED Game]()
 * [Problem 3 - Save Energy...Save the World]()
 * [Problem 4 - Newton’s Luminescent Cradle]()
-* [Problem 5 - Morse Code]()
+* [Problem 5 - Morse Code](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202/Problem%205%20-%20Morse%20Code/README.md)
