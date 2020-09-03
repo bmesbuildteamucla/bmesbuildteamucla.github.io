@@ -1,5 +1,5 @@
 # [Winter Break Problem Set](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202)
-## Activity 8 - Morse Code (Challenge)
+## Problem 5 - Morse Code
 
 ### Task:
 Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
