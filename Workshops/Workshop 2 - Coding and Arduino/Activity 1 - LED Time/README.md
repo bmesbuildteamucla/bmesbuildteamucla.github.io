@@ -6,7 +6,7 @@
 Turn the LED on after 5 seconds using a conditional statement. (Don’t use delay().)
 
 ### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/master/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%201%20-%20LED%20Time/Circuit%201.PNG)
+![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%201%20-%20LED%20Time/Circuit%201.PNG)
 
 ### Code:
 ```c++
