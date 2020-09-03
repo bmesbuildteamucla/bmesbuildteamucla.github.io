@@ -14,7 +14,7 @@ void blink() //for practice, you can declare a function that blinks the red LED
   delay(500);
   digitalWrite(red, LOW);
   delay(500);
-} //make sure to declare the funtion before it is used
+} //make sure to declare the function before it is used
 
 void loop()
 {
