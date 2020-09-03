@@ -34,8 +34,28 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 
   - Optional challenge: If you have completed this problem, try to control the bouncing of lights using a sine function.
 
+#### Problem 5 - Morse Code
+* Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
+
+	- *Hint: Read in inputted string and cycle through it using loops*
+	- *Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
+  - Try your best with this problem, but do not worry if you can't finish it
+	- Morse code array:
+	```c++
+	String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",     // A-I
+			                ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
+			                "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};         // S-Z
+	```
+	- Serial read functions:
+	```c++
+	if (Serial.available() > 0) // send data only when you receive data
+	Serial.read() // reads incoming serial data
+	Serial.readString() // reads characters from the serial buffer into a String
+	```
+
 ## Solutions:
 * [Problem 1 - Traffic Light]()
 * [Problem 2 - LED Game]()
 * [Problem 3 - Save Energy...Save the World]()
 * [Problem 4 - Newton’s Luminescent Cradle]()
+* [Problem 5 - Morse Code]()
