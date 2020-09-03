@@ -25,6 +25,6 @@
 * [Problem Set 2](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202)
 
 ## Other Resources:
-* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
-* [Arduino Reference](https://www.arduino.cc/reference/en/)
-* [Processing](https://processing.org/)
+* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
+* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
+* [Processing](https://processing.org/){:target="_blank"}
