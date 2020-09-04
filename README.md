@@ -13,16 +13,16 @@
 * [Module 7 - PCB Design](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
 
 ## Workshops:
-* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry)
-* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
-* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
-* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/Workshops/Workshop%204%20-%20Processing)
-* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/Workshops/Workshop%205%20-%20Advanced%20Circuitry)
-* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/Workshops/Workshop%206%20-%20Pulse%20Ox)
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry)
+* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
+* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
+* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
+* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
+* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
 
 ## Winter Break:
-* [Problem Set 1](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%201)
-* [Problem Set 2](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202)
+* [Problem Set 1](https://bmesbuildteamucla.github.io/winter-break/problem-set-1)
+* [Problem Set 2](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 
 ## Other Resources:
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
