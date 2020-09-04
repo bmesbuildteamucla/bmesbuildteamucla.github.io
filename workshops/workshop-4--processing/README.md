@@ -118,6 +118,7 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
 ## Solutions:
 #### Activity 4 - Programming your Arduino using Processing
 * Example code:
+
     ```java
     import cc.arduino.*;
 
