@@ -11,10 +11,10 @@
   tone(pin, frequency);
   tone(pin, frequency, duration);
   noTone(pin);
-    ```
+  ```
 
 
-#### Activity 2 - Servo motors + Joystick
+#### Activity 2 - Servo Motors
 * Program the Servo to sweep back and forth automatically
 * Use a potentiometer or joystick to it to control the servo manually
 * Initializing Servo (above setup)
