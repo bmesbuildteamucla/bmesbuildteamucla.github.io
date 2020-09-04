@@ -3,7 +3,7 @@
 ## Activities:
 
 #### Activity 1 - Storing Data in an Array
-* Read [Arrays](https://processing.org/tutorials/arrays/) until "Array of Objects"
+* Read [Arrays](https://processing.org/tutorials/arrays/){:target="_blank"} until "Array of Objects"
 
   <details>
   <summary>Why do we need arrays for our pulse ox?</summary>
@@ -27,6 +27,9 @@
   ```c++
   int[] data; // Declare
   data = new int[5]; // Create
+  data[0] = 19; // Assign
+  
+  int[] data = new int[5]; // Declare, create
   data[0] = 19; // Assign
   
   int[] data = { 19, 40, 75, 76, 90 }; // Declare, create, assign
