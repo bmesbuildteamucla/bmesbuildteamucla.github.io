@@ -1,4 +1,4 @@
-# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+# [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
 
 ## Activity 3 - LED Button
 
@@ -6,9 +6,9 @@
 Have the LED light up when the button is pressed down and turn off when not.
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%203%20-%20LED%20Button/W2A3_Circuit.png)
-### Code: 
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-3--LED-button/circuit.png)
 
+### Code: 
 ```c++
 int LED = 2; 
 int Button = 7; 
