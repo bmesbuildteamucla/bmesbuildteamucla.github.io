@@ -1,4 +1,5 @@
-# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+# [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
+
 ## Activity 8 - Morse Code (Challenge)
 
 ### Task:
@@ -22,7 +23,7 @@ Serial.readString() // reads characters from the serial buffer into a String
 ```
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%208%20-%20Morse%20Code/Circuit.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code/circuit.png)
 
 Circuit uses built in LED
 
