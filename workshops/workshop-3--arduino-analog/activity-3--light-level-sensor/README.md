@@ -1,4 +1,4 @@
-# [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
+# [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 
 ## Activity 3 - Light Level Sensor
 
@@ -8,7 +8,7 @@
 * Graph using Serial Plotter
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity3/Circuit.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-3--light-level-sensor/circuit.png)
 
 ### Code:
 ```c++
