@@ -1,4 +1,4 @@
-# [Workshop 3](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog)
+# [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 
 ## Challenge Activity: Reaction Time Test
 
@@ -8,6 +8,6 @@
 ### Circuit:
 
 ### Code:
-```C++
+```c++
 
 ```
