@@ -45,11 +45,11 @@
 	```
 
 ## Solutions:
-* [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%201%20-%20LED%20Time)
-* [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%202%20-%20LED%20Flashing)
-* [Activity 3 - LED Button](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%203%20-%20LED%20Button)
-* [Activity 4 - LED Switch](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%204%20-%20LED%20Switch)
-* [Activity 5 - LED Three Presses](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%205%20-%20LED%20Three%20Presses)
-* [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%20LED%20Blinking)
-* [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%207%20-%20Three%20LEDs)
-* [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%208%20-%20Morse%20Code)
+* [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
+* [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
+* [Activity 3 - LED Button](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-3--LED-button)
+* [Activity 4 - LED Switch](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-4--LED-switch)
+* [Activity 5 - LED Three Presses](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-5--LED-three-presses)
+* [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking)
+* [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--three-LEDs)
+* [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code)
