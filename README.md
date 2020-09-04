@@ -28,5 +28,5 @@
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
 * [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
 * [Processing](https://processing.org/){:target="_blank"}
-* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360)
-* [Eagle](https://www.autodesk.com/products/eagle/overview)
+* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
+* [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
