@@ -7,7 +7,7 @@
 
 	- R1, R2, and R3 are 100, 220, and 330 Ohms respectively
 	
-	 ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry/Activity%201%20Circuit.jpg)
+	 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-1-circuit.jpg)
 	
 	- Relevant Equations:
 	
@@ -23,7 +23,7 @@
 #### Activity 2 - Voltage Divider
 * Prove the voltage divider equation using a voltmeter.
 
-     ![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry/Activity%202%20Circuit.png)
+     ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-2-circuit.png)
       
 	- Voltage Divider Equation:
 
@@ -51,4 +51,4 @@
 - Green LED circuit is completed when button is pressed, so LED turns on
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
 
-![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%201%20-%20Basic%20Circuitry/Activity%204%20Circuit%20Solution.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
