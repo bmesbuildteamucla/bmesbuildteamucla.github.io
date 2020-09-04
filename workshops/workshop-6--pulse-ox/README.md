@@ -73,4 +73,57 @@
 
 
 ## Solutions:
-* 
+* Example Processing code:
+
+  ```java
+  import processing.serial.*;
+  import cc.arduino.*;
+  Arduino jack;   //declare Arduino object
+  int sensorPin = 0;
+  int[] data;  //declare array
+  int i = 0;  //initial index value
+
+  void setup()
+  {
+    printArray(Arduino.list());  //lists USB ports, find the one connected to Arduino
+    jack = new Arduino(this, Arduino.list()[0], 57600);  //may need to change index value based on printed array
+    size(1000, 500);
+    background(102);  //gray background
+    //strokeJoin(ROUND); 
+    jack.pinMode(sensorPin,Arduino.INPUT);
+    data = new int[width];  //create array of size: width
+    data[i] = 0;
+    i++;
+  }
+
+  void draw()
+  {
+    // pulse ox signal line
+    stroke(#ff0000);  //singal color = red
+    strokeWeight(1);
+    int rawNoAmp = jack.analogRead(sensorPin);
+    float scaledNoAmp = map(rawNoAmp, 0, 1023, 0, height);  //might have to change range
+    data [i] = (int)scaledNoAmp;
+    println(data[i]);
+    line(i-1, height - data[i-1], i, height - data[i]);  //draw signal line from previous point to current point
+
+
+    // creating a vertical red line to show where current data is
+    stroke(102);
+    strokeWeight(1);
+    line(i, 0, i, height);  //erase previous red line
+    i++;
+    stroke(#ff0000);
+    line(i, 0, i, height);  //show new red line
+
+
+    // when signal reaches end of screen, have signal restart at beginning
+    if(i == width)
+    {
+      data[0] = data[width-1];  //have last data point be first data point of new data
+      i = 1;
+      stroke(102);
+      line(0, 0, 0, height);
+    }
+  }
+  ```
