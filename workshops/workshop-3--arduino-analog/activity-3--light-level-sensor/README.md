@@ -1,14 +1,17 @@
 # [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 
-## Activity 3 - Light Level Sensor
+## Activity 3 - Thermometer
 
 ### Task:
-* Use a photoresistor to graph light levels in the room that you’re sitting in
-* Slowly cover the photodiode with your hand to change the graph.
-* Graph using Serial Plotter
+* Use a thermistor to measure temperature
+  - Pinch and release the thermistor to see temperature changes
+  - Graph using Serial Plotter
+  - Alternatively, use photoresistor to measure brightness
 
 ### Circuit:
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-3--light-level-sensor/circuit.png)
+
+Thermistor can be substituted with photoresistor
 
 ### Code:
 ```c++
