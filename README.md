@@ -1,7 +1,7 @@
 # BMES Build Team
 
-* [Syllabus](https://bmesbuildteamucla.github.io/Syllabus)
-* [Schedule](https://bmesbuildteamucla.github.io/Schedule)
+* [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
+* [Schedule](https://bmesbuildteamucla.github.io/schedule)
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
