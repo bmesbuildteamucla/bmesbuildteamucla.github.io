@@ -1,11 +1,11 @@
 # Workshop 4 - Processing
 
-Install [Processing](https://processing.org/download/)
+Install [Processing](https://processing.org/download/){:target="_blank"}
 
 ## Activities:
 
 #### Activity 1 - Tutorials
-* Go on the [Processing Tutorials](https://processing.org/tutorials/) website and go through the first four tutorials:
+* Go on the [Processing Tutorials](https://processing.org/tutorials/){:target="_blank"} website and go through the first four tutorials:
 
   - Getting Started
   - Processing Overview
