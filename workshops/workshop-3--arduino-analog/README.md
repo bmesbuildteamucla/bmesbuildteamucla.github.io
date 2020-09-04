@@ -33,6 +33,7 @@
 * Use a thermistor to measure temperature
   - Pinch and release the thermistor to see temperature changes
   - Graph using Serial Plotter
+  - Alternatively, use photoresistor to measure brightness
 
 
 #### Activity 4 - Night Light
