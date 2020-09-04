@@ -37,7 +37,7 @@
 
 
 #### Activity 4 - Transimpedance Amplifier
-* Set up a transimpedance amplifier circuit wiht an OP905 photodiode as the current source
+* Set up a transimpedance amplifier circuit with an OP905 photodiode as the current source
 
     ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
