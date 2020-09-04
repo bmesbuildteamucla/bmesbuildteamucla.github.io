@@ -1,4 +1,5 @@
-# [Workshop 2](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino)
+# [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
+
 ## Activity 6 - LED Blinking
 
 ### Task:
@@ -6,7 +7,8 @@ Have two LEDs blink at different rates.
 Have one LED blink at a randomly created rate, and the other blink half as fast
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/Activity%206%20-%20LED%20Blinking/Activity%206.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking/circuit.png)
+
 ### Code:
 ```c++
 int pin1 = 2;
