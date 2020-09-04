@@ -3,10 +3,15 @@
 ## Activity 1 - Piezo Buzzer
 
 ### Task:
-Arduino functions to use to operate the buzzer:
-* tone, noTone
-* Control pitches using potentiometer/photoresistor
-* Play a scale 
+* Make a theremin (musical instrument) using a photoresistor and piezo buzzer
+  - Alternatively, use a potentiometer to control pitch
+* Play a scale
+* Relevant functions
+  ```c++
+  tone(pin, frequency);
+  tone(pin, frequency, duration);
+  noTone(pin);
+  ```
 
 ### Circuit:
 
