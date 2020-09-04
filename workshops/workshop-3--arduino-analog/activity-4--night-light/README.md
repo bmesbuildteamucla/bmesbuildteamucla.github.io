@@ -3,7 +3,7 @@
 ## Activity 4 - Night Light
 
 ### Task:
-* Make a night light using a photoresistor and an LED. (The LED turns on when the room is dark.) 
+* Make a night light using a photoresistor and an LED (The LED turns on when the room is dark) 
 
 ### Circuit:
 
