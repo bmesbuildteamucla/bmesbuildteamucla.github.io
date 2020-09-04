@@ -27,9 +27,9 @@
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
 
 ## Solutions:
-* [Activity 1 - Piezo Buzzer](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity1)
-* [Activity 2 - Servo motors + Joystick](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity2)
-* [Activity 3 - Light Level Sensor](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity3)
-* [Activity 4 -  Night Light](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/Activity4)
-* [Challenge Activity - Reaction Time Test](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/ReactionTimeTest)
-* [Challenge Activity - Dino Run](https://bmesbuildteamucla.github.io/Workshops/Workshop%203%20-%20Arduino%20Analog/DinoRun)
+* [Activity 1 - Piezo Buzzer](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-1--piezo-buzzer)
+* [Activity 2 - Servo motors + Joystick](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-2--servo-motor)
+* [Activity 3 - Light Level Sensor](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-3--light-level-sensor)
+* [Activity 4 -  Night Light](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-4--night-light)
+* [Challenge Activity - Reaction Time Test](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-1--dino-run)
+* [Challenge Activity - Dino Run](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-2--reaction-time-test)
