@@ -33,7 +33,7 @@ int differenceObstacle;
 int differenceBackground;
 
 void setup() {
-  myservo.attach(8);                                                    //Operate the Servo using pin 8.
+  myservo.attach(8);                                                    //Operate the Servo using pin 8
   myservo.write(0);                                                     //Write Servo to position 0
   Serial.begin(9600);
 
@@ -78,7 +78,7 @@ void setup() {
   Serial.println("Please enter tolerance level");                       //User inputs tolerance level, recommended to be at around 100.
   while (tolerance == 0) {                                              //The tolerance level is compared with the difference between the
     if (Serial.available() > 0) {                                       //photoresistors' current readings and the calibration data average.
-      tolerance = Serial.parseFloat();                                  //The tolerance is a float, so use Serial.parsefloat() to collect user input
+      tolerance = Serial.parseFloat();                                  //The tolerance is a float, so use Serial.parseFloat() to collect user input.
     }
 
   }
@@ -86,7 +86,7 @@ void setup() {
   Serial.print("Tolerance: ");
   Serial.println(tolerance);
 
-  delay(2000);                                                          //Gives user time to read output information.
+  delay(2000);                                                          //Gives user time to read output information
   
 }
 
@@ -110,7 +110,7 @@ void loop() {
   Serial.print(" ");
   Serial.println(differenceObstacle);
   
-  if (watch > 60 &&                                                     //watch is used to make sure the Servo is not overloaded with commands 
+  if (watch > 60 &&                                                     //watch is used to make sure the Servo is not overloaded with commands. 
   (differenceObstacle >= tolerance                                      //Compares difference in photoresistor readings with the inputted
   ||differenceBackground >= tolerance)) {                               //tolerance level.
     jump();                                       
