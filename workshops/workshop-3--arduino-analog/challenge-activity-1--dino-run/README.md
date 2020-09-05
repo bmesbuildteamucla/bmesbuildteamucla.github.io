@@ -5,10 +5,18 @@
 ### Task:
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
 [YouTube Video](https://youtu.be/2HEF2_I-2KA)
+* To access the game, use this link in your Chrome web browser: chrome://dino/
 
 ### Circuit:
 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-1--dino-run/Dino%20Circuit.PNG)
+
+### Notes:
+* Use 10 kiloOhm resistors in series with the photoresistors for better sensitivity.
+* Position one of the photoresistors at the level of the lowest-flying bird and the other at level of the middle-height bird.
+* This design had a high score of 777 points! Adding a third photoresistor could allow for progression past the night phase of the game.
+* The Servo may affect your photoresistor readings.
+
 
 ### Code:
 ```c++
