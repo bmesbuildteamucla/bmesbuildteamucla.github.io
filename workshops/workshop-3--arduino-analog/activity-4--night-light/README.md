@@ -7,7 +7,7 @@
 
 ### Circuit:
 
-![Circuit]()
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-4--night-light/Circuit%204.PNG)
 
 ### Code:
 ```c++
