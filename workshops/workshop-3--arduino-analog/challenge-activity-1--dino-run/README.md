@@ -8,7 +8,7 @@
 
 ### Circuit:
 
-
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-1--dino-run/Dino%20Circuit.PNG)
 
 ### Code:
 ```c++
