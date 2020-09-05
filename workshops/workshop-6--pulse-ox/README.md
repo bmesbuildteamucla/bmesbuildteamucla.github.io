@@ -14,11 +14,11 @@
       <details>
       <summary>What do two varaibles let us do? (Think before opening)</summary>
       <br>
-      - First, two variables (x & y) allow us to plot a curve on a 2D screen.
+      - First, two variables (x & y) allow us to plot a curve on a 2D screen
       <br>
-      - Second, our pulse ox needs to track two variables: time(x) and blood oxygenation(y).
+      - Second, our pulse ox needs to track two variables: time(x) and blood oxygenation(y)
       <br>
-      - Arrays allow us to efficiently measure and display the data.
+      - Arrays allow us to efficiently store and display data
       <br>
       </details>
   </details>
@@ -99,7 +99,7 @@
   void draw()
   {
     // pulse ox signal line
-    stroke(#ff0000);  //singal color = red
+    stroke(#ff0000);  //signal color = red
     strokeWeight(1);
     int rawNoAmp = jack.analogRead(sensorPin);
     float scaledNoAmp = map(rawNoAmp, 0, 1023, 0, height);  //might have to change range
