@@ -19,7 +19,32 @@
 ### Circuit: 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-2--servo-motor/W3A2_Circuit.JPG)
 
-### Code:
+### Code to Automatically Sweep Servo:
+```c++
+#include<Servo.h>
+Servo Right;
+bool current = false;
+int rotation = 0;
+void setup() {
+  Right.attach(A5);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+   for (int i = 0; i <= 180 ; i++)
+   {
+      if (rotation%2==0)
+        {Right.write(i);}
+      else
+        {Right.write(180-i);}
+      delay(10);
+   }
+   rotation++;
+}
+```
+
+### Code to Manually Control Servo with Joystick:
 ```c++
 #include<Servo.h>
 Servo Right;
@@ -27,7 +52,6 @@ int joyY = A0; // analog pin used to connect the Y - axis of Joystick
 int y; // variables to read the values from the analog pins
 
 void setup() {
-  // put your setup code here, to run once:
   Right.attach(A5);
   Serial.begin(9600);
 }
