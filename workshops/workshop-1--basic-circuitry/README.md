@@ -49,7 +49,7 @@
 <!--- add '<!---' after this line to hide solutions -->
 
 
-<!-- ## Solutions:
+<!-- ## Solutions: hi
 #### Activity 4 - LEDs and Switches
 - Green LED circuit is completed when button is pressed, so LED turns on
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
