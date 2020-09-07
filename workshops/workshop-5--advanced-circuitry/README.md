@@ -61,6 +61,10 @@
   - Compare with using each filter by itself
 
 
+<!--
+hide solutions
+-->
+
 ## Solutions:
 #### Activity 3 - Non-inverting Amplifier
 * Circuit:
