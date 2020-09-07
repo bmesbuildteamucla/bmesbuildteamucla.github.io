@@ -48,7 +48,7 @@
 
 <!--- add '<!---' after this line to hide solutions -->
 
-<!--
+<!---
 ## Solutions:
 #### Activity 4 - LEDs and Switches
 <br>
