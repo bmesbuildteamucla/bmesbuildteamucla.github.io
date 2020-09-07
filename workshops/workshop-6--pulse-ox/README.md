@@ -72,6 +72,10 @@
   - Can you make it reset or scroll?
 
 
+<!--
+hide solutions
+-->
+
 ## Solutions:
 * Example Processing code:
 
