@@ -44,6 +44,10 @@
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
 
+
+<!--- add '<!---' after this line to hide solutions -->
+<!--
+
 ## Solutions:
 * [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
 * [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
