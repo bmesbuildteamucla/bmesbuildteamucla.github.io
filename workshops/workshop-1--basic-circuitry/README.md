@@ -47,9 +47,10 @@
 
 
 <!--- add '<!---' after this line to hide solutions -->
+hi
 
-
-<!-- ## Solutions:
+<!--
+## Solutions:
 #### Activity 4 - LEDs and Switches
 
 - Green LED circuit is completed when button is pressed, so LED turns on
