@@ -46,10 +46,10 @@
 * Build a circuit with a switch and an LED where the LED turns on when the switch is pressed. Then try to make a circuit where the LED turns off when the switch is pressed.
 
 
-<!--- add '<!---' after this line to hide solutions -->
-hi
-
 <!--
+hide solutions
+-->
+
 ## Solutions:
 #### Activity 4 - LEDs and Switches
 
@@ -57,4 +57,3 @@ hi
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
--->
