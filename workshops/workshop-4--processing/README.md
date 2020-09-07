@@ -115,6 +115,11 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
       ```
     - This initializes your `myArduino` object and links your Arduino to Processing
 
+
+<!--
+hide solutions
+-->
+
 ## Solutions:
 #### Activity 4 - Programming your Arduino using Processing
 * Example code:
