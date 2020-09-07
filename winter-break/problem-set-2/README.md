@@ -55,6 +55,11 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
 
+
+<!--
+hide solutions
+-->
+
 ## Solutions:
 * [Problem 1 - Traffic Light]()
 * [Problem 2 - LED Game]()
