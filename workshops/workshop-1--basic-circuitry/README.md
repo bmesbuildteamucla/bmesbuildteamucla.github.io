@@ -46,7 +46,7 @@
 * Build a circuit with a switch and an LED where the LED turns on when the switch is pressed. Then try to make a circuit where the LED turns off when the switch is pressed.
 
 
-
+<!--- to hide solutions -->
 ## Solutions:
 #### Activity 4 - LEDs and Switches
 
