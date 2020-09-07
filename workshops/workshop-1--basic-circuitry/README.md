@@ -47,10 +47,11 @@
 
 
 <!--- add '<!---' after this line to hide solutions -->
-hello
-<!--
+hi
+{::comment}
 ## Solutions:
 #### Activity 4 - LEDs and Switches
-<br>- Green LED circuit is completed when button is pressed, so LED turns on
+- Green LED circuit is completed when button is pressed, so LED turns on
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
-<br>![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
+{:/comment}
