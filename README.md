@@ -1,4 +1,4 @@
-![Logo](https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png)
+![](https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png = 250x250)
 # BMES Build Team
 
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
