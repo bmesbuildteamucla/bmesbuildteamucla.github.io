@@ -1,4 +1,4 @@
-<img src="https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png" width="50"># BMES Build Team
+# BMES Build Team <img src="https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png" width="50">
 
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
