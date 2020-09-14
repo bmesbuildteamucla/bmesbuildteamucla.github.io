@@ -6,7 +6,7 @@
 * Use an LED and a piezo buzzer to make a fun game! Have the LED or piezo buzzer turn on randomly so that the user has to press the button as fast as possible to turn it off. Have the reaction speed be printed in the serial monitor each time. See who has the fastest reaction times :)
 
 ### Circuit:
-![Circuit](hhtps://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-2--reaction-time-test/W3ReactionTime_Circuit.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/challenge-activity-2--reaction-time-test/W3ReactionTime_Circuit.png)
 ### Code:
 ```c++
 // Reaction time experiment of one LED. 
