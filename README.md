@@ -1,4 +1,4 @@
-# UCLA BMES Build Team 
+
 
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
