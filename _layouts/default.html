@@ -10,15 +10,22 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      <div class="image text-right">
-        <img src="https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png" width="125">
-      </div>
+      {% endif %}
+      
+      {% if site.title and site.title == page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a><img src="https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png" width="125"></h1>
       {% endif %}
 
       {{ content }}
+      
+      
+      
+      <div class="image text-right">
+        <img src="https://bmesbuildteamucla.github.io/BMES_UCLA_Logo.png" width="125">
+      </div>
+      
 
       <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
         UCLA BMES Build Team
