@@ -1,2 +1,10 @@
 name: BMES Build Team
 title: BMES Build Team
+author:
+  name: Build Team Project Managers
+  email: bmes.build.team@gmail.com
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
