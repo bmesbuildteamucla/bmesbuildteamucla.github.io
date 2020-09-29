@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+  <li><a href="{{ "/" | absolute_url }}">HOME</a></li>
+  <li>SYLLABUS</li>
+</ul>
+
 # Syllabus
 
 BMES Build Team is a year-long project where underclassmen are tasked with building their own rudimentary biomedical device. We are a student-run program that works to develop basic engineering and design skills of students looking to work in the medical device industry.
