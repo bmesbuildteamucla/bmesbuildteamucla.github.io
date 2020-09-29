@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+	<li><a href="{{ "/" | absolute_url }}">HOME</a></li>
+	<li>WORKSHOP 1 - BASIC CIRCUITRY</li>
+</ul>
+
 # Workshop 1 - Basic Circuitry
 
 ## Activities:
