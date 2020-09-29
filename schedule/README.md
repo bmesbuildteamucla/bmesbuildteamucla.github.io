@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+  <li><a href="{{ "/" | absolute_url }}">HOME</a></li>
+  <li>SCHEDULE</li>
+</ul>
+
 # Schedule
 
 ### Fall:
