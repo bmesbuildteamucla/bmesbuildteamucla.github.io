@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+  <li><a href="{{ "/" | absolute_url }}">HOME</a></li>
+  <li>WORKSHOP 2 - CODING AND ARDUINO</li>
+</ul>
+
 # Workshop 2 - Coding and Arduino
 
 ## Activities:
