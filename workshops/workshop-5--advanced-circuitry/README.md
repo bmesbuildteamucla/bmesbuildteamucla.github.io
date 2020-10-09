@@ -64,7 +64,7 @@
 <!--
 hide solutions
 -->
-
+<!--
 ## Solutions:
 #### Activity 3 - Non-inverting Amplifier
 * Circuit:
@@ -105,3 +105,4 @@ hide solutions
       Serial.println(analogRead(A2));
     }
     ```
+-->
