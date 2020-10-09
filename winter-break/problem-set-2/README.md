@@ -59,10 +59,11 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 <!--
 hide solutions
 -->
-
+<!--
 ## Solutions:
 * [Problem 1 - Traffic Light]()
 * [Problem 2 - LED Game]()
 * [Problem 3 - Save Energy...Save the World]()
 * [Problem 4 - Newton’s Luminescent Cradle]()
 * [Problem 5 - Morse Code](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202/Problem%205%20-%20Morse%20Code/README.md)
+-->
