@@ -55,6 +55,7 @@ hide solutions
 -->
 
 ## Solutions:
+<!--
 * [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
 * [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
 * [Activity 3 - LED Button](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-3--LED-button)
@@ -63,3 +64,4 @@ hide solutions
 * [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--three-LEDs)
 * [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code)
+-->
