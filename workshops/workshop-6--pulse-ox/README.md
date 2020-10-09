@@ -75,7 +75,7 @@
 <!--
 hide solutions
 -->
-
+<!--
 ## Solutions:
 * Example Processing code:
 
@@ -131,3 +131,4 @@ hide solutions
     }
   }
   ```
+-->
