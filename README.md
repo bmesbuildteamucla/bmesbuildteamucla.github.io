@@ -1,3 +1,4 @@
+* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09)
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
 
