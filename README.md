@@ -1,6 +1,8 @@
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09)
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
+* [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8)
+* [When2Meet Fall Quarter](https://www.when2meet.com/?10223251-JcKF9)
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
@@ -32,3 +34,5 @@
 * [Processing](https://processing.org/){:target="_blank"}
 * [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
 * [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
+* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3)
+* [Tinkercad](https://www.tinkercad.com/)
