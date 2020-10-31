@@ -1,13 +1,15 @@
-## Important Links:
-* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09)
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
+
+## Important Links:
+* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09)
 * [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8)
 * [When2Meet Fall Quarter](https://www.when2meet.com/?10223251-JcKF9)
 * [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69)
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino][](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
 * [Module 3 - Problem Set Review][](https://docs.google.com/presentation/d/1ruprufDIADgE5s4wj5cUONprI1OkiPrRR8QqiEbsdHs/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Arduino Analog, Blood, Spectroscopy][](https://docs.google.com/presentation/d/1QuGma4E4DSfbu75ah3X2IF6ZjzAduQZ12NcyM6rkC1Y/edit?usp=sharing){:target="_blank"}
