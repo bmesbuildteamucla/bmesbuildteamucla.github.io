@@ -10,6 +10,7 @@
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino][](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
 * [Module 3 - Problem Set Review][](https://docs.google.com/presentation/d/1ruprufDIADgE5s4wj5cUONprI1OkiPrRR8QqiEbsdHs/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Arduino Analog, Blood, Spectroscopy][](https://docs.google.com/presentation/d/1QuGma4E4DSfbu75ah3X2IF6ZjzAduQZ12NcyM6rkC1Y/edit?usp=sharing){:target="_blank"}
@@ -24,9 +25,6 @@
 * [Workshop 4 - Processing][](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
 * [Workshop 5 - Advanced Circuitry][](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
 * [Workshop 6 - Pulse Ox][](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
-
-## Solutions:
-* [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing)
 
 ## Winter Break:
 * [Problem Set 1][](https://bmesbuildteamucla.github.io/winter-break/problem-set-1)
