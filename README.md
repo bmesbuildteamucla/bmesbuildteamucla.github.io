@@ -2,10 +2,10 @@
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
 
 ## Important Links:
-* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09)
-* [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8)
-* [When2Meet Fall Quarter](https://www.when2meet.com/?10223251-JcKF9)
-* [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69)
+* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
+* [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
+* [When2Meet Fall Quarter](https://www.when2meet.com/?10223251-JcKF9){:target="_blank"}
+* [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69){:target="_blank"}
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
