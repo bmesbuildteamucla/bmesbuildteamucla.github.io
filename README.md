@@ -19,6 +19,9 @@
 * [Workshop 5 - Advanced Circuitry][](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
 * [Workshop 6 - Pulse Ox][](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
 
+## Solutions:
+* [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing)
+
 ## Winter Break:
 * [Problem Set 1][](https://bmesbuildteamucla.github.io/winter-break/problem-set-1)
 * [Problem Set 2][](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
