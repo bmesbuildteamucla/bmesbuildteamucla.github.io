@@ -19,7 +19,7 @@
 * [Module 7 - PCB Design][](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
 
 ## Workshops:
-* [Workshop 1 - Basic Circuitry][](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry)
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry)
 * [Workshop 2 - Coding and Arduino][](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
 * [Workshop 3 - Arduino Analog][](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 * [Workshop 4 - Processing][](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
