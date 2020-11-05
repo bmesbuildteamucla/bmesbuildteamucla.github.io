@@ -37,8 +37,8 @@
 
 #### Activity 3 - LEDs and Data Sheets
 * Use a data sheet to find the optimal current for your LED and set up an appropriate circuit.
-* Determine mathematically how increasing the resistance of the resistor will affect the power dissipated (P=IV) across the LED. Prove your conclusion by increasing the resistance of the resistor and observe the brightness of the LED.
-* Set up LEDs in parallel and series with each other. Determine the differences in the brightness and give a reason for your observation with what we learned in the module.
+* Determine mathematically how increasing the resistance of the resistor will affect the current flowing across the LED (the brightness of an LED is proportional to the current flowing throught it). Prove your conclusion by increasing the resistance of the resistor and observe the brightness of the LED.
+* Set up LEDs (each with a resistor) in parallel and series with each other. Determine the differences in the brightness and give a reason for your observation with what we learned in the module.
 
 	- Relevant Equations:
 
