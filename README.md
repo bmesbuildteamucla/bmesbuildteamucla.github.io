@@ -13,6 +13,9 @@
   - [Module 1 Activities](https://docs.google.com/presentation/d/1sdVAE428jhExA34LEI-RajooUPxbDcmtBzIdQSty3cg/edit?usp=sharing){:target="_blank"}
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino][](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Recording](){:target="_blank"}
+  - [Module 2 Activities][](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Activity Solutions][](){:target="_blank"}
 * [Module 3 - Problem Set Review][](https://docs.google.com/presentation/d/1ruprufDIADgE5s4wj5cUONprI1OkiPrRR8QqiEbsdHs/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Arduino Analog, Blood, Spectroscopy][](https://docs.google.com/presentation/d/1QuGma4E4DSfbu75ah3X2IF6ZjzAduQZ12NcyM6rkC1Y/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry][](https://docs.google.com/presentation/d/1vwsfHi2Pflbith8Sc7Omh9QFmZqjTS_uf7b7TmOnddM/edit?usp=sharing){:target="_blank"}
