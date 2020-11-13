@@ -12,7 +12,7 @@
   - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
   - [Module 1 Activities](https://docs.google.com/presentation/d/1sdVAE428jhExA34LEI-RajooUPxbDcmtBzIdQSty3cg/edit?usp=sharing){:target="_blank"}
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
-* [Module 2 - Intro to Coding and Arduino][](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording][](){:target="_blank"} 
   - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
   - [Module 2 Activity Solutions][](){:target="_blank"}
