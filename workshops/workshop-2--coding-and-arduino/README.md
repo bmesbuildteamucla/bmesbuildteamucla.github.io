@@ -14,9 +14,9 @@
 * Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
 
 #### Activity 3 - LED Button
-*LED lights up when the button is pressed and turns off when the button is not pressed
-*Use the Arduino
-*Button and LED should not be in series
+* LED lights up when the button is pressed and turns off when the button is not pressed
+* Use the Arduino
+* Button and LED should not be in series
 
 #### Activity 4 - LED Switch
 * Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
