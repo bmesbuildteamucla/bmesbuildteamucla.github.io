@@ -7,7 +7,7 @@ Have two LEDs blink at different rates.
 Have one LED blink at a randomly created rate, and the other blink half as fast
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking/circuit.png)
+![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking/W2A6.png)
 
 ### Code:
 ```c++
