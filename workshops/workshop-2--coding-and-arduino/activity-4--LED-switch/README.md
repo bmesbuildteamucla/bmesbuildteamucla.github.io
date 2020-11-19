@@ -14,7 +14,7 @@ int LED = 2;
 int Button = 7; 
 bool on = false;
 int previous = 0;
-
+int current = 0;
 void setup() 
 {  
  pinMode (LED, OUTPUT); 	// initialize pin1 as output
@@ -25,7 +25,7 @@ void setup()
 void loop() 
 {
   
-  int current = digitalRead(Button);
+  current = digitalRead(Button);
   // check for button press (to account for holding)
   if (current != previous)				
   {
