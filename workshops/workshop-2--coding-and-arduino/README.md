@@ -8,10 +8,10 @@
 ## Activities:
 
 #### Activity 1 - LED Time
-* Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay(). Make a variable: int time)
+* Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay().)
 
 #### Activity 2 - LED Flashing
-* Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times.
+* Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times. (Note: Use delay().)
 
 #### Activity 3 - LED Button
 * LED lights up when the button is pressed and turns off when the button is not pressed
@@ -19,7 +19,7 @@
 * Button and LED should not be in series
 
 #### Activity 4 - LED Switch
-* Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off).
+* Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off). Refer to Module 2 slides for the button circuit schematic.
 
 #### Activity 5 - LED Three Presses
 * Have an LED toggle on/off after three clicks of a button.
