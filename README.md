@@ -1,6 +1,12 @@
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
 * [Schedule](https://bmesbuildteamucla.github.io/schedule)
 
+## Announcements:
+
+* We will be posting the Winter Break Problem Set at the beginning of Week 10, and it will be due at the start of Winter Quarter 2021.
+* Please fill out the [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScdA_MwwFdYFWXcYHg2JFwENHtVAY6paVgf7XNj6AE71UXcXA/viewform) so we can continue to make improvements to the Team.
+* Thanks for a great Fall Quarter! We hope that finals go well for you.
+
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
 * [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
