@@ -54,7 +54,7 @@
 <!--
 hide solutions
 -->
-<!--
+
 ## Solutions:
 #### Activity 4 - LEDs and Switches
 
@@ -62,4 +62,3 @@ hide solutions
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
--->
