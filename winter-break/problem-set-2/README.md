@@ -6,6 +6,15 @@ These five problems are more complex than the ones we did in workshop and will h
 
 Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.build.team@gmail.com](mailto:bmes.build.team@gmail.com) with the TinkerCAD share link (found at the top right of the page) for each problem. Please make your circuits organized enough so we can see the connections.
 
+* *Hint for all problems: If you are using an if statement to detect button presses, you can add this segment of code at the end of your conditional statement to prevent button double presses:*
+  
+	```c++
+	while (digitalRead(buttonPin) == HIGH)
+	{
+	    // empty while loop that does nothing while button is pressed so that code above only runs once
+	}
+	```
+
 ## Problems:
 
 #### Problem 1 - Traffic Light
