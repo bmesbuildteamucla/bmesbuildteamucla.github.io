@@ -3,9 +3,9 @@
 
 ## Announcements:
 
-* We have posted Winter Break Problem Sets 1 & 2 below, and they will be due at the start of Winter Quarter 2021.
+* We have posted the Winter Break Problem Set below, and it will be due at the start of Winter Quarter 2021.
 * Please fill out this [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScdA_MwwFdYFWXcYHg2JFwENHtVAY6paVgf7XNj6AE71UXcXA/viewform) so we can continue to make improvements to the Team.
-* Thanks for a great Fall Quarter! We hope that finals go well for you. "Can we fix it? Yes we can!"
+* Thanks for a great Fall Quarter! We hope that finals went well for you. "Can we fix it? Yes we can!"
 
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
