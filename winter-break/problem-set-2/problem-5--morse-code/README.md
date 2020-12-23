@@ -6,7 +6,7 @@ Write a program that lets you to input a word or sentence into the serial monito
 
 *Hint: Read in inputted string and cycle through it using loops*
 
-*Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
+*Optional: Print out Morse code in Serial Monitor*
 
 ##### Morse code array:
  ```c
@@ -32,7 +32,6 @@ String incomingString; // for incoming serial data
 String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",     // A-I
                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
                     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};         // S-Z
-int buzzer = 9;
   
 void setup()
 {
@@ -57,18 +56,14 @@ void loop()
         {
           digitalWrite(13, HIGH);
           Serial.print(".");
-          tone(buzzer, 392);
           delay(200);
-          noTone(buzzer);
           digitalWrite(13, LOW);
         }
         else                                                                         // dash LED, sound, print
         {
           digitalWrite(13, HIGH);
           Serial.print("-");
-          tone(buzzer, 392);
           delay(600);
-          noTone(buzzer);
           digitalWrite(13, LOW);
         }
         delay(200);                             // time between dots or dashes
