@@ -1,6 +1,6 @@
 # Winter Break Problem Set
 
-Before you start this problem set, please make sure that you can successfully complete all of the activities from [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/Workshops/Workshop%202%20-%20Coding%20and%20Arduino/README.md). The solutions to those activities can be found at the bottom of the page for your reference. Even if you are super confident about these activities, please read through the solutions and make sure you understand everything.
+Before you start this problem set, please make sure that you can successfully complete all of the activities from [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/). The solutions to those activities can be found at the bottom of the page for your reference. Even if you are super confident about these activities, please read through the solutions and make sure you understand everything.
 
 These five problems are more complex than the ones we did in workshop and will help you practice your skills. Try your best to use your current knowledge to solve them. Do not hesitate to message any of us for help.
 
