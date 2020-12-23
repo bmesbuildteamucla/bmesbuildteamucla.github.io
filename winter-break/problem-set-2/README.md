@@ -49,7 +49,7 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 * Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
 
 	- *Hint: Read in inputted string and cycle through it using loops*
-	- *Optional: Print out Morse code in Serial Monitor and produce Morse code sound using piezo buzzer*
+	- *Optional: Print out Morse code in Serial Monitor*
   - Try your best with this problem, but do not worry if you can't finish it
 	- Morse code array:
 	```c++
