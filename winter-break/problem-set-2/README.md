@@ -6,6 +6,8 @@ These five problems are more complex than the ones we did in workshop and will h
 
 Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.build.team@gmail.com](mailto:bmes.build.team@gmail.com) with the TinkerCAD share link (found at the top right of the page) for each problem. Please make your circuits organized enough so we can see the connections.
 
+> If the share button does not show up on the TinkerCAD circuit page, go back to the TinkerCAD circuits dashboard and click on the gear next to the particular circuit. Select properties and change the privacy setting to public. After saving those changes, go back to the dashboard and click on that circuit. Under the image and above the green strip should be a share link.
+
 * *Hint for all problems: If you are using an if statement to detect button presses, you can add this segment of code at the end of your conditional statement to prevent button double presses:*
   
 	```c++
