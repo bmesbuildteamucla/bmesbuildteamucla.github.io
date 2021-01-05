@@ -14,7 +14,7 @@
 int LEDPin = 13;
 int switchPin = 7;
 unsigned long startTime = 0;
-unsigned long intervalTime = 0;
+unsigned long elapsedTime = 0;
 bool run = true;
 
 void setup()
@@ -33,27 +33,27 @@ void loop()
       // do nothing while button is still pressed so that code only runs once
     }
     digitalWrite(LEDPin, HIGH);
-    startTime = millis();
+    startTime = millis();                       // set startTime to time when button is pressed
     while (intervalTime < 20000)
     {
-      intervalTime = millis() - startTime;
-      if (digitalRead(switchPin) == HIGH)
+      elapsedTime = millis() - startTime;       // how long the light has been on
+      if (digitalRead(switchPin) == HIGH)       // if button is pressed again, light turns off
       {
         digitalWrite(LEDPin, LOW);
         Serial.print("The LED was on for ");
         Serial.print(intervalTime/1000.);
         Serial.println(" seconds.");
-        run = false;
-        break;
+        run = false;                            // do not run next if statement
+        break;                                  // exit while loop
       }
     }
-    if (run == true)
+    if (run == true)                            // if light is on for 20 seconds
     {
       digitalWrite(LEDPin, LOW);
       Serial.println("The LED was on for 20 seconds.");
     }
-    run = true;
-    intervalTime = 0;
+    run = true;                                 // reset run to true for next cycle
+    elapsedTime = 0;                            // reset elapsedTime to 0
     while (digitalRead(switchPin) == HIGH)
     {
       // do nothing while button is still pressed so that code only runs once
