@@ -118,6 +118,9 @@ void loop()
 
 ### Optional Challenge:
 ```c
+//Note that the following code uses different pins for the
+//LEDs and buttons than is pictured above.
+
 int switchPin = 13;
 int startTime;
 double sineTime;
