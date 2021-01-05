@@ -17,7 +17,7 @@ int red = 13;
 int yellow = 7;
 int green = 2;
 int buttonPin = 8;
-int previousState = LOW;
+int previousState = LOW;                 // LOW = red, HIGH = green
 
 void setup()
 {
