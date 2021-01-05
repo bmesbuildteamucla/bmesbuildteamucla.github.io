@@ -9,7 +9,7 @@
   - *Hint: Use arrays!!*
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game/circuit.p)
+![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game/circuit.png)
 
 ### Code:
 ```c
