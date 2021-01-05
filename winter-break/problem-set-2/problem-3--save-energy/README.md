@@ -10,3 +10,54 @@
 ![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-3--save-energy/circuit.png)
 
 ### Code:
+```c
+int LEDPin = 13;
+int switchPin = 7;
+unsigned long startTime = 0;
+unsigned long intervalTime = 0;
+bool run = true;
+
+void setup()
+{
+  pinMode(LEDPin, OUTPUT);
+  pinMode(switchPin, INPUT);
+  Serial.begin (9600);
+}
+
+void loop()
+{
+  if (digitalRead(switchPin) == HIGH)
+  {
+    while (digitalRead(switchPin) == HIGH)
+    {
+      // do nothing while button is still pressed so that code only runs once
+    }
+    digitalWrite(LEDPin, HIGH);
+    startTime = millis();
+    while (intervalTime < 20000)
+    {
+      intervalTime = millis() - startTime;
+      if (digitalRead(switchPin) == HIGH)
+      {
+        digitalWrite(LEDPin, LOW);
+        Serial.print("The LED was on for ");
+        Serial.print(intervalTime/1000.);
+        Serial.println(" seconds.");
+        run = false;
+        break;
+      }
+    }
+    if (run == true)
+    {
+      digitalWrite(LEDPin, LOW);
+      Serial.println("The LED was on for 20 seconds.");
+    }
+    run = true;
+    intervalTime = 0;
+    while (digitalRead(switchPin) == HIGH)
+    {
+      // do nothing while button is still pressed so that code only runs once
+    }
+  }
+}
+```
