@@ -12,3 +12,45 @@
 ![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game/circuit.png)
 
 ### Code:
+```c
+int LED [7] = {5, 1, 2, 3, 4, 5, 1};
+int buttons [7] = {10, 6, 7, 8, 9, 10, 6};
+
+void setup()
+{
+  for (int i = 1; i < 6; i++)
+    pinMode(LED[i], OUTPUT);
+  
+  for (int i = 1; i < 6; i++)
+    pinMode(buttons[i], INPUT);
+}
+
+void loop()
+{
+  for (int i = 1; i < 6; i++)
+  {
+    if (digitalRead(buttons[i]))
+    {      
+      if(digitalRead(LED[i]))                 // LED for button pressed
+        digitalWrite(LED[i], LOW);
+      else
+        digitalWrite(LED[i], HIGH);
+      
+      if(digitalRead(LED[i - 1]))             // LED left of button pressed
+        digitalWrite(LED[i - 1], LOW);
+      else
+        digitalWrite(LED[i - 1], HIGH);
+      
+      if(digitalRead(LED[i + 1]))             // LED right of button pressed
+        digitalWrite(LED[i + 1], LOW);
+      else
+        digitalWrite(LED[i + 1], HIGH);
+      
+      while (digitalRead(buttonPin) == HIGH)
+      {
+        // do nothing while button is still pressed so that code only runs once
+      }
+    }
+  }
+}
+```
