@@ -14,3 +14,54 @@
 ![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-4--newton's-cradle/circuit.png)
 
 ### Code:
+```c
+
+```
+
+
+
+
+
+
+
+
+### Optional Challenge:
+```c
+int switchPin = 13;
+int startTime;
+double sineTime;
+int floorTime;
+int prev;
+
+void setup()
+{
+  for (int i = 1; i < 6; i++)
+    pinMode(i, OUTPUT);
+  pinMode(switchPin, INPUT);
+  digitalWrite(1, HIGH);
+}
+
+void loop()
+{
+  if (digitalRead (switchPin) == HIGH)
+  {
+    while(digitalRead(switchPin) == HIGH)
+    {
+      // do nothing while button is still pressed so that code only runs once
+    }
+    startTime = millis();
+    while (millis() - startTime < 10000)
+    {
+      int t = millis()- startTime;
+      sineTime = 2.49 * sin(10000/(pow((t/3500)+10.05, 2))) + 3.5;
+      floorTime = floor(sineTime);
+      digitalWrite (floorTime, HIGH);
+      if (floorTime!= prev)
+      {
+        digitalWrite (prev, LOW);
+      }
+      prev = floorTime;
+    }
+  }
+}
+```
