@@ -57,6 +57,7 @@ void loop()
 
 ### Note:
 * Three if..else statements can be replaced by the following for loop:
+
 ```c
 for (int j = -1; j < 2; j++)
 {
