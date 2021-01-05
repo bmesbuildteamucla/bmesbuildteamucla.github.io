@@ -12,3 +12,45 @@
 ![Circuit](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light/circuit.png)
 
 ### Code:
+```c
+int red = 13;
+int yellow = 7;
+int green = 2;
+int buttonPin = 8;
+int previousState = LOW;
+
+void setup()
+{
+  pinMode(red, OUTPUT);
+  pinMode(yellow, OUTPUT);
+  pinMode(green, OUTPUT);
+  pinMode(buttonPin, INPUT);
+  digitalWrite(red, HIGH);
+}
+
+void loop()
+{
+  if (digitalRead(buttonPin) == HIGH)
+  {
+    if (previousState == LOW)            // if light is currently red
+    {
+      digitalWrite(red, LOW);
+      digitalWrite(green, HIGH);
+      previousState = HIGH;              // light is now green
+    }
+    else                                 // if light is currently green
+    {
+      digitalWrite(green, LOW);
+      digitalWrite(yellow, HIGH);
+      delay(5000);
+      digitalWrite(yellow, LOW);
+      digitalWrite(red, HIGH);
+      previousState = LOW;               // light is now red
+    }
+    while (digitalRead(buttonPin) == HIGH)
+    {
+      // do nothing while button is still pressed so that code only runs once
+    }
+  }
+}
+```
