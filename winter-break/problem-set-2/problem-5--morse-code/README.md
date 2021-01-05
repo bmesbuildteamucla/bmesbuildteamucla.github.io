@@ -32,51 +32,54 @@ String incomingString; // for incoming serial data
 String morse[26] = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..",     // A-I
                     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.",   // J-R 
                     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};         // S-Z
-  
+int LED = 13;
+int shortDelay = 200;
+int longDelay = 600;
+
 void setup()
 {
-  pinMode(13, OUTPUT);
-  Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
+  pinMode(LED, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop()
 {
   if (Serial.available() > 0)                                                        // send data only when you receive data
   {
-    incomingString = Serial.readString();                                            // read incoming string
-    Serial.println(incomingString);                                                  // print incoming string
+    incomingString = Serial.readString();                                            // read and store incoming string
+    Serial.println(incomingString);                                                  // print incoming string so you can see it
     int stringLength = incomingString.length();                                      // find length of incoming string
-    for (int stringIndex = 0; stringIndex < stringLength; stringIndex++)             // cycle through string
+    for (int stringIndex = 0; stringIndex < stringLength; stringIndex++)             // cycle through string (array of chars)
     {
       int morseInput = incomingString[stringIndex];                                  // identify letter
       int morseLength = morse[morseInput - 97].length();                             // find length of morse letter
       for (int morseIndex = 0; morseIndex < morseLength; morseIndex++)               // cycle through morse code
       {
-        if (morse[morseInput - 97][morseIndex] == '.')                               // dot LED, sound, print
+        if (morse[morseInput - 97][morseIndex] == '.')                               // dot LED & print
         {
-          digitalWrite(13, HIGH);
+          digitalWrite(LED, HIGH);
           Serial.print(".");
-          delay(200);
-          digitalWrite(13, LOW);
+          delay(shortDelay);
+          digitalWrite(LED, LOW);
         }
-        else                                                                         // dash LED, sound, print
+        else                                                                         // dash LED & print
         {
-          digitalWrite(13, HIGH);
+          digitalWrite(LED, HIGH);
           Serial.print("-");
-          delay(600);
-          digitalWrite(13, LOW);
+          delay(longDelay);
+          digitalWrite(LED, LOW);
         }
-        delay(200);                             // time between dots or dashes
+        delay(shortDelay);                      // time between dots or dashes
       }
-      if (morseInput == 32)                     // if space
+      if (morseInput == 32)                     // if space (won't run in for loop because length is 0)
       {
         Serial.print("/");                      // slash between words
-        delay(200);
+        delay(shortDelay);
       }
       Serial.print("  ");                       // space between letters
-      delay(600);
+      delay(longDelay);
     }
-    Serial.println();
+    Serial.println();                           // new line for next input
   }
 }
 ```
