@@ -15,7 +15,98 @@
 
 ### Code:
 ```c
+//Button and LED setup
+int led[5] = {9, 10, 11, 12, 13};
+int button[2] = {6, 7};
+int now[2] = {0, 0};
+int prev[2] = {0, 0};
 
+//Variables used to control the Newton's Cradle
+//oscillation of the LEDs
+bool end = false;
+int right = 0;
+int rateInitial = 800;
+int rate = rateInitial;
+int previousLED = 0;
+int currentLED = 0;
+
+void setup()
+{
+  //Assign pins as inputs/outputs
+  //Arrays make this step much easier
+  for (int i = 0; i < 5; i++) {
+    pinMode(led[i], OUTPUT);
+    pinMode(button[i], INPUT);
+  }
+  
+  //Initially, the right LED is on
+  digitalWrite(led[0], HIGH);
+  
+}
+
+void loop()
+{
+  
+  //This for loop and the following if statement are used to
+  //check if either button has been pressed. It's just an
+  //extension of the previous/current code that we usually
+  //use, except current is called "now" and we're using two
+  //buttons.
+  for (int i = 0; i < 2; i++) {
+    now[i] = digitalRead(button[i]);
+    if (now[i] != prev[i] && now[i] == 1 && i == right) {
+      
+      //This while loop collapses if the cradle has been
+      //runnning for too long AND the oscillation stops at
+      //one end of the cradle.
+      while (rate < 2000 || end == true) {
+        int time = millis();
+        
+        //Use the same modulo rate technique as Activity 6
+        //in Workshop 2.
+        if (time % rate == 0) {
+          digitalWrite(led[currentLED], HIGH);
+          digitalWrite(led[previousLED], LOW);
+          
+          //Updates the boolean end
+          if (currentLED == 0 || currentLED == 4) {
+            end = true;
+          }
+          else {
+            end = false;
+          }
+          
+          //Updates the previous LED before
+          //updating the current LED
+          previousLED = currentLED;
+          
+          //If the oscillation is coming from the right,
+          //proceed to the left LED. Otherwise, proceed
+          //to the right LED.
+          if (right == 1) {
+            currentLED = currentLED - 1;
+          }
+          else {
+            currentLED = currentLED + 1;
+          }
+          
+          //This method simply uses addition to increase
+          //the value of rate, which in turn slows down
+          //the oscillation.
+          rate = rate + 10;
+        }
+      }
+      
+      //After the cradle stops oscillating, redefine the
+      //initial rate again.
+      rate = rateInitial;
+
+    }
+    
+    //Don't forget this part for the button!
+    prev[i] = now[i];
+  }
+}
 ```
 
 
