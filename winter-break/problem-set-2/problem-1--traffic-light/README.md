@@ -1,4 +1,4 @@
-# [Winter Break Problem Set](https://bmesbuildteamucla.github.io/Winter%20Break/Problem%20Set%202)
+# [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 ## Problem 1 - Traffic Light
 
 ### Task:
