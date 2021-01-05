@@ -47,7 +47,7 @@ void loop()
   if (Serial.available() > 0)                                                        // send data only when you receive data
   {
     incomingString = Serial.readString();                                            // read and store incoming string
-    Serial.println(incomingString);                                                  // print incoming string so you can see it
+    Serial.println(incomingString);                                                  // print incoming string
     int stringLength = incomingString.length();                                      // find length of incoming string
     for (int stringIndex = 0; stringIndex < stringLength; stringIndex++)             // cycle through string (array of chars)
     {
