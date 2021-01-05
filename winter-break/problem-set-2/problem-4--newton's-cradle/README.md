@@ -11,7 +11,7 @@
   - Optional challenge: If you have completed this problem, try to control the bouncing of lights using a sine function.
 
 ### Circuit:
-![Circuit](winter-break/problem-set-2/problem-4--newton's-cradle/Activity 4 Winter Break Problem Set Circuit.PNG)
+![Circuit](https://bmesbuildteamucla.github.io/blob/master/winter-break/problem-set-2/problem-4--newton's-cradle/Activity%204%20Winter%20Break%20Problem%20Set%20Circuit.PNG)
 
 ### Code:
 ```c
