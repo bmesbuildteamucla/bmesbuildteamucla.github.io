@@ -23,6 +23,7 @@
   - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1MzfLSbuJoHVhDSM6XlCwdYagjAlEi4IGY25DPQf27Ec/edit?usp=sharing){:target="_blank"}
 * [Module 3 - Problem Set Review](https://docs.google.com/presentation/d/1ruprufDIADgE5s4wj5cUONprI1OkiPrRR8QqiEbsdHs/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Recording](https://drive.google.com/file/d/1NyrDVi4oBQ-SoxyRDRxZnc-5wSosoatK/view?usp=sharing){:target="_blank"} 
 * [Module 4 - Arduino Analog, Blood, Spectroscopy][](https://docs.google.com/presentation/d/1QuGma4E4DSfbu75ah3X2IF6ZjzAduQZ12NcyM6rkC1Y/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry][](https://docs.google.com/presentation/d/1vwsfHi2Pflbith8Sc7Omh9QFmZqjTS_uf7b7TmOnddM/edit?usp=sharing){:target="_blank"}
 * [Module 6 - CAD and 3D Printing][](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
