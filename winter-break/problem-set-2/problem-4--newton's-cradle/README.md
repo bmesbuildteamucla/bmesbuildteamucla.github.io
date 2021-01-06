@@ -144,9 +144,9 @@ void loop()
       // do nothing while button is still pressed so that code only runs once
     }
     startTime = millis();
-    while (millis() - startTime < 10000)
+    while (millis() - startTime < 9500)
     {
-      int t = millis()- startTime;
+      float t = millis()- startTime;
       sineTime = 2.49 * sin(10000/(pow((t/3500)+10.05, 2))) + 3.5;
       floorTime = floor(sineTime);
       digitalWrite (floorTime, HIGH);
