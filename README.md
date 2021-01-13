@@ -3,9 +3,8 @@
 
 ## Announcements:
 
-* We have posted the Winter Break Problem Set below, and it will be due at the start of Winter Quarter 2021.
-* Please fill out this [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScdA_MwwFdYFWXcYHg2JFwENHtVAY6paVgf7XNj6AE71UXcXA/viewform) so we can continue to make improvements to the Team.
-* Thanks for a great Fall Quarter! We hope that finals went well for you. "Can we fix it? Yes we can!"
+* Reminder that we have Workshop 3 next Monday (1/18) and Tuesday (1/19) from 6PM to 8PM!
+* Please let us know if you need any replacement parts, or if your parts have not arrived by Week 4.
 
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
