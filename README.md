@@ -5,6 +5,8 @@
 
 * Reminder that we have Workshop 3 next Monday (1/18) and Tuesday (1/19) from 6PM to 8PM!
 * Please let us know if you need any replacement parts, or if your parts have not arrived by Week 4.
+* Fill out the Group Selection Form (found below under Important Links) by the end of Saturday 1/16.
+* Come to our social on Friday 1/15 at 8pm! Listen to Noah's spicy story :O
 
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
