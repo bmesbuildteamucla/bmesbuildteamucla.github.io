@@ -4,30 +4,31 @@
 ## Announcements:
 
 * Reminder that we have Workshop 3 next Monday (1/18) and Tuesday (1/19) from 6PM to 8PM!
+* See the finalized teams list below! Be sure to attend workshop with your team members on the same day so you guys can collaborate :)
 * Please let us know if you need any replacement parts, or if your parts have not arrived by Week 4.
-* Fill out the Group Selection Form (found below under Important Links) by the end of Saturday 1/16.
-* Come to our social on Friday 1/15 at 8pm! Listen to Noah's spicy story :O
+* Fill out the Group Selection Form! We still need some of the information that's in that survey even though groups have already been made.
 
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
 * [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
 * [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69){:target="_blank"}
 * [Group Selection Form](https://forms.gle/JmQx6Tgvp3qvBEK69){:target="_blank"}
+* [Finalized Team List](https://docs.google.com/spreadsheets/d/13ct0IZtwwvNx59pxNS875X9kuNpFbP7LVUzYOktzIXM/edit?usp=sharing)
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1rnGSZVT_f5d4Geiwm_Hdmsl-jOSwaQ6f_f_MQLEAwOY/edit?usp=sharing){:target="_blank"}
-  - [Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
-  - [Activities](https://docs.google.com/presentation/d/1sdVAE428jhExA34LEI-RajooUPxbDcmtBzIdQSty3cg/edit?usp=sharing){:target="_blank"}
-  - [Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
+  - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
+  - [Module 1 Activities](https://docs.google.com/presentation/d/1sdVAE428jhExA34LEI-RajooUPxbDcmtBzIdQSty3cg/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/13ZlGCQUDog1ZQfHHDlPwNeO-B1tiUufwulF5tbQ2DMQ/edit?usp=sharing){:target="_blank"}
-  - [Recording](https://drive.google.com/file/d/1xmCU8u5Aomu36mV8U3n71bmUfTq5h724/view?usp=sharing){:target="_blank"} 
-  - [Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
-  - [Activity Solutions](https://docs.google.com/document/d/1MzfLSbuJoHVhDSM6XlCwdYagjAlEi4IGY25DPQf27Ec/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Recording](https://drive.google.com/file/d/1xmCU8u5Aomu36mV8U3n71bmUfTq5h724/view?usp=sharing){:target="_blank"} 
+  - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Activity Solutions](https://docs.google.com/document/d/1MzfLSbuJoHVhDSM6XlCwdYagjAlEi4IGY25DPQf27Ec/edit?usp=sharing){:target="_blank"}
 * [Module 3 - Problem Set Review](https://docs.google.com/presentation/d/1ruprufDIADgE5s4wj5cUONprI1OkiPrRR8QqiEbsdHs/edit?usp=sharing){:target="_blank"}
-  - [Recording](https://drive.google.com/file/d/1NyrDVi4oBQ-SoxyRDRxZnc-5wSosoatK/view?usp=sharing){:target="_blank"} 
+  - [Module 3 Recording](https://drive.google.com/file/d/1NyrDVi4oBQ-SoxyRDRxZnc-5wSosoatK/view?usp=sharing){:target="_blank"} 
 * [Module 4 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1QuGma4E4DSfbu75ah3X2IF6ZjzAduQZ12NcyM6rkC1Y/edit?usp=sharing){:target="_blank"}
-  - [Recording](https://drive.google.com/file/d/1-yaJTApEJiRRiEnX-wZsOeQVv1biUL8C/view?usp=sharing){:target="_blank"}
-  - [Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
+  - [Module 4 Recording](https://drive.google.com/file/d/1-yaJTApEJiRRiEnX-wZsOeQVv1biUL8C/view?usp=sharing){:target="_blank"}
+  - [Module 4 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry][](https://docs.google.com/presentation/d/1vwsfHi2Pflbith8Sc7Omh9QFmZqjTS_uf7b7TmOnddM/edit?usp=sharing){:target="_blank"}
 * [Module 6 - CAD and 3D Printing][](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
 * [Module 7 - PCB Design][](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
