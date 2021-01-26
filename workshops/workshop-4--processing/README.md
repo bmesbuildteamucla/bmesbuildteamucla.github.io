@@ -54,7 +54,7 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
   - In the Processing IDE, go to **Sketch**, **Import Library...**, then **Add Library...**
   - Search for "Firmata" in the top bar
   - Select **Arduino (Firmata)** and install
-  - At the beginning of your Processing code, copy the following two lines to import libraries:
+  - At the beginning of your Processing code, copy the following three lines to import libraries:
     ```java
     import processing.serial.*;
     import cc.arduino.*;
