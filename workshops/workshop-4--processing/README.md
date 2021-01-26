@@ -58,6 +58,7 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
     ```java
     import processing.serial.*;
     import cc.arduino.*;
+    import org.firmata.*;
     ```
 
 
@@ -111,9 +112,11 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
     - In `void setup()`, copy the following two lines
       ```java
       printArray(Arduino.list());                                 // lists USB ports, find the one connected to Arduino
-      myArduino = new Arduino(this, Arduino.list()[0], 57600);    // may need to change index value based on printed array
+      myArduino = new Arduino(this, Arduino.list()[0], 57600);    // may need to change index value (where it says [0]) based on printed array
       ```
     - This initializes your `myArduino` object and links your Arduino to Processing
+    - In Processing, use void draw() instead of void loop().
+    - Note: If you are on a Windows computer, your port index (where it says "[0]" above) will usually automatically hook up to the Arduino. However, on Mac, you will need to manually select the port. If you are having issues with connecting your Arduino, manually input the port number. Check the Arduino IDE under "Tools" > "Port" to see which port number the Arduino is connected to.
 
 
 <!--
