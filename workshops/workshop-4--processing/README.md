@@ -117,7 +117,7 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
     - This initializes your `myArduino` object and links your Arduino to Processing
     - In Processing, use void draw() instead of void loop().
     - Most basic code (if statements, while loops, for loops, etc.) will be the same in Processing. For any Arduino-specific function, make sure to first declare the object name and then the function. For our code, for instance, you would use "myArduino.digitalWrite(LED, Arduino.HIGH);" to turn on an LED.
-    - Note: If you are on a Windows computer, your port index (where it says "[0]" above) will usually automatically hook up to the Arduino. However, on Mac, you will need to manually select the port. If you are having issues with connecting your Arduino, manually input the port number. Check the Arduino IDE under "Tools" > "Port" to see which port number the Arduino is connected to. Also make sure that you uploaded the Firmata code from Arduino IDE to your Arduino before running your Processing code.
+    - Troubleshooting: If you are on a Windows computer, your port index (where it says "[0]" above) will usually automatically find the Arduino. However, on a Mac, you will need to manually select the port. If you are having issues with connecting your Arduino, manually input the port number. Check the Arduino IDE under "Tools" > "Port" to see which port number the Arduino is connected to. Also make sure that you uploaded the Firmata code from Arduino IDE to your Arduino before running your Processing code.
 
 
 <!--
