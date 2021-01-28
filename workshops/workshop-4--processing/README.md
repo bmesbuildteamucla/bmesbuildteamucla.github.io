@@ -123,7 +123,7 @@ Install [Processing](https://processing.org/download/){:target="_blank"}
 <!--
 hide solutions
 -->
-<!--
+
 ## Solutions:
 #### Activity 4 - Programming your Arduino using Processing
 * Example code:
@@ -155,4 +155,3 @@ hide solutions
       }
     }
     ```
--->
