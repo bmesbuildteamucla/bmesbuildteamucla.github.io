@@ -30,6 +30,8 @@
   - [Module 4 Recording](https://drive.google.com/file/d/1-yaJTApEJiRRiEnX-wZsOeQVv1biUL8C/view?usp=sharing){:target="_blank"}
   - [Module 4 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry][](https://docs.google.com/presentation/d/1vwsfHi2Pflbith8Sc7Omh9QFmZqjTS_uf7b7TmOnddM/edit?usp=sharing){:target="_blank"}
+  - [Module 5 Recording][]()
+  - [Module 5 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing)
 * [Module 6 - CAD and 3D Printing][](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
 * [Module 7 - PCB Design][](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
 
