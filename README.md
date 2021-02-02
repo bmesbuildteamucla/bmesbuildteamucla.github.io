@@ -33,7 +33,11 @@
   - [Module 5 Recording][]()
   - [Module 5 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing)
   - Module 5 Useful Videos:
-    - [Negative Feedback in Op-Amps](https://www.allaboutcircuits.com/video-tutorials/op-amp-basics-negative-feedback/){:target="_blank"}
+    - [Negative Feedback in Op-Amps](https://www.allaboutcircuits.com/video-tutorials/op-amp-basics-negative-feedback/)
+    - [Voltage Follower](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-voltage-follower/)
+    - [Inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/the-basic-op-amp-inverting-amplifier/)
+    - [Non-inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/basic-amplifier-configurations-non-inverting-amplifier/#:~:text=When%20we%20say%20that%20this,with%20no%20change%20in%20polarity.)
+    - [Transimpedance Amplifier](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-current-to-voltage-converter/)
 * [Module 6 - CAD and 3D Printing][](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
 * [Module 7 - PCB Design][](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
 
