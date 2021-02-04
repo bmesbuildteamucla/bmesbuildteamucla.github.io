@@ -3,10 +3,8 @@
 
 ## Announcements:
 
-* Reminder that we have Workshop 3 next Monday (1/18) and Tuesday (1/19) from 6PM to 8PM!
-* See the finalized teams list below! Be sure to attend workshop with your team members on the same day so you guys can collaborate :)
-* Please let us know if you need any replacement parts, or if your parts have not arrived by Week 4.
-* Fill out the Group Selection Form! We still need some of the information that's in that survey even though groups have already been made.
+* Workshops 5 and 6 will be on Weeks 6 and 7. Please go on your team's assigned day (Monday or Tuesday).
+* If you need any parts replacements, please email us.
 
 ## Important Links:
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
