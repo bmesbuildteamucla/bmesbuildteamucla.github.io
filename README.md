@@ -28,7 +28,7 @@
   - [Module 4 Recording](https://drive.google.com/file/d/1-yaJTApEJiRRiEnX-wZsOeQVv1biUL8C/view?usp=sharing){:target="_blank"}
   - [Module 4 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1vwsfHi2Pflbith8Sc7Omh9QFmZqjTS_uf7b7TmOnddM/edit?usp=sharing){:target="_blank"}
-  - [Module 5 Recording][]()
+  - [Module 5 Recording](https://drive.google.com/file/d/1dLHPdjpzbRskUAH4b6CofQsArsVdxpXV/view?usp=sharing){:target="_blank"}
   - [Module 5 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing)
   - Module 5 Useful Videos:
     - [Negative Feedback in Op-Amps](https://www.allaboutcircuits.com/video-tutorials/op-amp-basics-negative-feedback/)
