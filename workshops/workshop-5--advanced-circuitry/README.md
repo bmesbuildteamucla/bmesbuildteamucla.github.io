@@ -3,8 +3,8 @@
 ## Activities:
 
 #### Activity 1 - Set Up Circuits
-* Set up a potentiometer circuit
-* Set up separate op amp circuit
+* Set up a potentiometer circuit (i.e. voltage divider with one resistor replaced with potentiometer)
+* Set up separate op amp circuit with 5V and GND pins attached
   - *Hint: Search up op amp data sheet to determine pin configuration*
   - *VDD is (+), VSS is (-)*
 
