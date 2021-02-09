@@ -3,7 +3,7 @@
 ## Activities:
 
 #### Activity 1 - Storing Data in an Array
-* Read [Arrays](https://processing.org/tutorials/arrays/){:target="_blank"} until "Array of Objects"
+* Read [Arrays](https://processing.org/tutorials/arrays/) until "Array of Objects"
 
   <details>
   <summary>(Click me) Why do we need arrays for our pulse ox?</summary>
@@ -36,7 +36,7 @@
   ```
 
   <details>
-  <summary> (Click me) What size array should we delcare? (Think before opening)</summary>
+  <summary> (Click me) What size array should we declare? (Think before opening)</summary>
   <br>
   In order to fill the screen size, the array size should be the width of the screen [width]
   <br>
