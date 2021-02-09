@@ -6,13 +6,13 @@
 * Read [Arrays](https://processing.org/tutorials/arrays/){:target="_blank"} until "Array of Objects"
 
   <details>
-  <summary>Why do we need arrays for our pulse ox?</summary>
+  <summary>(Click me) Why do we need arrays for our pulse ox?</summary>
   <br>
   Each element in an array has an index value and a value corresponding to the index, essentially two variables
   <br>
   <br>
       <details>
-      <summary>What do two varaibles let us do? (Think before opening)</summary>
+      <summary>(Click me) What do two varaibles let us do? (Think before opening)</summary>
       <br>
       - First, two variables (x & y) allow us to plot a curve on a 2D screen
       <br>
@@ -36,7 +36,7 @@
   ```
 
   <details>
-  <summary>What size array should we delcare? (Think before opening)</summary>
+  <summary> (Click me) What size array should we delcare? (Think before opening)</summary>
   <br>
   In order to fill the screen size, the array size should be the width of the screen [width]
   <br>
