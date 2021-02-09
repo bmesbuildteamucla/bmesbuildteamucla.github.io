@@ -12,7 +12,7 @@
   <br>
   <br>
       <details>
-      <summary>(Click me) What do two varaibles let us do? (Think before opening)</summary>
+      <summary>(Click me) What do two variables let us do? (Think before opening)</summary>
       <br>
       - First, two variables (x & y) allow us to plot a curve on a 2D screen
       <br>
