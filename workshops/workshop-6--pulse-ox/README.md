@@ -36,40 +36,43 @@
   ```
 
   <details>
-  <summary> (Click me) What size array should we declare? (Think before opening)</summary>
+  <summary> (Click me) What size array should we declare? (Think before opening. Hint: You need to display this to your Processing window)</summary>
   <br>
   In order to fill the screen size, the array size should be the width of the screen [width]
   <br>
   </details>
 
 #### Activity 2 - Transimpedance Amplifier and Processing
-1. Set up a transimpedance amplifier circuit with an OP905 photodiode as the current source
+1. Set up a transimpedance amplifier circuit with an OP905 photodiode as the current source and an appropriate resistor value (try 10 kilohms or higher).
 
     ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
-2. Plot the input from the transimpedance amplifier using the Serial Plotter
-3. Print the input values on the Processing console
-4. Attach a red LED and use it with the sensor (this is the basic pulse ox)
-5. Using Processing, try to plot the pulse ox signal (use the `line()` function)
+2. Plot the input from the transimpedance amplifier using the Serial Plotter.
+3. Print the input values on the Processing console.
+4. Attach a red LED and use it with the sensor (this is the basic pulse ox). We recommend using the jumper wires with male/female ends to connect the LED.
+5. Using Processing, try to plot the pulse ox signal (use the `line()` function).
 
 
 #### Activity 3 - Amplifying Signal
-* Analyze at the signal that you are receiving
-* How big is the signal?
-* Add appropriate amplifier circuits and experiment with different filter frequencies
-  - Note the gain used
+* Analyze the signal that you are receiving
+  - How big is the signal?
+  - Is the pulse graph visible yet?
+* Add an appropriate non-inverting amplifier circuits
+  - Calculate the theoretical gain
 
 #### Activity 4 - Filtering Signal
 * Analyze the amplified signal
-* What frequencies do you need to filter out?
-* Add appropriate filters and experiment with different filter frequencies
-  - Note the frequencies used
+  - What frequencies do you need to filter out?
+  - Is the pulse graph distinguishable?
+* Add appropriate filter(s) and experiment with different filter frequencies
+  - Calculate the theoretical cutoff frequencies
 
 #### Activity 5 - Customize Processing Display
 * Now that the signal is optimized, work on how the signal is displayed
 * Experiment with different color, weights, connections, etc
 * What happens when the signal hits the end of the screen?
   - Can you make it reset or scroll?
+  - Can you adaptively rescale the y-axis?
 
 
 <!--
