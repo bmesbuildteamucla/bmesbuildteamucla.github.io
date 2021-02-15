@@ -45,7 +45,7 @@
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 * [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
 * [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
-* [Workshop 6 - Pulse Ox][](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
+* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
 
 ## Winter Break:
 * [Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
