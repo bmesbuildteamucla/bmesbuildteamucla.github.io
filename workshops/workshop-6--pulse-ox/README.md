@@ -57,10 +57,12 @@
 * Analyze the signal that you are receiving
   - How big is the signal?
   - Is the pulse graph visible yet?
-* Add an appropriate non-inverting amplifier circuits
+* Add an appropriate non-inverting amplifier circuit
   - Calculate the theoretical gain
 
 #### Activity 4 - Filtering Signal
+* At this point, you should be able to see your pulse, but it should be very noisy.
+  - I.e. you should have the photodiode connected to the transimpedance amplifier and non-inverting amplifier and are taking an output from the non-inverting amplifier.
 * Analyze the amplified signal
   - What frequencies do you need to filter out?
   - Is the pulse graph distinguishable?
