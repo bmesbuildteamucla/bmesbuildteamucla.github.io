@@ -2,11 +2,11 @@
 
 ![Bob Challenge](https://bmesbuildteamucla.github.io/spring-break/InkedBob-the-builder-06-1140x760_LI.jpg)
 
-## Submissions
+## Submission Rules
 
 * Each team must submit a video of their Arduino playing the Dino Run game by emailing it to us (bmes.build.team@gmail.com).
 * The game must be played by using Arduino hardware, operating independently from any human interaction.
-* Your Arduino interacts with the keyboard and computer monitor to play the game.
+* Your Arduino must interact with the keyboard and computer monitor to play the game.
 * You can also add LEDs, motors, LCD displays, etc. from your Arduino kit if you want to make it fancy :O
 
 ## In Order to Win ...
