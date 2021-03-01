@@ -1,5 +1,7 @@
 # Spring Break Challenge!
 
+![Bob is Challenged](https://bmesbuildteamucla.github.io/spring-break/InkedBob-the-builder-06-1140x760_LI.jpg)
+
 ## Submissions
 
 * Each team must submit a video of their Arduino playing the Dino Run game by emailing it to us (bmes.build.team@gmail.com).
@@ -16,4 +18,3 @@
 
 * First try playing the game to see what the hardware needs to do. The obstacles change over time :O
 * Use the Servo motor to press the spacebar and photoresistors to detect incoming obstacles.
-* 
