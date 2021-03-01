@@ -50,7 +50,7 @@
 
 ## Winter and Spring Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break/README.md)
+* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
 
 ## Other Resources:
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
