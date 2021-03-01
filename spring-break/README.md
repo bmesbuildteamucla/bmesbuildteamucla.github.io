@@ -1,6 +1,6 @@
 # Spring Break Challenge!
 
-![Bob is Challenged](https://bmesbuildteamucla.github.io/spring-break/InkedBob-the-builder-06-1140x760_LI.jpg)
+![Bob Challenge](https://bmesbuildteamucla.github.io/spring-break/InkedBob-the-builder-06-1140x760_LI.jpg)
 
 ## Submissions
 
