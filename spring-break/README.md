@@ -16,5 +16,5 @@
 
 ## Tips and Tricks
 
-* First try playing the game to see what the hardware needs to do (chrome://dino/). The obstacles change over time :O
+* First try playing the game to see what the hardware needs to do ([click here to access the game on chrome](chrome://dino/)). The obstacles change over time :O
 * Use the Servo motor to press the spacebar and photoresistors to detect incoming obstacles.
