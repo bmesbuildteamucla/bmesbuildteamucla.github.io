@@ -14,7 +14,8 @@
 
 ## Tips and Tricks
 
-* First try playing the game to see what the hardware needs to do. [Click here to access the game on chrome](chrome://dino/). The obstacles change over time :O
+* Access the game on Google Chrome using the following link: chrome://dino/. If you don't have Google Chrome, try using this website: [Google Dino Game](https://trex-runner.com/)
+* First try playing the game to see what the hardware needs to do. The obstacles change over time :O
 * Use the Servo motor to press the spacebar and photoresistors to detect incoming obstacles.
 
 ![Bob Challenge](https://bmesbuildteamucla.github.io/spring-break/InkedBob-the-builder-06-1140x760_LI.jpg)
