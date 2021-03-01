@@ -48,8 +48,9 @@
 * [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
   - [Workshop 6 Slides](https://docs.google.com/presentation/d/1lXCjlvBOu5xO9jylCpoHvO5GxCgGoJhBh_2EO6PUc8k/edit?usp=sharing)
 
-## Winter Break:
-* [Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+## Winter and Spring Break:
+* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break/)
 
 ## Other Resources:
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
