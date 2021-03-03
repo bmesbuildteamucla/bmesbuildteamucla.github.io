@@ -47,8 +47,8 @@
 
     ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
-2. Plot the input from the transimpedance amplifier using the Serial Plotter.
-3. Print the input values on the Processing console.
+2. Plot the output from the transimpedance amplifier using the Serial Plotter.
+3. Print the output values on the Processing console.
 4. Attach a red LED and use it with the sensor (this is the basic pulse ox). We recommend using the jumper wires with male/female ends to connect the LED.
 5. Using Processing, try to plot the pulse ox signal (use the `line()` function).
 
