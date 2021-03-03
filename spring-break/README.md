@@ -10,8 +10,8 @@
 
 ## In Order to Win ...
 
-* Your team must have the highest score! (All teammates will receive a prize if you win.)
-* If at least half of the teams get at least 300 points or add fancy details (lights, sounds, displays, etc.) to their design, then your PMs will organize a special prize for everyone on the team :)
+* Your team must have the highest score! All teammates will receive a prize (gift card) if you win.
+* If at least half of the teams get at least 300 points or add fancy details (lights, sounds, displays, etc.) to their design, then your PMs will organize a special prize for everyone on the team (maybe Philip will eat a ghost pepper in front of everyone :O)
 
 ## Tips and Tricks
 
