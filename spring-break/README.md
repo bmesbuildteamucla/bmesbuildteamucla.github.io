@@ -4,6 +4,8 @@
 
 * Submissions are due by Monday of Week 1 (3/29)! :O
 * Each team must submit a video of their Arduino playing the Dino Run game by emailing it to us (bmes.build.team@gmail.com).
+  - We recommend uploading it to Google Drive and then emailing the share link to us.
+  - If you want to prove that you got the highest score, we need video evidence >:)
 * The game must be played by using Arduino hardware, operating independently from any human interaction.
 * Your Arduino must interact with the keyboard and computer monitor to play the game.
 * You can also add LEDs, motors, LCD displays, etc. from your Arduino kit if you want to make it fancy :O
