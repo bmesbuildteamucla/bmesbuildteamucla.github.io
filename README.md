@@ -37,6 +37,7 @@
     - [Non-inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/basic-amplifier-configurations-non-inverting-amplifier/)
     - [Transimpedance Amplifier](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-current-to-voltage-converter/)
 * [Module 6 - CAD and 3D Printing](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
+  - [Recording](https://drive.google.com/file/d/1vzV2xjUUbSyrw0-quR95nKaR6NmxuKvp/view?usp=sharing){:target="_blank"}
 * [Module 7 - PCB Design][](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
 
 ## Workshops:
