@@ -31,11 +31,11 @@
   - [Module 5 Recording](https://drive.google.com/file/d/1dLHPdjpzbRskUAH4b6CofQsArsVdxpXV/view?usp=sharing){:target="_blank"}
   - [Module 5 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing)
   - Module 5 Useful Videos:
-    - [Negative Feedback in Op-Amps](https://www.allaboutcircuits.com/video-tutorials/op-amp-basics-negative-feedback/)
-    - [Voltage Follower](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-voltage-follower/)
-    - [Inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/the-basic-op-amp-inverting-amplifier/)
-    - [Non-inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/basic-amplifier-configurations-non-inverting-amplifier/)
-    - [Transimpedance Amplifier](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-current-to-voltage-converter/)
+    - [Negative Feedback in Op-Amps](https://www.allaboutcircuits.com/video-tutorials/op-amp-basics-negative-feedback/){:target="_blank"}
+    - [Voltage Follower](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-voltage-follower/){:target="_blank"}
+    - [Inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/the-basic-op-amp-inverting-amplifier/){:target="_blank"}
+    - [Non-inverting Amplifier](https://www.allaboutcircuits.com/video-tutorials/basic-amplifier-configurations-non-inverting-amplifier/){:target="_blank"}
+    - [Transimpedance Amplifier](https://www.allaboutcircuits.com/video-tutorials/op-amp-applications-current-to-voltage-converter/){:target="_blank"}
 * [Module 6 - CAD and 3D Printing](https://docs.google.com/presentation/d/1RDshwkJUQud9CRptHAF7yrQGRXJNLHwiaCfa4hN73uM/edit?usp=sharig){:target="_blank"}
   - [Module 6 Recording](https://drive.google.com/file/d/1vzV2xjUUbSyrw0-quR95nKaR6NmxuKvp/view?usp=sharing){:target="_blank"}
 * [Module 7 - PCB Design](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
@@ -48,7 +48,7 @@
 * [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
 * [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
 * [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
-  - [Workshop 6 Slides](https://docs.google.com/presentation/d/1lXCjlvBOu5xO9jylCpoHvO5GxCgGoJhBh_2EO6PUc8k/edit?usp=sharing)
+  - [Workshop 6 Slides](https://docs.google.com/presentation/d/1lXCjlvBOu5xO9jylCpoHvO5GxCgGoJhBh_2EO6PUc8k/edit?usp=sharing){:target="_blank"}
 * [Pulse Ox Workshops Slides](https://docs.google.com/presentation/d/1E5gPq8T2_aN52fQAGBAVvM0ohi9-Oa1ZkAPdwF6Nm9w/edit?usp=sharing)
 
 ## Winter and Spring Break:
