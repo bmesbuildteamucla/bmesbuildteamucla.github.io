@@ -50,6 +50,7 @@
 * [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
   - [Workshop 6 Slides](https://docs.google.com/presentation/d/1lXCjlvBOu5xO9jylCpoHvO5GxCgGoJhBh_2EO6PUc8k/edit?usp=sharing){:target="_blank"}
 * [Pulse Ox Workshops Slides](https://docs.google.com/presentation/d/1E5gPq8T2_aN52fQAGBAVvM0ohi9-Oa1ZkAPdwF6Nm9w/edit?usp=sharing)
+* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
 
 ## Winter and Spring Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
