@@ -8,7 +8,7 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* Technical Projects Application (TBA)
+* [Technical Projects Application](https://tinyurl.com/TechProjectsApp21){:target="_blank"}
 
 <!-- From 2020-2021 Year
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
