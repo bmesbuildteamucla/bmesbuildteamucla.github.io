@@ -9,6 +9,7 @@
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
 * Technical Projects Application (TBA)
+
 <!--
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
 * [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
