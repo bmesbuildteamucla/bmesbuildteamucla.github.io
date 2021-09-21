@@ -10,7 +10,7 @@
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
 * Technical Projects Application (TBA)
 
-<!--
+<!-- From 2020-2021 Year
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
 * [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
 * [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69){:target="_blank"}
