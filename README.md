@@ -4,7 +4,7 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* We look forward to reading your applications and a productive year ahead!
+* Interviews will be conducted this Friday, Saturday, and Sunday.
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
