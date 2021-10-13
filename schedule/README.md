@@ -9,14 +9,13 @@
 
 | Week        | Event       |
 | ----------- | ----------- |
-| 3           | **Module 1 - Intro to Circuits**   |
-| 4           | *Workshop 1 - Basic Circuitry*  |
-| 5           | *Workshop 1 - Basic Circuitry* |
-| 6           | **Module 2 - Intro to Coding and Arduino**   |
-| 7           | *Workshop 2 - Coding and Arduino* |
+| 4           | **Module 1 - Intro to Circuits**   |
+| 5           | *Workshop 1 - Basic Circuitry*  |
+| 6           | *Workshop 1 - Basic Circuitry* |
+| 7           | **Module 2 - Intro to Coding and Arduino**   |
 | 8           | *Workshop 2 - Coding and Arduino* |
 | 9           | *Workshop 2 - Coding and Arduino* |
-| 10          | *Optional Workshop* |
+| 10           | *Workshop 2 - Coding and Arduino* |
 
 ---
 
