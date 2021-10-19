@@ -31,8 +31,8 @@
 <!-- With Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
-  - [Module 1 Activities](https://docs.google.com/presentation/d/1sdVAE428jhExA34LEI-RajooUPxbDcmtBzIdQSty3cg/edit?usp=sharing){:target="_blank"}
-  - [Module 1 Activity Solutions](https://drive.google.com/file/d/12zwYcIwr2Vcfm_kqiMtPEI1bbFndyEsG/view?usp=sharing){:target="_blank"}
+  - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/1J_z3CAFmWk9ujj_maz5YnWc7n3M9VWPJ/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/1xmCU8u5Aomu36mV8U3n71bmUfTq5h724/view?usp=sharing){:target="_blank"} 
   - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
