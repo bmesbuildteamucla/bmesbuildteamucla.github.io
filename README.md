@@ -4,11 +4,12 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* Interviews have concluded and decisions will be emailed on Monday.
+* Workshop 1 will be next Thursday 4-6 PM and Friday 5-7 PM.
+
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* [Technical Projects Application](https://tinyurl.com/TechProjectsApp21){:target="_blank"}
+* Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!.
 
 <!-- From 2020-2021 Year
 * [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
@@ -22,7 +23,7 @@
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
   - Module 1 Recording
   - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
-  - Module 1 Activity Solutions
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/1J_z3CAFmWk9ujj_maz5YnWc7n3M9VWPJ/view?usp=sharing){:target="_blank"}
 * Module 2 - Intro to Coding and Arduino
 * Module 3 - Problem Set Review
 * Module 4 - Arduino Analog, Blood, Spectroscopy
