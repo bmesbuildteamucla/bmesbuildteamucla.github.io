@@ -19,7 +19,10 @@
 -->
 
 ## Modules:
-* Module 1 - Intro to Circuits
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
+  - Module 1 Recording
+  - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
+  - Module 1 Activity Solutions
 * Module 2 - Intro to Coding and Arduino
 * Module 3 - Problem Set Review
 * Module 4 - Arduino Analog, Blood, Spectroscopy
