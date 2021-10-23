@@ -14,7 +14,7 @@
 | 6           | *Workshop 1 - Basic Circuitry* |
 | 7           | **Module 2 - Intro to Coding and Arduino**   |
 | 8           | *Workshop 2 - Coding and Arduino* |
-| 9           | *Workshop 2 - Coding and Arduino* |
+| 9           | *No Workshop (Thanksgiving)* |
 | 10           | *Workshop 2 - Coding and Arduino* |
 
 ---
