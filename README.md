@@ -9,6 +9,7 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
+* [Attendance Form](https://forms.gle/TnbsyYqZM93ebyAU7){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 <!-- From 2020-2021 Year
