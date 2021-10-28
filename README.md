@@ -63,7 +63,8 @@
 -->
 
 ## Workshops:
-* Workshop 1 - Basic Circuitry
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
+  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
 * Workshop 2 - Coding and Arduino
 * Workshop 3 - Arduino Analog
 * Workshop 4 - Processing
