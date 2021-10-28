@@ -47,7 +47,7 @@
 
 
 #### Activity 4 - LEDs and Switches
-* Build a circuit with a button and an LED where the LED turns on when the bubtton is pressed. Then try to make a circuit where the LED turns off when the button is pressed.
+* Build a circuit with a button and an LED where the LED turns on when the button is pressed. Then, try to make a circuit where the LED turns off when the button is pressed.
 
 
 <!--
