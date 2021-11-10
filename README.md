@@ -25,7 +25,7 @@
   - [Module 1 Recording](https://drive.google.com/drive/folders/1hN4cSLjjiMO3vtS0L78lizTGECJE9waA?usp=sharing){:target="_blank"}
   - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1Cd9dlDVE49lcDEyZ7GGZT8Js4mRNv2PJ/view?usp=sharing){:target="_blank"}
-* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.g1012b76e6e5_0_0){:target="_blank"}
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.ga8a2b44bee_1_8){:target="_blank"}
 * Module 3 - Problem Set Review
 * Module 4 - Arduino Analog, Blood, Spectroscopy
 * Module 5 - Advanced Circuitry
