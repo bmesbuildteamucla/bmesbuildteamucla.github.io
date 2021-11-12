@@ -4,7 +4,7 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* Workshop 1 will be next Thursday 4-6 PM and Friday 5-7 PM.
+* Workshop 2 will be held during Weeks 8 and 10. Look out for an email for workshop signups!
 
 
 ## Important Links:
