@@ -11,26 +11,32 @@
 * Turn the LED on after 5 seconds using a conditional statement. (Note: Don’t use delay().)
 
 #### Activity 2 - LED Flashing
-* Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times. (Note: Use delay().)
+* Have the yellow LED turned on, then every 5 seconds turn off the yellow LED and have the red LED flash 10 times. (Note: Use delay())
 
 #### Activity 3 - LED Button
 * LED lights up when the button is pressed and turns off when the button is not pressed
-* Use the Arduino, i.e. wire the button and LED separately to the Arduino.
+* Use the Arduino, i.e. wire the button and LED separately to the Arduino
 * The button and LED should not be in series
 
 #### Activity 4 - LED Switch
-* Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off). Refer to Module 2 slides for the button circuit schematic.
+* Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off)
+* Refer to Module 2 slides for the button circuit schematic
 
 #### Activity 5 - LED Three Presses
-* Have an LED toggle on/off after three clicks of a button.
+* Have an LED toggle on/off after three clicks of a button
 
 #### Activity 6 - LED Blinking
-* Have two LEDs blink at different rates.
+* Have two LEDs blink at different rates
 * Have one LED blink at a randomly created rate, and the other blink half as fast
-* Note that in order for the LEDs to blink independently of each other, you must use millis().
+* Note that in order for the LEDs to blink independently of each other, you must use millis()
 
 #### Activity 7 - Three LEDs
-* You have one button and three separate LEDs. When you hold the button, the first LED turns on. If you are still holding the button after one second, the second LED also turns on. If you are still holding the button after two seconds, the third LED also turns on. If at any point you release the button, only the LEDs that have been turned on stay on. The next time you press the button, all the LEDs will turn off. Further button presses will continue the pattern.
+* You have one button and three separate LEDs
+* When you hold the button, the first LED turns on
+	- If you are still holding the button after one second, the second LED also turns on
+	- If you are still holding the button after two seconds, the third LED also turns on
+	- If at any point you release the button, only the LEDs that have been turned on stay on
+* The next time you press the button, all the LEDs will turn off. Further button presses will continue the pattern.
 
 	- *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
