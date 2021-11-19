@@ -40,7 +40,6 @@
 
 	- *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
-<!--
 #### Activity 8 - Morse Code (Challenge)
 * Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
 
@@ -58,7 +57,7 @@
 	Serial.read() // reads incoming serial data
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
-
+<!--
 ## Solutions:
 * [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
 * [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
