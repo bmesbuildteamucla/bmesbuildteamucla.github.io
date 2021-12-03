@@ -40,7 +40,7 @@
 
 	- *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
-#### Activity 8 - Morse Code (Challenge)
+#### Activity 8 - Morse Code (Optional Challenge)
 * Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
 
 	- *Hint: Read in inputted string and cycle through it using loops*
