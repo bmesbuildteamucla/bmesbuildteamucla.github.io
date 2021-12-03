@@ -58,12 +58,13 @@
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
 	
-<!--
+
 ## Solutions:
 * [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
 * [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
 * [Activity 3 - LED Button](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-3--LED-button)
 * [Activity 4 - LED Switch](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-4--LED-switch)
+<!--
 * [Activity 5 - LED Three Presses](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-5--LED-three-presses)
 * [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--three-LEDs)
