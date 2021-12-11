@@ -68,13 +68,10 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 
 
 <!--
-hide solutions
--->
-
 ## Solutions:
 * [Problem 1 - Traffic Light](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light)
 * [Problem 2 - LED Game](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game)
 * [Problem 3 - Save Energy...Save the World](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-3--save-energy)
 * [Problem 4 - Newton’s Luminescent Cradle](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-4--newton's-cradle)
 * [Problem 5 - Morse Code](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-5--morse-code)
-
+-->
