@@ -85,9 +85,11 @@
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
 -->
 
-<!--
-## Winter and Spring Break:
+
+## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+
+<!--
 * [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
 -->
 
