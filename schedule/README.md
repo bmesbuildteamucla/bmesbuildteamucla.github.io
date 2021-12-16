@@ -23,12 +23,12 @@
 
 | Week        | Event       |
 | ----------- | ----------- |
-| 1           | **Module 3 - Problem Set Review**   |
-| 2           | **Module 4 - Arduino Analog, Blood, Spectroscopy**   |
-| 3           | *Workshop 3 - Arduino Analog* |
-| 4           | *Workshop 4 - Processing* |
-| 5           | **Module 5 - Advanced Circuitry**   |
-| 6           | *Workshop 5 - Advanced Circuitry* |
+| 1           | **Module 3 - Arduino Analog, Blood, Spectroscopy**   |
+| 2           | *Workshop 3 - Arduino Analog* |
+| 3           | *Workshop 4 - Processing* |
+| 4           | **Module 5 - Advanced Circuitry**   |
+| 5           | *Workshop 5 - Advanced Circuitry* |
+| 6           | *Workshop 6 - Pulse Ox* |
 | 7           | *Workshop 6 - Pulse Ox* |
 | 8           | *Workshop 6 - Pulse Ox* |
 | 9           | *Workshop 6 - Pulse Ox* |
