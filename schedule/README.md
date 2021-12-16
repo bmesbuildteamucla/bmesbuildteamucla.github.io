@@ -26,7 +26,7 @@
 | 1           | **Module 3 - Arduino Analog, Blood, Spectroscopy**   |
 | 2           | *Workshop 3 - Arduino Analog* |
 | 3           | *Workshop 4 - Processing* |
-| 4           | **Module 5 - Advanced Circuitry**   |
+| 4           | **Module 4 - Advanced Circuitry**   |
 | 5           | *Workshop 5 - Advanced Circuitry* |
 | 6           | *Workshop 6 - Pulse Ox* |
 | 7           | *Workshop 6 - Pulse Ox* |
@@ -40,8 +40,8 @@
 
 | Week        | Event       |
 | ----------- | ----------- |
-| 1           | **Module 6 - CAD and 3D Printing**   |
-| 2           | **Module 7 - PCB Design**   |
+| 1           | **Module 5 - CAD and 3D Printing**   |
+| 2           | **Module 6- PCB Design**   |
 | 3           | *Team Projects* |
 | 4           | *Team Projects* |
 | 5           | *Team Projects* |
