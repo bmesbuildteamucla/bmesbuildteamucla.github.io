@@ -15,98 +15,51 @@
 
 ### Code:
 ```c
-//Button and LED setup
-int led[5] = {9, 10, 11, 12, 13};
-int button[2] = {6, 7};
-int now[2] = {0, 0};
-int prev[2] = {0, 0};
-
-//Variables used to control the Newton's Cradle
-//oscillation of the LEDs
-bool end = false;
-int right = 0;
-int rateInitial = 800;
-int rate = rateInitial;
-int previousLED = 0;
-int currentLED = 0;
+int LED [5] = {9, 10, 11, 12, 13}; //define led pins in array
+int button = 8;
+int current = 0;
+int previous = 0;
+int time = 100; //time between led flashes
 
 void setup()
 {
-  //Assign pins as inputs/outputs
-  //Arrays make this step much easier
-  for (int i = 0; i < 5; i++) {
-    pinMode(led[i], OUTPUT);
-    pinMode(button[i], INPUT);
+  digitalWrite(LED[0], HIGH);
+  pinMode(button, INPUT);
+  
+  for (int i = 1; i < 5; i++) //for loop turns all leds off except first one and designates as output
+  {
+    digitalWrite(LED[i], LOW);
+    pinMode(LED[i], OUTPUT);
   }
-  
-  //Initially, the right LED is on
-  digitalWrite(led[0], HIGH);
-  
 }
 
 void loop()
 {
-  
-  //This for loop and the following if statement are used to
-  //check if either button has been pressed. It's just an
-  //extension of the previous/current code that we usually
-  //use, except current is called "now" and we're using two
-  //buttons.
-  for (int i = 0; i < 2; i++) {
-    now[i] = digitalRead(button[i]);
-    if (now[i] != prev[i] && now[i] == 1 && i == right) {
-      
-      //This while loop collapses if the cradle has been
-      //runnning for too long AND the oscillation stops at
-      //one end of the cradle.
-      while (rate < 2000 || end == true) {
-        int time = millis();
-        
-        //Use the same modulo rate technique as Activity 6
-        //in Workshop 2.
-        if (time % rate == 0) {
-          digitalWrite(led[currentLED], HIGH);
-          digitalWrite(led[previousLED], LOW);
-          
-          //Updates the boolean end
-          if (currentLED == 0 || currentLED == 4) {
-            end = true;
-          }
-          else {
-            end = false;
-          }
-          
-          //Updates the previous LED before
-          //updating the current LED
-          previousLED = currentLED;
-          
-          //If the oscillation is coming from the right,
-          //proceed to the left LED. Otherwise, proceed
-          //to the right LED.
-          if (right == 1) {
-            currentLED = currentLED - 1;
-          }
-          else {
-            currentLED = currentLED + 1;
-          }
-          
-          //This method simply uses addition to increase
-          //the value of rate, which in turn slows down
-          //the oscillation.
-          rate = rate + 10;
-        }
+  current = digitalRead(button); //current state of button
+  if (current != previous) //if button state changes (when pressed)
+  {
+    while (time < 500)  //the value 500 ensures it will end on the left (do calculations)
+    {
+      for (int i=0; i<5; i++) //turns leds on in the rightward direction
+      {
+        digitalWrite(LED[i], LOW); //turn off led
+        digitalWrite(LED[i+1], HIGH); //turn on next led
+        delay(time); 
+        time = time + 10;  //increase delay between flashes so it slows down
       }
-      
-      //After the cradle stops oscillating, redefine the
-      //initial rate again.
-      rate = rateInitial;
-
+      for (int i=4; i>0; i--)  //turns leds on in the leftward direction
+      {
+        digitalWrite(LED[i-1], HIGH);
+        digitalWrite(LED[i], LOW);
+        delay(time);
+      	time = time + 10;  //increase delay between flashes so it slows down
+      }
     }
-    
-    //Don't forget this part for the button!
-    prev[i] = now[i];
+    digitalWrite(LED[0], HIGH); //cycle ends at the first led, so leave that one on
   }
+  current = previous; //reset current
 }
+
 ```
 
 
