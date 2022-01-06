@@ -16,7 +16,7 @@
 ### Code:
 ```c
 int LED [5] = {9, 10, 11, 12, 13}; //define led pins in array
-int button = 8;
+int button = 7;
 int current = 0;
 int previous = 0;
 int time = 100; //time between led flashes
