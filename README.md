@@ -28,11 +28,11 @@
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.ga8a2b44bee_1_8){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/1ip101iTLsNvkOYwQJIGidGGStyfOG4iH/view?usp=sharing){:target="_blank"}
   - [Module 2 Activity Solutions](https://drive.google.com/file/d/1aIJo_Upw3mM1sTUNunLbCelsiThxx5iE/view?usp=sharing){:target="_blank"}
-* Module 3 - Problem Set Review
-* Module 4 - Arduino Analog, Blood, Spectroscopy
-* Module 5 - Advanced Circuitry
-* Module 6 - CAD and 3D Printing
-* Module 7 - PCB Design
+* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1YxSJYIVqxgyMS-NRKbM2Bqwp5f2EEt_fTw4BTzR31UY/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
+* Module 4 - Advanced Circuitry
+* Module 5 - CAD and 3D Printing
+* Module 6 - PCB Design
 
 
 <!-- With Links
