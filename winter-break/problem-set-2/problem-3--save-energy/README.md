@@ -39,20 +39,20 @@ void loop()
     if (current == HIGH && on == false)        //if button is pressed and led is off
     {
       digitalWrite(LED, HIGH);                 //turn on led
-      on = true;  			                       //change boolean to true since led is on
-      startOn = millis();	                     //mark the current time as start of led on
+      on = true;  			       //change boolean to true since led is on
+      startOn = millis();	               //mark the current time as start of led on
     }
     else if (current == HIGH && on == true)    //if button is pressed and led is on
     {
       digitalWrite(LED, LOW);                  //turn off led
-      on = false;			                         //change boolean to false
+      on = false;			       //change boolean to false
       duration = (millis() - startOn);         //define duration as current time minus start on
       Serial.println("The LED was on for ");   //print to serial monitor
       Serial.println(duration/1000);           //divide duration by 1000 to get time in seconds
       Serial.println(" seconds.");
     }
   }
-  previous = current;		                       //define the new previous to be the old current
+  previous = current;		               //define the new previous to be the old current
   if (millis()-startOn > 20000 && on == true)  //if the led is on for more than 20 sec
   {
     digitalWrite(LED, LOW);                    //repeat the steps from else if statement
