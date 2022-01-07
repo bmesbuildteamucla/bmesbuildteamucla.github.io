@@ -11,14 +11,14 @@
   - Optional challenge: If you have completed this problem, try to control the bouncing of lights using a sine function.
 
 ### Circuit:
-![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/issues/1#issue-1095809481)
+![WBPS Newton's Cradle Circuit](https://user-images.githubusercontent.com/54077199/148471153-3f2a5481-5146-468e-993f-0bee92b155a8.JPG)
 
 ### Code:
 ```c
-int LED [5] = {9, 10, 11, 12, 13}; //define led pins in array
-int button = 7;
-int current = 0;
-int previous = 0;
+int LED [5] = {7, 6, 5, 4, 3}; //define led pins in array
+int button = 8; //define button pin
+int current = 0; //introduce variable for current state of button
+int previous = 0; //introduce variable for previous state of button
 int time = 100; //time between led flashes
 
 void setup()
@@ -36,28 +36,28 @@ void setup()
 void loop()
 {
   current = digitalRead(button); //current state of button
-  if (current != previous) //if button state changes (when pressed)
+  if (current != previous) //if button state changes (i.e. when pressed)
   {
-    while (time < 500)  //the value 500 ensures it will end on the left (do calculations)
+    while (time < 500)  //while loop controls when the movement stops; the value 500 ensures it will end on the first led (do calculations)
     {
       for (int i=0; i<5; i++) //turns leds on in the rightward direction
       {
-        digitalWrite(LED[i], LOW); //turn off led
-        digitalWrite(LED[i+1], HIGH); //turn on next led
-        delay(time); 
+        digitalWrite(LED[i], LOW); //turn off led i (starts with first led)
+        digitalWrite(LED[i+1], HIGH); //turn on led to the right
+        delay(time);  //delay between led flashes
         time = time + 10;  //increase delay between flashes so it slows down
       }
       for (int i=4; i>0; i--)  //turns leds on in the leftward direction
       {
-        digitalWrite(LED[i-1], HIGH);
-        digitalWrite(LED[i], LOW);
-        delay(time);
+        digitalWrite(LED[i], LOW);    //turn off led i (starts with last led)
+        digitalWrite(LED[i-1], HIGH); //turn on led to the left of i 
+        delay(time);   //delay between led flashes
       	time = time + 10;  //increase delay between flashes so it slows down
       }
     }
-    digitalWrite(LED[0], HIGH); //cycle ends at the first led, so leave that one on
+    digitalWrite(LED[0], HIGH); //cycle ends at the first led, so leave that one on once we leave the while loop
   }
-  current = previous; //reset current
+  current = previous; //reset current state to LOW
 }
 
 ```
