@@ -4,7 +4,7 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* Workshop 2 will be held during Weeks 8 and 10. Look out for an email for workshop signups!
+* Workshop 3, Workshop 4, and Module 4 will all be conducted remotely.
 
 
 ## Important Links:
@@ -27,8 +27,10 @@
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1Cd9dlDVE49lcDEyZ7GGZT8Js4mRNv2PJ/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.ga8a2b44bee_1_8){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/1ip101iTLsNvkOYwQJIGidGGStyfOG4iH/view?usp=sharing){:target="_blank"}
+  - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
   - [Module 2 Activity Solutions](https://drive.google.com/file/d/1aIJo_Upw3mM1sTUNunLbCelsiThxx5iE/view?usp=sharing){:target="_blank"}
 * [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1YxSJYIVqxgyMS-NRKbM2Bqwp5f2EEt_fTw4BTzR31UY/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Recording](https://drive.google.com/drive/folders/18Nnpe-6QpGZoQd0eYNjrURXf29Sga9Jv?usp=sharing){:target="_blank"}
   - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
 * Module 4 - Advanced Circuitry
 * Module 5 - CAD and 3D Printing
@@ -46,6 +48,7 @@
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1MzfLSbuJoHVhDSM6XlCwdYagjAlEi4IGY25DPQf27Ec/edit?usp=sharing){:target="_blank"}
 * [Module 3 - Problem Set Review](https://docs.google.com/presentation/d/1bF2aBrfiVDbsl4BbiuVNkvIp0XhuALoruwlb3VXub64/edit?usp=sharing){:target="_blank"}
   - [Module 3 Recording](https://drive.google.com/file/d/1NyrDVi4oBQ-SoxyRDRxZnc-5wSosoatK/view?usp=sharing){:target="_blank"} 
+  - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1YxSJYIVqxgyMS-NRKbM2Bqwp5f2EEt_fTw4BTzR31UY/edit?usp=sharing){:target="_blank"}
   - [Module 4 Recording](https://drive.google.com/file/d/1-yaJTApEJiRRiEnX-wZsOeQVv1biUL8C/view?usp=sharing){:target="_blank"}
   - [Module 4 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
