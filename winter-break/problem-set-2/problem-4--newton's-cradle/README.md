@@ -15,18 +15,18 @@
 
 ### Code:
 ```c
-int LED [5] = {7, 6, 5, 4, 3}; //define led pins in array
-int button = 8; //define button pin
-int current = 0; //introduce variable for current state of button
-int previous = 0; //introduce variable for previous state of button
-int time = 100; //time between led flashes
+int LED [5] = {7, 6, 5, 4, 3};                                    //define led pins in array
+int button = 8;                                                   //define button pin
+int current = 0;                                                  //introduce variable for current state of button
+int previous = 0;                                                 //introduce variable for previous state of button
+int time = 100;                                                   //time between led flashes
 
 void setup()
 {
   digitalWrite(LED[0], HIGH);
   pinMode(button, INPUT);
   
-  for (int i = 1; i < 5; i++) //for loop turns all leds off except first one and designates as output
+  for (int i = 1; i < 5; i++)                                     //for loop turns all leds off except first one and designates as output
   {
     digitalWrite(LED[i], LOW);
     pinMode(LED[i], OUTPUT);
@@ -35,29 +35,29 @@ void setup()
 
 void loop()
 {
-  current = digitalRead(button); //current state of button
-  if (current != previous) //if button state changes (i.e. when pressed)
+  current = digitalRead(button);                                 //current state of button
+  if (current != previous)                                       //if button state changes (i.e. when pressed)
   {
-    while (time < 500)  //while loop controls when the movement stops; the value 500 ensures it will end on the first led (do calculations)
-    {
-      for (int i=0; i<5; i++) //turns leds on in the rightward direction
+    while (time < 500)                                           //while loop controls when the movement stops depending on how long the delay btwn flashes is
+    {                                                            //the value 500 ensures it will end on the first led (do calculations)
+      for (int i=0; i<5; i++)                                    //turns leds on in the rightward direction
       {
-        digitalWrite(LED[i], LOW); //turn off led i (starts with first led)
-        digitalWrite(LED[i+1], HIGH); //turn on led to the right
-        delay(time);  //delay between led flashes
-        time = time + 10;  //increase delay between flashes so it slows down
+        digitalWrite(LED[i], LOW);                               //turn off led i (starts with first led)
+        digitalWrite(LED[i+1], HIGH);                            //turn on led to the right
+        delay(time);                                             //delay between led flashes
+        time = time + 10;                                        //increase delay between flashes so it slows down
       }
-      for (int i=4; i>0; i--)  //turns leds on in the leftward direction
+      for (int i=4; i>0; i--)                                    //turns leds on in the leftward direction
       {
-        digitalWrite(LED[i], LOW);    //turn off led i (starts with last led)
-        digitalWrite(LED[i-1], HIGH); //turn on led to the left of i 
-        delay(time);   //delay between led flashes
-      	time = time + 10;  //increase delay between flashes so it slows down
+        digitalWrite(LED[i], LOW);                               //turn off led i (starts with last led)
+        digitalWrite(LED[i-1], HIGH);                            //turn on led to the left of i 
+        delay(time);                                             //delay between led flashes
+      	time = time + 10;                                        //increase delay between flashes so it slows down
       }
     }
-    digitalWrite(LED[0], HIGH); //cycle ends at the first led, so leave that one on once we leave the while loop
+    digitalWrite(LED[0], HIGH);                                  //cycle ends at the first led, so leave that one on once we leave the while loop
   }
-  current = previous; //reset current state to LOW
+  current = previous;                                            //reset current state to LOW (previous is set as 0, or low)
 }
 
 ```
