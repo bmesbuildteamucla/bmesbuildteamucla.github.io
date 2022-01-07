@@ -13,35 +13,35 @@
 
 ### Code:
 ```c
-int LED [7] = {5, 1, 2, 3, 4, 5, 1};
-int button [7] = {10, 6, 7, 8, 9, 10, 6};
+int LED [7] = {5, 1, 2, 3, 4, 5, 1};          //define led pins with an array
+int button [7] = {10, 6, 7, 8, 9, 10, 6};     //define button pins with an array
 
 void setup()
 {
-  for (int i = 1; i < 6; i++)
+  for (int i = 1; i < 6; i++)                 //use for loop to designate leds as outputs
     pinMode(LED[i], OUTPUT);
   
-  for (int i = 1; i < 6; i++)
+  for (int i = 1; i < 6; i++)                 //use for loop to designate buttons as inputs
     pinMode(button[i], INPUT);
 }
 
 void loop()
 {
-  for (int i = 1; i < 6; i++)
+  for (int i = 1; i < 6; i++)                 //for loop checks if each button was pressed
   {
     if (digitalRead(button[i]))
     {      
-      if(digitalRead(LED[i]))                 // LED for button pressed
+      if(digitalRead(LED[i]))                 //change state of led if its button is pressed
         digitalWrite(LED[i], LOW);
       else
         digitalWrite(LED[i], HIGH);
       
-      if(digitalRead(LED[i - 1]))             // LED left of button pressed
+      if(digitalRead(LED[i - 1]))             //change state of led to the left
         digitalWrite(LED[i - 1], LOW);
       else
         digitalWrite(LED[i - 1], HIGH);
       
-      if(digitalRead(LED[i + 1]))             // LED right of button pressed
+      if(digitalRead(LED[i + 1]))             //change state of led to the right
         digitalWrite(LED[i + 1], LOW);
       else
         digitalWrite(LED[i + 1], HIGH);
