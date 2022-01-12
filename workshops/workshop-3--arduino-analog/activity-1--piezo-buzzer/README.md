@@ -17,5 +17,18 @@
 
 ### Code:
 ```c++
+int piezo = 3; // Pin for piezo buzzer
+int photo = 5; // Pin for photoresistor
 
+void setup()
+{
+  pinMode(piezo,OUTPUT);
+}
+
+void loop()
+{
+  int value = analogRead(photo); // Analog input
+  int note = map(value,0,1023,400,1000); // Map to output values
+  tone(piezo,note); // Play tone on buzzer
+}
 ```
