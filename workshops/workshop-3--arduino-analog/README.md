@@ -29,7 +29,7 @@
 * Relevant functions
   ```c++
   //(replace "myservo" with your chosen name)
-  myservo.attach(pin)   //assigns the servo pin
+  myservo.attach(pin)   //assigns the servo pin (place in void setup)
   myservo.write(angle)  //tells your servo to move to a specified angle 
   ```
 
