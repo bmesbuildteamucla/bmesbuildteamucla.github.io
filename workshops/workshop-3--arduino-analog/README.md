@@ -5,7 +5,7 @@
 #### Activity 1 - Piezo Buzzer
 * Make a theremin (musical instrument) using a photoresistor and piezo buzzer
   - Alternatively, use a potentiometer to control pitch
-* Play a scale
+* Play a scale of your choosing
 * Relevant functions
   ```c++
   tone(pin, frequency);             //assigns a tone to the specified pin
