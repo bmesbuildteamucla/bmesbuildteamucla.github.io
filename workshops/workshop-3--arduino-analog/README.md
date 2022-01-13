@@ -1,6 +1,7 @@
 # Workshop 3 - Arduino Analog
 
 ## Activities:
+### *** *Note: Remember which pins we use for analog INPUT vs analog OUTPUT* ***
 
 #### Activity 1 - Piezo Buzzer
 * Make a theremin (musical instrument) using a photoresistor and piezo buzzer
