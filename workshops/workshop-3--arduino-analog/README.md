@@ -19,7 +19,7 @@
 
 #### Activity 2 - Servo Motors
 * Program the Servo to sweep back and forth automatically
-* Use a potentiometer or joystick to it to control the servo manually
+* Then use a potentiometer or joystick to control the servo manually
 * Initializing Servo (above void setup)
   ```c++
   #include <Servo.h>    //allows you to use the servo library
