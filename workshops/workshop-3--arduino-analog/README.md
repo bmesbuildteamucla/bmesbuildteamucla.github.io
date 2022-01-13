@@ -33,8 +33,8 @@
 #### Activity 3 - Thermometer
 * Use a thermistor to measure temperature
   - Pinch and release the thermistor to see temperature changes
-  - Graph using Serial Plotter
-  - Alternatively, use photoresistor to measure brightness
+  - Graph using Serial Plotter (in the Arduino IDE, go to tools > Serial Plotter)
+  - Alternatively, use a photoresistor to measure brightness
 
 
 #### Activity 4 - Night Light
