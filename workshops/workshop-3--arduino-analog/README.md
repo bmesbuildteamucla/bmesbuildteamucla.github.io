@@ -10,7 +10,10 @@
   ```c++
   tone(pin, frequency);             //assigns a tone to the specified pin
   tone(pin, frequency, duration);   //assigns a tone to the specified pin for specified duration
-  noTone(pin);                      //turns off the sound
+  delay(milliseconds)               //can create a pause between notes
+  noTone(pin)                       //turns off the tone
+  //IMPORTANT NOTE: if you use tone(pin, frequency, duration) and then delay(ms), the delay must be equal to
+  //the duration of the tone PLUS the amount of pause you want after it
   ```
 
 
