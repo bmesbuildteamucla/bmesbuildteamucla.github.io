@@ -8,24 +8,25 @@
 * Play a scale
 * Relevant functions
   ```c++
-  tone(pin, frequency);
-  tone(pin, frequency, duration);
-  noTone(pin);
+  tone(pin, frequency);             //assigns a tone to the specified pin
+  tone(pin, frequency, duration);   //assigns a tone to the specified pin for specified duration
+  noTone(pin);                      //turns off the sound
   ```
 
 
 #### Activity 2 - Servo Motors
 * Program the Servo to sweep back and forth automatically
 * Use a potentiometer or joystick to it to control the servo manually
-* Initializing Servo (above setup)
+* Initializing Servo (above void setup)
   ```c++
-  #include <Servo.h>
-  Servo myservo;
+  #include <Servo.h>    //allows you to use the servo library
+  Servo myservo;        //names your servo and assigns it as a servo
   ```
 * Relevant functions
   ```c++
-  myservo.attach(pin)
-  myservo.write(angle)
+  //(replace "myservo" with your chosen name)
+  myservo.attach(pin)   //assigns the servo pin
+  myservo.write(angle)  //tells your servo to move to a specified angle 
   ```
 
 
