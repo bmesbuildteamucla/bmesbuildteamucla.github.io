@@ -73,7 +73,7 @@
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
-* Workshop 4 - Processing
+* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
 * Workshop 5 - Advanced Circuitry
 * Workshop 6 - Pulse Ox
 
