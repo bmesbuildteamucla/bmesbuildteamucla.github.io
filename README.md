@@ -33,7 +33,8 @@
   - [Module 3 Recording](https://drive.google.com/drive/folders/18Nnpe-6QpGZoQd0eYNjrURXf29Sga9Jv?usp=sharing){:target="_blank"}
   - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1KiBaPF6pmOhhgY1Lq-Xf2k2_XRJ3IUTZud3Hw45-c4M/edit?usp=sharing){:target="_blank"}
-* Module 4 - Advanced Circuitry
+* [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1xZ14nbmwqd3Bsuy7LpmPoQUacMf6yJs96JQIXX6Ul2s/edit?usp=sharing){:target="_blank"}
+  - [Module 4 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing)
 * Module 5 - CAD and 3D Printing
 * Module 6 - PCB Design
 
