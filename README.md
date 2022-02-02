@@ -4,12 +4,13 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* Workshop 3, Workshop 4, and Module 4 will all be conducted remotely.
+* We will be conducting workshops in-person for the remainder of the quarter.
 
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
 * [Attendance Form](https://forms.gle/TnbsyYqZM93ebyAU7){:target="_blank"}
+* [Project Teams](https://docs.google.com/spreadsheets/d/1V2ycTSLA9kKPqP5X8m7fK5pTdJRkqyA5kYCWkeGm4b4/edit#gid=0){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 <!-- From 2020-2021 Year
