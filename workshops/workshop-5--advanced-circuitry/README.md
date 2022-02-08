@@ -56,6 +56,7 @@
   - Filter your potentiometer output using each filter and observe what happens
   - You can read in both the unfiltered and filtered signals through your Arduino and monitor using the Serial Plotter
   - Try to filter at different frequencies by using different resistors/capacitors and see their effect on filtering
+  - Long capacitor is 4.7 μF and short capacitor is 6.8 μF
   - Turn the potentiometer dial quickly/slowly and see the effect it makes on the output graph. Does this match your expectations for the different filter types?
   
 * Combine the low pass and high pass filters together to create a band pass filter
