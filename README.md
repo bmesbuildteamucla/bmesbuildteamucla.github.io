@@ -4,7 +4,6 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2021-2022!
-* We will be conducting workshops in-person for the remainder of the quarter.
 
 
 ## Important Links:
