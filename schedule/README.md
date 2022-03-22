@@ -41,8 +41,8 @@
 | Week        | Event       |
 | ----------- | ----------- |
 | 1           | **Module 5 - CAD and 3D Printing**   |
-| 2           | **Module 6- PCB Design**   |
-| 3           | *Team Projects* |
+| 2           | *Team Projects* |
+| 3           | **Module 6- PCB Design**   |
 | 4           | *Team Projects* |
 | 5           | *Team Projects* |
 | 6           | *Team Projects* |
