@@ -37,7 +37,7 @@
   - [Module 4 Recording](https://drive.google.com/file/d/1pvmmXL1nglvqwEsMkcidV76zK-MAZTZA/view?usp=sharing){:target="_blank"}
   - [Module 4 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing){:target="_blank"}
   - [Module 4 Activity Solutions](https://docs.google.com/document/d/1Npin6qgyQ85ZdrN_by4vWvQEm9qFyJ8iwcy2xl4i0n8/edit?usp=sharing){:target="_blank"}
-* Module 5 - CAD and 3D Printing
+* [Module 5 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Kf1c2bGS3L6cldbxF2PRkPOYgZ5K9L6B0DXiP8g4jB0/edit?usp=sharing){:target="_blank"}
 * Module 6 - PCB Design
 
 
