@@ -41,6 +41,7 @@
   - [Module 5 Recording](https://drive.google.com/file/d/12wyZYsMazcE_cHWVvhYAnbCk5wz2ezsF/view?usp=sharing){:target="_blank"}
   - Note: you can skip 27:40 - 45:35, we forgot to pause the recording while helping people
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1NXjCmq0iscCOOHnRjZsCWuts6fBJQJvH69GtnrqpjPU/edit?usp=sharing){:target="_blank"}
+  - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
 
 
 <!-- With Links
