@@ -44,7 +44,33 @@
   - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
 
 
-<!-- With Links
+## Workshops:
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
+  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
+* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
+* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
+* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing){:target="_blank"}
+* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
+* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
+* [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
+
+
+## Winter Break:
+* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+<!--
+* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
+-->
+
+## Other Resources:
+* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
+* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
+* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"}
+* [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
+* [Processing](https://processing.org/){:target="_blank"}
+* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
+* [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
+
+<!-- 2020-2021 Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording](https://drive.google.com/file/d/1v371u52bdkZyGOkvFJzcsAOQe06-_4Qy/view?usp=sharing){:target="_blank"}
   - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
@@ -72,44 +98,6 @@
   - [Module 6 Recording](https://drive.google.com/file/d/1vzV2xjUUbSyrw0-quR95nKaR6NmxuKvp/view?usp=sharing){:target="_blank"}
 * [Module 7 - PCB Design](https://docs.google.com/presentation/d/1a9UcMGXtBZa6nYkGyeF7D-Wecjr_owqN8O3C9EpJRV0/edit?usp=sharing){:target="_blank"}
   - [Module 7 Recording](https://drive.google.com/file/d/17T4tNrzg3KxWoqgs2wTcl5bq5_p-sY0i/view?usp=sharing){:target="_blank"}
--->
-
-## Workshops:
-* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
-  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
-* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
-* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
-* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
-* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
-* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
-
-<!-- With Links
-* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry)
-* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
-* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
-* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing)
-* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry)
-* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox)
-  - [Workshop 6 Slides](https://docs.google.com/presentation/d/1lXCjlvBOu5xO9jylCpoHvO5GxCgGoJhBh_2EO6PUc8k/edit?usp=sharing){:target="_blank"}
 * [Pulse Ox Workshops Slides](https://docs.google.com/presentation/d/1E5gPq8T2_aN52fQAGBAVvM0ohi9-Oa1ZkAPdwF6Nm9w/edit?usp=sharing)
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
 -->
-
-
-## Winter Break:
-* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-
-<!--
-* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
--->
-
-## Other Resources:
-* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
-* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
-* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"}
-* [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
-* [Processing](https://processing.org/){:target="_blank"}
-* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
-* [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
-
-
