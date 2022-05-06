@@ -53,13 +53,11 @@
 * [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
 * [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
 * [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
+* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
 
 
 ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-<!--
-* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
--->
 
 ## Other Resources:
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
@@ -100,4 +98,5 @@
   - [Module 7 Recording](https://drive.google.com/file/d/17T4tNrzg3KxWoqgs2wTcl5bq5_p-sY0i/view?usp=sharing){:target="_blank"}
 * [Pulse Ox Workshops Slides](https://docs.google.com/presentation/d/1E5gPq8T2_aN52fQAGBAVvM0ohi9-Oa1ZkAPdwF6Nm9w/edit?usp=sharing)
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
+* [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
 -->
