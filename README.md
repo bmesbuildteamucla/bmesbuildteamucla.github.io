@@ -53,7 +53,7 @@
 * [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
 * [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
 * [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
-* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
+* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
 
 
 ## Winter Break:
