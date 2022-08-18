@@ -8,16 +8,8 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* [Attendance Form](https://forms.gle/ZzXGYDD9TyYf1Cqu7){:target="_blank"}
+* [Attendance Form](https://forms.gle/HDgaw19E6Awwp7p56){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
-
-<!-- From 2020-2021 Year
-* [Zoom Link for Modules and Workshops](https://ucla.zoom.us/j/96867050222?pwd=YzB0eDUxQTBDblJwdlJ5MGtJeldZdz09){:target="_blank"}
-* [Pre-Survey](https://forms.gle/S33p8xAQbwbMVoAy8){:target="_blank"}
-* [Roll Call Form](https://forms.gle/XZ7gewyh3c4s5fa69){:target="_blank"}
-* [Group Selection Form](https://forms.gle/JmQx6Tgvp3qvBEK69){:target="_blank"}
-* [Finalized Team List](https://docs.google.com/spreadsheets/d/13ct0IZtwwvNx59pxNS875X9kuNpFbP7LVUzYOktzIXM/edit?usp=sharing)
--->
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
@@ -98,4 +90,28 @@
 * [Pulse Ox Workshops Slides](https://docs.google.com/presentation/d/1E5gPq8T2_aN52fQAGBAVvM0ohi9-Oa1ZkAPdwF6Nm9w/edit?usp=sharing)
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing)
 * [Spring Break Competition Details](https://bmesbuildteamucla.github.io/spring-break)
+-->
+
+<!-- 2021-2022 Links
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Recording](https://drive.google.com/drive/folders/1hN4cSLjjiMO3vtS0L78lizTGECJE9waA?usp=sharing){:target="_blank"}
+  - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/1Cd9dlDVE49lcDEyZ7GGZT8Js4mRNv2PJ/view?usp=sharing){:target="_blank"}
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.ga8a2b44bee_1_8){:target="_blank"}
+  - [Module 2 Recording](https://drive.google.com/file/d/1ip101iTLsNvkOYwQJIGidGGStyfOG4iH/view?usp=sharing){:target="_blank"}
+  - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Activity Solutions](https://drive.google.com/file/d/1aIJo_Upw3mM1sTUNunLbCelsiThxx5iE/view?usp=sharing){:target="_blank"}
+* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1YxSJYIVqxgyMS-NRKbM2Bqwp5f2EEt_fTw4BTzR31UY/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Recording](https://drive.google.com/drive/folders/18Nnpe-6QpGZoQd0eYNjrURXf29Sga9Jv?usp=sharing){:target="_blank"}
+  - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Activity Solutions](https://docs.google.com/document/d/1KiBaPF6pmOhhgY1Lq-Xf2k2_XRJ3IUTZud3Hw45-c4M/edit?usp=sharing){:target="_blank"}
+* [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1xZ14nbmwqd3Bsuy7LpmPoQUacMf6yJs96JQIXX6Ul2s/edit?usp=sharing){:target="_blank"}
+  - [Module 4 Recording](https://drive.google.com/file/d/1pvmmXL1nglvqwEsMkcidV76zK-MAZTZA/view?usp=sharing){:target="_blank"}
+  - [Module 4 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing){:target="_blank"}
+  - [Module 4 Activity Solutions](https://docs.google.com/document/d/1Npin6qgyQ85ZdrN_by4vWvQEm9qFyJ8iwcy2xl4i0n8/edit?usp=sharing){:target="_blank"}
+* [Module 5 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Kf1c2bGS3L6cldbxF2PRkPOYgZ5K9L6B0DXiP8g4jB0/edit?usp=sharing){:target="_blank"}
+  - [Module 5 Recording](https://drive.google.com/file/d/12wyZYsMazcE_cHWVvhYAnbCk5wz2ezsF/view?usp=sharing){:target="_blank"}
+  - Note: you can skip 27:40 - 45:35, we forgot to pause the recording while helping people
+* [Module 6 - PCB Design](https://docs.google.com/presentation/d/1NXjCmq0iscCOOHnRjZsCWuts6fBJQJvH69GtnrqpjPU/edit?usp=sharing){:target="_blank"}
+  - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
 -->
