@@ -4,6 +4,7 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2022-2023!
+* Applications for technical projects are due Friday of Week 2 (10/7) and can be found on the BMES website.
 
 
 ## Important Links:
@@ -12,6 +13,51 @@
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 ## Modules:
+* Module 1 - Intro to Circuits
+* Module 2 - Intro to Coding and Arduino
+* Module 3 - Arduino Analog, Blood, Spectroscopy
+* Module 4 - Winter Break Problem Set and Processing
+* Module 5 - Advanced Circuitry
+* Module 6 - CAD and 3D Printing
+* Module 7 - PCB Design
+
+## Workshops:
+* Workshop 1 - Basic Circuitry
+* Workshop 2 - Coding and Arduino
+* Workshop 3 - Arduino Analog
+* Workshop 4 - Advanced Circuitry
+* Workshop 5 - CAD and Pulse Ox
+* Workshop 6 - PCB and Pulse OX
+
+
+<!--
+## Workshops:
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
+  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
+* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
+* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
+* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing){:target="_blank"}
+* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
+* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
+* [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
+* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
+-->
+
+<!--
+## Winter Break:
+* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+-->
+
+## Other Resources:
+* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
+* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
+* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"}
+* [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
+* [Processing](https://processing.org/){:target="_blank"}
+* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
+* [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
+
+<!-- 2021-2022 Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording](https://drive.google.com/drive/folders/1hN4cSLjjiMO3vtS0L78lizTGECJE9waA?usp=sharing){:target="_blank"}
   - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
@@ -33,31 +79,7 @@
   - Note: you can skip 27:40 - 45:35, we forgot to pause the recording while helping people
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1NXjCmq0iscCOOHnRjZsCWuts6fBJQJvH69GtnrqpjPU/edit?usp=sharing){:target="_blank"}
   - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
-
-
-## Workshops:
-* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
-  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
-* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
-* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
-* [Workshop 4 - Processing](https://bmesbuildteamucla.github.io/workshops/workshop-4--processing){:target="_blank"}
-* [Workshop 5 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
-* [Workshop 6 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
-* [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
-* [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
-
-
-## Winter Break:
-* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-
-## Other Resources:
-* [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
-* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
-* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"}
-* [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
-* [Processing](https://processing.org/){:target="_blank"}
-* [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
-* [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
+-->
 
 <!-- 2020-2021 Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
