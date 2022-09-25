@@ -14,7 +14,7 @@
 | 6           | **Module 2 - Intro to Coding and Arduino** |
 | 7           | *Workshop 2A - Coding and Arduino* |
 | 8           | *Workshop 2B - Coding and Arduino* |
-| 9           | **Module 3 - Arduino Analog ** |
+| 9           | **Module 3 - Arduino Analog** |
 | 10           | *Optional Workshop* |
 
 ---
