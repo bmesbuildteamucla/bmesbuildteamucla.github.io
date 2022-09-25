@@ -11,11 +11,11 @@
 | ----------- | ----------- |
 | 4           | **Module 1 - Intro to Circuits**   |
 | 5           | *Workshop 1 - Basic Circuitry*  |
-| 6           | *Workshop 1 - Basic Circuitry* |
-| 7           | **Module 2 - Intro to Coding and Arduino**   |
-| 8           | *Workshop 2 - Coding and Arduino* |
-| 9           | *No Workshop (Thanksgiving)* |
-| 10           | *Workshop 2 - Coding and Arduino* |
+| 6           | **Module 2 - Intro to Coding and Arduino** |
+| 7           | *Workshop 2A - Coding and Arduino* |
+| 8           | *Workshop 2B - Coding and Arduino* |
+| 9           | **Module 3 - Arduino Analog ** |
+| 10           | *Optional Workshop* |
 
 ---
 
@@ -23,15 +23,15 @@
 
 | Week        | Event       |
 | ----------- | ----------- |
-| 1           | **Module 3 - Arduino Analog, Blood, Spectroscopy**   |
-| 2           | *Workshop 3 - Arduino Analog* |
-| 3           | *Workshop 4 - Processing* |
-| 4           | **Module 4 - Advanced Circuitry**   |
-| 5           | *Workshop 5 - Advanced Circuitry* |
-| 6           | *Workshop 6 - Pulse Ox* |
-| 7           | *Workshop 6 - Pulse Ox* |
-| 8           | *Workshop 6 - Pulse Ox* |
-| 9           | *Workshop 6 - Pulse Ox* |
+| 1           | *Workshop 3 - Arduino Analog* |
+| 2           | **Module 4 - Winter Break PS and Processing** |
+| 3           | **Module 5 - Advanced Circuitry** |
+| 4           | *Workshop 4A - Advanced Circuitry* |
+| 5           | *Workshop 4B - Advanced Circuitry* |
+| 6           | **Module 6 - CAD and 3D Printing** |
+| 7           | *Workshop 5 - CAD and Pulse Ox* |
+| 8           | **Module 7 - PCB Design |
+| 9           | *Workshop 6 - PCB and Pulse Ox* |
 | 10          | *Optional Workshop* |
 
 ---
@@ -40,9 +40,9 @@
 
 | Week        | Event       |
 | ----------- | ----------- |
-| 1           | **Module 5 - CAD and 3D Printing**   |
+| 1           | *Team Projects* |
 | 2           | *Team Projects* |
-| 3           | **Module 6- PCB Design**   |
+| 3           | *Team Projects* |
 | 4           | *Team Projects* |
 | 5           | *Team Projects* |
 | 6           | *Team Projects* |
