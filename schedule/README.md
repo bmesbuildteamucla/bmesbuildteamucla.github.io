@@ -30,7 +30,7 @@
 | 5           | *Workshop 4B - Advanced Circuitry* |
 | 6           | **Module 6 - CAD and 3D Printing** |
 | 7           | *Workshop 5 - CAD and Pulse Ox* |
-| 8           | **Module 7 - PCB Design |
+| 8           | **Module 7 - PCB Design** |
 | 9           | *Workshop 6 - PCB and Pulse Ox* |
 | 10          | *Optional Workshop* |
 
