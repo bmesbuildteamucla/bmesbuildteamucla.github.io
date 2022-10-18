@@ -4,8 +4,6 @@
 ## Announcements:
 
 * Welcome to the Build Team Website for 2022-2023!
-* Applications for technical projects are due Friday of Week 2 (10/7) and can be found on the BMES website.
-
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
@@ -13,7 +11,8 @@
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 ## Modules:
-* Module 1 - Intro to Circuits
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1f23iVk5Y5FOH8NaOSxPxmwUtY5e_JB2p7CVUL6pxIcc/edit){:target="_blank"}
+  - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"}: Passcode Wev9G%%?
 * Module 2 - Intro to Coding and Arduino
 * Module 3 - Arduino Analog, Blood, Spectroscopy
 * Module 4 - Winter Break Problem Set and Processing
