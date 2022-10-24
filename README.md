@@ -22,7 +22,7 @@
 * Module 7 - PCB Design
 
 ## Workshops:
-* Workshop 1 - Basic Circuitry
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
 * Workshop 2 - Coding and Arduino
 * Workshop 3 - Arduino Analog
 * Workshop 4 - Advanced Circuitry
