@@ -35,14 +35,19 @@
 	    > Vout = Vin (R2/ (R1 + R2))
 
 
-#### Activity 3 - LEDs and Data Sheets
+#### Activity 3 - LEDs and Current
 * Determine mathematically how increasing the resistance of the resistor will affect the current flowing across the LED (the brightness of an LED is proportional to the current flowing throught it). Prove your conclusion by increasing and decreasing the resistance of the resistor and observing the brightness of the LED.
-* Set up LEDs (each with a resistor) in parallel and series with each other. Observe the differences in the brightness and give a reason for your observation using what we learned in the module.
+	- Don't use a resistor lower than 220 Ohms
+* Next, set up 2 LEDs in parallel with each other. Make sure each LED has its own resistor! Then set up the same LEDs in series with each other. Observe the differences in the brightness and give a reason for your observation using what we learned in the module.
 
 	- Relevant Equations:
 
-	  > V = IR
+	  > Ohm's Law:
+	  > 
+	  >  V = IR
 	  >
+	  > Power equation:
+	  > 
 	  > P = IV = I^2R = V^2/R
 
 
