@@ -14,7 +14,7 @@
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1f23iVk5Y5FOH8NaOSxPxmwUtY5e_JB2p7CVUL6pxIcc/edit){:target="_blank"}
   - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1fsy1eyX2Uz4N-Hn-nUqrhhQ1b22kcu9w/view?usp=sharing){:target="_blank"}
-* Module 2 - Intro to Coding and Arduino
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1qqgoNugdRBwcuI3rBUI2iIq2a75lU3CfYBpfi7GyWkI/edit?usp=sharing){:target="_blank"}
 * Module 3 - Arduino Analog, Blood, Spectroscopy
 * Module 4 - Winter Break Problem Set and Processing
 * Module 5 - Advanced Circuitry
