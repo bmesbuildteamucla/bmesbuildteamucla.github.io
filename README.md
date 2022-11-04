@@ -17,6 +17,7 @@
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1qqgoNugdRBwcuI3rBUI2iIq2a75lU3CfYBpfi7GyWkI/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/1bVfOTjLeYEX4knIRUH6yZCtYL-fb8BrS/view?usp=sharing){:target="_blank"}
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1MZKdi6chKThW_C92pozkTveDxa0r4rdBZUt9tk4EWX4/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Review Quiz (Optional)](https://forms.gle/AasQnx2QxztbN3sW8){:target="_blank"}
 * Module 3 - Arduino Analog, Blood, Spectroscopy
 * Module 4 - Winter Break Problem Set and Processing
 * Module 5 - Advanced Circuitry
