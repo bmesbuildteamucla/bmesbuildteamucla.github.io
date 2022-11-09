@@ -15,8 +15,9 @@
 
 #### Activity 3 - LED Button
 * LED lights up when the button is pressed and turns off when the button is not pressed
-* Use the Arduino, i.e. wire the button and LED separately to the Arduino
-* The button and LED should not be in series
+* Use the code to achieve this rather than the circuit
+	- Wire the button and LED separately to the Arduino 
+	- The button and LED should not be in the same circuit (separate power and ground)
 
 #### Activity 4 - LED Switch
 * Have the LED turn on if off when the button is clicked and turn off if on when the button is clicked (toggle on/off)
