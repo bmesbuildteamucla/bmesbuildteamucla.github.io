@@ -52,7 +52,7 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 
 * If you turn the potentiometer back to the left, the LEDs should turn off at the same points where they turned on (the second LED should turn off first).
 
-* Wire the potentiometer and each LED separately (they should all have their own independent circuits)
+* Wire the potentiometer and each LED separately (they should all have their own independent circuits).
 
 #### Optional Challenge Problem - Morse Code
 * Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
