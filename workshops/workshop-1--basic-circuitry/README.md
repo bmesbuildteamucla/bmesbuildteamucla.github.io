@@ -57,13 +57,36 @@
 
 
 ## Solutions:
+#### Activity 1 - Ohm's Law
+* First measure the voltage across R1 (place multimeter probes on each side of R1), then measure the current going through R1 (place the probes in series with R1). Plug the voltage and current values into Ohm's law and verify that they equal the resistor value. A small error is fine, this is due to allowable error in your circuit components.
+* Diagram of measuring current through R1 (V through R1 is 3.85 V in this case and R1=100, so Ohm's Law checks out):
+
+![image](https://user-images.githubusercontent.com/54077199/206894658-5ee09840-63bd-41f0-8952-ce7ea941c68a.png)
+
+* Next, measure the current going through R2 and R3. These values should add up to the current through R1, which was 38.5 mV.
+* Note that the circuit has been rearranged in order to measure the current going into R2. This is a bit of a difficult concept. We want to measure the current after the junction and before R2, so we have staggered R2 and R3 in order to redirect the current properly. The area that we are measuring in is highlighted in the circuit schematic below:
+
+![circuit image](https://user-images.githubusercontent.com/54077199/206895363-c5b1b3b8-841a-41ed-bc67-e39b370395c7.JPG)
+![image](https://user-images.githubusercontent.com/54077199/206895249-9b7797ae-f77c-4cb6-9d29-2e18412eb9a9.png)
+* Note that the current value is displaying as negative because we have placed the negative lead of the multimeter on the positive side of the current direction. This doesn't matter, the absolute value of the measurement is still accurate.
+* Measuring current going through R3:
+
+![image](https://user-images.githubusercontent.com/54077199/206895509-e6eb4c4d-1811-4588-98c5-2a5d5e37cb90.png)
+
+* The voltage values measured across R2 and R3 were both 5.09 V. Plugging this into Ohm's law with either of the resistor/current combinations verifies this value.
+* Now we can finally verify the Junction Rule by verifying that I1 = I2 + I3: 
+
+	> 23.1 mA + 15.4 mA = 38.5 mA
+* Yay!
+
+
 #### Activity 2 - Voltage Divider
 - It's simplest to use the same resistor value for R1 and R2 - this makes your Vout half of your Vin
 - Measure Vout by attaching your multimeter to either side of R2 (the resistor closer to ground)
 - You can vary the values of R1 and R2 to see how Vout changes
 - You can also use your Arduino as a voltage source (Vin would be 5V instead of the 9V from the battery)
 
-![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/issues/3#issue-1489646766)
+![image](https://user-images.githubusercontent.com/54077199/206894031-6263f1f0-849d-4606-abcb-3ae485866402.png)
 
 #### Activity 4 - LEDs and Switches
 
