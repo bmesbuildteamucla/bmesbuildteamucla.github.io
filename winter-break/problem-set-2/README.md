@@ -50,9 +50,9 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 #### Problem 5 - Potentiometer LED Switch
 * You are trying to design a potentiometer to be used a switch to control two LEDs. When the potentiometer is turned all the way to the left (the default state), the two LEDs should be OFF at the beginning. As you begin turning the potentiometer to the right, the first LED should turn on when you pass a certain point, and the second LED should turn on after you pass another point. You can choose these points.
 
-* If you turn the potentiometer back to the left, the LEDs should turn off at the same points where they turned on (2nd LED will turn off first).
+* If you turn the potentiometer back to the left, the LEDs should turn off at the same points where they turned on (the second LED should turn off first).
 
-* Wire the potentiometer and LEDs separately (they should all have their own independent circuits)
+* Wire the potentiometer and each LED separately (they should all have their own independent circuits)
 
 #### Optional Challenge Problem - Morse Code
 * Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
