@@ -79,6 +79,7 @@
 	> 23.1 mA + 15.4 mA = 38.5 mA
 * Yay!
 
+***
 
 #### Activity 2 - Voltage Divider
 - It's simplest to use the same resistor value for R1 and R2 - this makes your Vout half of your Vin
@@ -88,10 +89,14 @@
 
 ![image](https://user-images.githubusercontent.com/54077199/206894031-6263f1f0-849d-4606-abcb-3ae485866402.png)
 
+***
+
 #### Activity 3 - LEDs and Current
 * According to Ohm's Law, the voltage drop across a resistor is directly proportional to the resistance. If the resistance is increased, the voltage drop increases. Since the resistor is placed before the LED in series, the LED receives less voltage if more voltage is "used up" by the resistor. Since power is directly proportional to voltage, the LED gets less power and therefore becomes less bright.
 * When the LEDs are in series, each LED receives only a portion of the total voltage because the effective voltage drops after each circuit component.
 * When the LEDs are in parallel, they both receive the full voltage value because voltage does not "split" in parallel. They both have equal access to the original voltage source. Since power is directly proportional the voltage, both LEDs receive more power in parallel and therefore appear brighter.
+
+***
 
 #### Activity 4 - LEDs and Switches
 
