@@ -57,6 +57,14 @@
 
 
 ## Solutions:
+#### Activity 2 - Voltage Divider
+- It's simplest to use the same resistor value for R1 and R2 - this makes your Vout half of your Vin
+- Measure Vout by attaching your multimeter to either side of R2 (the resistor closer to ground)
+- You can vary the values of R1 and R2 to see how Vout changes
+- You can also use your Arduino as a voltage source (Vin would be 5V instead of the 9V from the battery)
+
+![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/issues/3#issue-1489646766)
+
 #### Activity 4 - LEDs and Switches
 
 - Green LED circuit is completed when button is pressed, so LED turns on
