@@ -21,7 +21,7 @@
 * [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Mw5n7vAaftBb0QWx6FYwjS-MktnZrBpNhOCRI0DFyeo/edit?usp=sharing){:target="_blank"}
   - [Module 3 Recording](https://drive.google.com/file/d/1YLc8z8xRc38fGcdaozv1y7-P5x-gV4hx/view?usp=sharing){:target="_blank"}
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
-* Module 4 - Winter Break Problem Set and Processing
+* [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1w9jnbE4WoDbKuROmt83tUZXGGGQSWGGtHcrOTF2eWog/edit?usp=sharing){:target="_blank"}
 * Module 5 - Advanced Circuitry
 * Module 6 - CAD and 3D Printing
 * Module 7 - PCB Design
