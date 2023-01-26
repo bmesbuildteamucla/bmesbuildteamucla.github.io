@@ -23,8 +23,8 @@
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1w9jnbE4WoDbKuROmt83tUZXGGGQSWGGtHcrOTF2eWog/edit?usp=sharing){:target="_blank"}
   - [Module 4 Recording](https://drive.google.com/file/d/1W377vp2gs9LhnSXp_LT113_oahE2bNe-/view?usp=sharing){:target="_blank"}
-* Module 5 - Advanced Circuitry
-* Module 6 - CAD and 3D Printing
+* [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1atgqWqmfczE9pHfFCq9CTDW6RgyeQtPvQlGr7-JyWs4/edit#slide=id.gfdae518652_0_0){:target="_blank"}
+* Module 6 - CAD and 3D Printin
 * Module 7 - PCB Design
 
 ## Workshops:
