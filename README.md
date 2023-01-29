@@ -32,7 +32,7 @@
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
-* Workshop 4 - Advanced Circuitry
+* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
 * Workshop 5 - CAD and Pulse Ox
 * Workshop 6 - PCB and Pulse OX
 
