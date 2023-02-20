@@ -26,7 +26,8 @@
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1atgqWqmfczE9pHfFCq9CTDW6RgyeQtPvQlGr7-JyWs4/edit#slide=id.gfdae518652_0_0){:target="_blank"}
   - [Module 5 Recording](https://drive.google.com/file/d/1TgqPGVb_E8O934O6DQdGyb8HxZUR2EK5/view?usp=sharing){:target="_blank"}
 * [Module 6 - CAD and 3D Printing](https://docs.google.com/presentation/d/1LVj3hpve1fgcmeYeT34nZV0Wg44giaI1fsfMPCDPfFI/edit?usp=sharing){:target="_blank"}
-* Module 7 - PCB Design
+  - [Module 6 Recording](https://drive.google.com/file/d/1iLLKfOZIezLHT3dlFERyquZHJwZeGbVl/view?usp=sharing){:target="_blank"}
+* [Module 7 - PCB Design](https://docs.google.com/presentation/d/1GWW7Bd8lNxWaFQK-WVvlD8fX3iEyEK0D8P7zPjxDTuI/edit?usp=sharing){:target="_blank"}
 
 ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
