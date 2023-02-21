@@ -35,7 +35,7 @@
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
-* [Workshop 5 - CAD and 3D Printing](https://docs.google.com/presentation/d/1LVj3hpve1fgcmeYeT34nZV0Wg44giaI1fsfMPCDPfFI/edit?usp=sharing){:target="_blank"}
+* Workshop 5 - CAD and 3D Printing
 * Workshop 6 - PCB and Pulse OX
 
 
