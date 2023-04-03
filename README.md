@@ -37,7 +37,9 @@
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
 * Workshop 5 - CAD and 3D Printing
-* Workshop 6 - PCB and Pulse OX
+* Workshop 6 - PCB and Pulse Ox
+* [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
+* [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
 
 
 <!--
