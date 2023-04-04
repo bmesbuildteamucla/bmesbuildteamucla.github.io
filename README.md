@@ -39,11 +39,10 @@
 * Workshop 5 - CAD and 3D Printing
 * Workshop 6 - PCB and Pulse Ox
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
-* [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
-
 
 <!--
 ## Workshops:
+* [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
