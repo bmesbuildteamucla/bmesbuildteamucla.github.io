@@ -49,6 +49,12 @@
 
 2. Plot the output from the transimpedance amplifier using the Serial Plotter.
 3. Print the output values on the Processing console.
+  * Make sure you include these lines of code at the top of your Processing code and upload Standard Firmata from Arduino IDE each time you unplug your Arduino or switch from Arduino IDE code to Processing code
+  ```c++
+  import processing.serial.*;
+  import cc.arduino.*;
+  import org.firmata.*;
+  ```
 4. Attach a red LED and use it with the sensor (this is the basic pulse ox). We recommend using the jumper wires with male/female ends to connect the LED.
 5. Using Processing, try to plot the pulse ox signal (use the `line()` function).
 
