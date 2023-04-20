@@ -79,9 +79,15 @@
 #### Activity 5 - Customize Processing Display
 * Now that the signal is optimized, work on how the signal is displayed
 * Experiment with different color, weights, connections, etc
+* This part is up to you to customize to your liking!
 * What happens when the signal hits the end of the screen?
   - Can you make it reset or scroll?
   - Can you adaptively rescale the y-axis?
+* Examples of other fun features you could add to your display:
+  - Numerical BPM display
+  - Blinking when BPM measurement has been achieved
+  - Change line color based on heart rate
+  - Anything else you can think of!
   
 #### Activity 6 - Adding an Infrared (IR) LED
 * Look at [these slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
