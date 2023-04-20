@@ -65,6 +65,7 @@
   - Is the pulse graph visible yet?
 * Add an appropriate non-inverting amplifier circuit
   - Calculate the theoretical gain
+* Your plot should look something like this:
 
 #### Activity 4 - Filtering Signal
 * At this point, you should be able to see your pulse, but it should be very noisy.
@@ -81,7 +82,25 @@
 * What happens when the signal hits the end of the screen?
   - Can you make it reset or scroll?
   - Can you adaptively rescale the y-axis?
-
+  
+#### Activity 6 - Adding an Infrared (IR) LED
+* Look at [these slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
+* This step is optional, but it means that your final device will be a fully functional pulse oximeter (rather than just heart rate monitor)
+* If you choose to do this, we can help you along the way but we don't have specific instructions like the other activities. You have all the knowledge and tools you need to guide yourself through it!
+  
+#### Activity 7 - PCB Design
+* By now you should have a functioning circuit on your breadboard! 
+* Now it's time to translate your circuit into a PCB design. Keep in mind that the example we showed in Module 7 was not the full circuit design. Your PCB design should include the following:
+  - Red LED circuit (don't forget resistor!)
+  - Photodiode (connected to transimpedance amp)
+    - Remember you can just use the same part as you did for the red LED because the diodes have the same footprint (see note below)
+  - Both of your operational amplifier circuits (2 op amps total plus resistors)
+  - Your low pass filter circuit (resistor and capacitor)
+  - IR LED circuit (if you added this)
+* Important notes about PCBs:
+  - The printed circuit board doesn't actually come with the parts, it just comes with the "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
+  - The footprint of a part is like its outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
+  - Soldering is a permanent method of attaching two metal parts together. It is the permanent version of plugging a wire or the legs of a circuit component into your breadboard. You use a hot pen-like device to add liquid metal that connects your PCB to the legs of the part you are attaching.
 
 <!--
 hide solutions
