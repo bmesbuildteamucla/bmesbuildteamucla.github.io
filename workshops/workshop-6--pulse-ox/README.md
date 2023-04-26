@@ -103,10 +103,22 @@
   - Both of your operational amplifier circuits (2 op amps total plus resistors)
   - Your low pass filter circuit (resistor and capacitor)
   - IR LED circuit (if you added this)
+ * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
 * Important notes about PCBs:
   - The printed circuit board doesn't actually come with the parts, it just comes with the "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
-  - The footprint of a part is like its outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
-  - Soldering is a permanent method of attaching two metal parts together. It is the permanent version of plugging a wire or the legs of a circuit component into your breadboard. You use a hot pen-like device to add liquid metal that connects your PCB to the legs of the part you are attaching.
+  - The footprint of a part is like its map or outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
+  - Soldering is a permanent method of attaching two metal parts together. It is the permanent version of plugging a wire or the legs of a circuit component into your breadboard. You use a hot pen-like device to add liquid metal that connects your PCB to the legs of the part you are attaching. This is the final step of building your PCB!
+  
+#### Activity 8 - Casing Design
+* It's finally time to design (or finalize) your CAD model and get it 3D printed
+* Design considerations
+  - Finger hole size
+    - Big enough for variety of finger sizes BUT
+    - The smaller the distance betweent the red LED and photodiode, the stronger your reading will be
+  - LED and photodiode hole size
+    - Spot for IR LED if you're adding that
+ * The makerspace is closed during workshop hours, so you'll need to go on your own 
+   - Makerspace employees will help you!
 
 <!--
 hide solutions
