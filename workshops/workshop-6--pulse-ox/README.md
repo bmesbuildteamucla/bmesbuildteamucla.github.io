@@ -88,6 +88,8 @@
   - Blinking when BPM measurement has been achieved
   - Change line color based on heart rate
   - Anything else you can think of!
+ 
+#### Note: Activities 6, 7, and 8 do not have to be completed in order. Your team should decide how to divide work and which order you would like to complete them to best utilize your time. Proper time management is an important part of engineering projects!
   
 #### Activity 6 - Adding an Infrared (IR) LED
 * Look at [these slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
@@ -103,7 +105,12 @@
   - Both of your operational amplifier circuits (2 op amps total plus resistors)
   - Your low pass filter circuit (resistor and capacitor)
   - IR LED circuit (if you added this)
- * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
+* Use the following parts (NOT) the parts we showed in Module
+  - Resistors: R-US_0207/12
+  - Red LED, IR LED, and photodiode: LED5MM
+  - Capacitor: C-US050-024X044
+  - Op Amps: coming soon
+* We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
 * Important notes about PCBs:
   - The printed circuit board doesn't actually come with the parts, it just comes with the "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
   - The footprint of a part is like its map or outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
