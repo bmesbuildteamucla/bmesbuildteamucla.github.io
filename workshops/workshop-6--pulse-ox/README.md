@@ -89,7 +89,7 @@
   - Change line color based on heart rate
   - Anything else you can think of!
  
-#### Note: Activities 6, 7, and 8 do not have to be completed in order. Your team should decide how to divide work and which order you would like to complete them to best utilize your time. Proper time management is an important part of engineering projects!
+#### Note: Activities 6, 7, and 8 do not have to be completed in order. Your team should decide how to divide work and which order you would like to complete them in to best utilize your time. Proper time management is an important part of all engineering projects!
   
 #### Activity 6 - Adding an Infrared (IR) LED
 * Look at [these slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
@@ -97,20 +97,22 @@
 * If you choose to do this, we can help you along the way but we don't have specific instructions like the other activities. You have all the knowledge and tools you need to guide yourself through it!
   
 #### Activity 7 - PCB Design
+* **Please read this entire section before working on your design**
 * By now you should have a functioning circuit on your breadboard! 
 * Now it's time to translate your circuit into a PCB design. Keep in mind that the example we showed in Module 7 was not the full circuit design. Your PCB design should include the following:
   - Red LED circuit (don't forget resistor!)
   - Photodiode (connected to transimpedance amp)
-    - Remember you can just use the same part as you did for the red LED because the diodes have the same footprint (see note below)
+    - You can just use the same part as you did for the red LED because the diodes have the same footprint (see note below)
   - Both of your operational amplifier circuits (2 op amps total plus resistors)
   - Your low pass filter circuit (resistor and capacitor)
   - IR LED circuit (if you added this)
-* Use the following parts (NOT) the parts we showed in Module
-  - Resistors: R-US_0207/12
-  - Red LED, IR LED, and photodiode: LED5MM
-  - Capacitor: C-US050-024X044
-  - Op Amps: coming soon
+* **Use the following parts (NOT the parts we showed in Module) - Just copy and paste these into the add parts menu**
+  - ***Resistors***: R-US_0207/12
+  - ***Red LED, IR LED, and photodiode***: LED5MM
+  - ***Capacitor***: C-US050-024X044
+  - ***Op Amps***: coming soon
 * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
+* ***Do not order your PCB without approval from the Project Managers!***
 * Important notes about PCBs:
   - The printed circuit board doesn't actually come with the parts, it just comes with the "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
   - The footprint of a part is like its map or outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
@@ -123,7 +125,12 @@
     - Big enough for variety of finger sizes BUT
     - The smaller the distance betweent the red LED and photodiode, the stronger your reading will be
   - LED and photodiode hole size
+    - Red LED, photodiode, and IR LED are different sizes!
     - Spot for IR LED if you're adding that
+  - Slot for your PCB to slide into the casing
+    - Your PCB will be small enough for this if you followed all directions above (moving parts on top of Arduino Nano)
+    - Must be tall enough to accomodate your PCB with the Arduino Nano soldered on
+    - You could also just secure the PCB on the bottom of your casing, but this will look much more bulky and unfinished
  * The makerspace is closed during workshop hours, so you'll need to go on your own 
    - Makerspace employees will help you!
 
