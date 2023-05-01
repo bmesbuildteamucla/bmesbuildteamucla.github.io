@@ -110,7 +110,11 @@
   - ***Resistors***: R-US_0207/12
   - ***Red LED, IR LED, and photodiode***: LED5MM
   - ***Capacitor***: C-US050-024X044
-  - ***Op Amps***: coming soon
+  - ***Op Amps***: (a little more complicated)
+    - ```Download Symbol and Footprint``` from this [MCP6041-E/P external library](https://www.snapeda.com/parts/MCP6041-E/P/Microchip/view-part/?welcome=home#). For download format, select ```Eagle``` (duh)
+    - Follow these [instructions](https://www.snapeda.com/about/import/?plugin=&prev_ref=#Eagle) to import the library into Eagle
+    - In the Eagle Library Manager, make sure to set the new library ```MCP6041-E_P``` to ```In Use```
+    - You should now be able to find it in the add parts menu!
 * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
 * ***Do not order your PCB without approval from the Project Managers!***
 * Important notes about PCBs:
