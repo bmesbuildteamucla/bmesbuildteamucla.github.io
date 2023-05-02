@@ -112,6 +112,7 @@
   - ***Capacitor***: C-US050-024X044
   - ***Op Amps***: (a little more complicated)
     - ```Download Symbol and Footprint``` from this [MCP6041-E/P external library](https://www.snapeda.com/parts/MCP6041-E/P/Microchip/view-part/?welcome=home#). For download format, select ```Eagle``` (duh)
+      - **UPDATE:** SnapEDA requires you to make an account to download the library, so if you don't want to do that then you can download automatically by clicking [here](https://cdn.fbsbx.com/v/t59.2708-21/343972491_3083552168615606_1899038430726743336_n.lbr/MCP6041-E_P.lbr?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=yU0HalLMh7kAX8sj9Ob&_nc_ht=cdn.fbsbx.com&oh=03_AdTKb4DhY2u6skENQMaJYRrOONMmMQmmH1EcJRgskp0vYg&oe=6451EF25&dl=1)
     - Follow these [instructions](https://www.snapeda.com/about/import/?plugin=&prev_ref=#Eagle) to import the library into Eagle
     - In the Eagle Library Manager, make sure to set the new library ```MCP6041-E_P``` to ```In Use```
     - You should now be able to find it in the add parts menu!
