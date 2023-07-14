@@ -11,6 +11,7 @@
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 ## Modules:
+<!--
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1f23iVk5Y5FOH8NaOSxPxmwUtY5e_JB2p7CVUL6pxIcc/edit){:target="_blank"}
   - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1fsy1eyX2Uz4N-Hn-nUqrhhQ1b22kcu9w/view?usp=sharing){:target="_blank"}
@@ -39,9 +40,10 @@
 * Workshop 5 - CAD and 3D Printing
 * Workshop 6 - PCB and Pulse Ox
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
+-->
 
-<!--
 ## Workshops:
+<!--
 * [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1RC_bobBdJMnhn9D2W-R6I9JIiwUoX7fFGtcsMhnt3hw/edit?usp=sharing){:target="_blank"}
@@ -53,10 +55,10 @@
 * [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
 -->
-
+<!--
 ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-
+-->
 ## Other Resources:
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
 * [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
