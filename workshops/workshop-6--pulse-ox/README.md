@@ -119,7 +119,7 @@
 * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
 * ***Do not order your PCB without approval from the Project Managers!***
 * Important notes about PCBs:
-  - The printed circuit board doesn't actually come with the parts, it just comes with the "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
+  - The printed circuit board doesn't actually come with the parts, it just comes with "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
   - The footprint of a part is like its map or outline. It's the spot on your PCB where your part will go, and it has a specific size, shape, number of holes, and distance of holes. These holes are where you will solder on the legs of your part.
   - Soldering is a permanent method of attaching two metal parts together. It is the permanent version of plugging a wire or the legs of a circuit component into your breadboard. You use a hot pen-like device to add liquid metal that connects your PCB to the legs of the part you are attaching. This is the final step of building your PCB!
   
@@ -128,7 +128,7 @@
 * Design considerations
   - Finger hole size
     - Big enough for variety of finger sizes BUT
-    - The smaller the distance betweent the red LED and photodiode, the stronger your reading will be
+    - The smaller the distance between the red LED and photodiode, the stronger your reading will be
   - LED and photodiode hole size
     - Red LED, photodiode, and IR LED are different sizes!
       - Red LED is ~5.3 mm in diameter
@@ -137,7 +137,7 @@
     - Spot for IR LED if you're adding that
   - Slot for your PCB to slide into the casing
     - Your PCB will be small enough for this if you followed all directions above (moving parts on top of Arduino Nano)
-    - Must be tall enough to accomodate your PCB with the Arduino Nano soldered on
+    - Must be tall enough to accommodate your PCB with the Arduino Nano soldered on
     - You could also just secure the PCB on the bottom of your casing, but this will look much more bulky and unfinished
  * The makerspace is closed during workshop hours, so you'll need to go on your own 
    - Makerspace employees will help you!
