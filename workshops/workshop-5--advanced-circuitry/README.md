@@ -1,4 +1,4 @@
-# Workshop 4 - Advanced Circuitry
+# Workshop 5 - Advanced Circuitry
 
 ## Activities:
 
