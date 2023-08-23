@@ -1,4 +1,4 @@
-# Workshop 7 - Pulse Ox
+# Workshop 5/6 - Pulse Ox
 
 ## Activities:
 
