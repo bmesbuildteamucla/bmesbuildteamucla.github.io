@@ -1,5 +1,12 @@
 # Workshop 7 - Pulse Ox
 
+## IMPORTANT DEADLINES: 
+
+* Week 4 Design Review
+* Week 6 Printed CAD and PCB gerber files sent to us
+* Week 9 Internal Presentations
+* Week 10 Demo Day
+  
 ## Activities:
 
 #### Activity 1 - Storing Data in an Array
