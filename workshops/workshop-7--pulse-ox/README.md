@@ -1,4 +1,4 @@
-# Workshop 5/6 - Pulse Ox
+# Workshop 7 - Pulse Ox
 
 ## Activities:
 
@@ -141,6 +141,32 @@
     - You could also just secure the PCB on the bottom of your casing, but this will look much more bulky and unfinished
  * The makerspace is closed during workshop hours, so you'll need to go on your own 
    - Makerspace employees will help you!
+
+#### Activity 9 - Button
+* With your current circuit, the PulseOx has to be controlled from the laptop to begin measuring pulse/blood oxygenation and stop for reset. To make the PulseOx more convenient for users to control, you can consider adding a button.
+* Design considerations
+Find or add additional space on the PCB to fit the button circuit in, either directly onto the circuit board or set up extension wires for the button to connect to.
+Ensure to make additions before sending us the PCB design for printing!
+Think about where the button should be placed on/in the casing for easy access, edit the CAD as needed.
+Update Arduino code to allow control through button presses 
+What type of button control is the most intuitive to implement? (ex. toggle, long press to activate, hold down the button…etc.)
+What should the button control?  (ex. turning the pulse-ox on & off, resetting the pulse-ox, clearing the window…etc.)
+What initial state do you want the pulse-ox to be in when connected to power/the laptop? Update setup variable values as needed
+__________________________________________________________________________
+Logistics: button type 
+2 pin tactile button (v)
+https://www.amazon.com/MakerSpot-Momentary-Tactile-Breadboard-Friendly/dp/B06XT3FLVM
+https://www.amazon.com/MakerSpot-Momentary-Tactile-Breadboard-Friendly/dp/B06XT3FLVM
+https://www.amazon.com/dp/B07WF76VHT/ref=sspa_dk_detail_4?pd_rd_i=B07WF76VHT&pd_rd_w=ViFZT&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=RQGRHP6MF8KP62XZJZ1C&pd_rd_wg=afM4D&pd_rd_r=72936c1e-719d-42d9-8b4c-c300ce507e22&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFHM0VSVkY1U1BFREMmZW5jcnlwdGVkSWQ9QTA1ODU2MTkyMVgySVVKM0I4NlZIJmVuY3J5cHRlZEFkSWQ9QTA3NjUzMDQxRFJWOTZBTFdPMlNPJndpZGdldE5hbWU9c3BfZGV0YWlsX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+operating voltage 12V/rated value 50mA = can’t be supplied above 12V/can’t go over 50mA current so need enough resistance (100)
+			=> workable with 5V arduino
+HOW connect: connect button to jumper wire, and connect jumper wire to Arduino nano via row of headers (connect to GND & input pin that’s next to each other)
+4 pin button from arduino starter kit
+Not the best since need 4 connections
+Surface mount
+Wire-board terminal connector -> allow extension wires for 
+https://www.amazon.com/Terminal-Connector-Lighting-Electrical-Connectors/dp/B0C3CXV64N?th=1
+Use solid wires!
 
 <!--
 hide solutions
