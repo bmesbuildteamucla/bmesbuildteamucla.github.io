@@ -3,7 +3,8 @@
 ## IMPORTANT DEADLINES: 
 
 * Week 4 Design Review
-* Week 6 Printed CAD and PCB gerber files sent to us
+* Week 5 Printed CAD
+* Week 6 PCB gerber files sent to PMs 
 * Week 9 Internal Presentations
 * Week 10 Demo Day
   
