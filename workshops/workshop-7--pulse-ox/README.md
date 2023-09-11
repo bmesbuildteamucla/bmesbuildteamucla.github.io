@@ -2,7 +2,7 @@
 
 ## IMPORTANT DEADLINES: 
 
-* Week 4 Design Review
+* Week 4 [Design Review](https://docs.google.com/presentation/d/19sC7dH2UuXUHeNcOv0W1TxAFQRV5BMv53ZNprg9Kw_s/edit?usp=sharing)
 * Week 5 Printed CAD
 * Week 6 PCB gerber files sent to PMs 
 * Week 9 Internal Presentations
