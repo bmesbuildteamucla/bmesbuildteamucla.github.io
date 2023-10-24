@@ -12,6 +12,7 @@
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1fmBmjzTjK83_dGvndSJuxfc4FZ3xK8FXjWf5jlVdWnw/edit?usp=sharing){:target="_blank"}
+
 <!--
   - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1fsy1eyX2Uz4N-Hn-nUqrhhQ1b22kcu9w/view?usp=sharing){:target="_blank"}
