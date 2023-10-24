@@ -8,7 +8,7 @@
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
 * [Attendance Form](https://forms.gle/HDgaw19E6Awwp7p56){:target="_blank"}
-* Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
+* Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1fmBmjzTjK83_dGvndSJuxfc4FZ3xK8FXjWf5jlVdWnw/edit?usp=sharing){:target="_blank"}
