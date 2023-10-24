@@ -7,7 +7,7 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* [Attendance Form](https://forms.gle/HDgaw19E6Awwp7p56){:target="_blank"}
+* [Attendance Form](https://docs.google.com/forms/d/1Mu_d86NKy8aSgBHnx3Aw0X4bjKPeEhxyMibcRZirYz8/edit){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
 ## Modules:
