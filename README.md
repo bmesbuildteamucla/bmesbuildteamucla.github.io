@@ -11,8 +11,8 @@
 * Join the BMES Discord server [here](https://discord.gg/CE2qMD3v23){:target="_blank"}!
 
 ## Modules:
-<!--
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1fmBmjzTjK83_dGvndSJuxfc4FZ3xK8FXjWf5jlVdWnw/edit?usp=sharing){:target="_blank"}
+<!--
   - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
   - [Module 1 Activity Solutions](https://drive.google.com/file/d/1fsy1eyX2Uz4N-Hn-nUqrhhQ1b22kcu9w/view?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1qqgoNugdRBwcuI3rBUI2iIq2a75lU3CfYBpfi7GyWkI/edit?usp=sharing){:target="_blank"}
@@ -67,30 +67,6 @@
 * [Processing](https://processing.org/){:target="_blank"}
 * [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
 * [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
-
-<!-- 2021-2022 Links
-* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
-  - [Module 1 Recording](https://drive.google.com/drive/folders/1hN4cSLjjiMO3vtS0L78lizTGECJE9waA?usp=sharing){:target="_blank"}
-  - [Module 1 Activities](https://docs.google.com/presentation/d/1489hI5engnE9hec6Nw_IgVv0xHJ5sZ-GlS2OXzRIcxw/edit?usp=sharing){:target="_blank"}
-  - [Module 1 Activity Solutions](https://drive.google.com/file/d/1Cd9dlDVE49lcDEyZ7GGZT8Js4mRNv2PJ/view?usp=sharing){:target="_blank"}
-* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1Dq4MChHv0nf5dIAPj8tI3E2BrnDZHsCAGBSRVmRKBzY/edit#slide=id.ga8a2b44bee_1_8){:target="_blank"}
-  - [Module 2 Recording](https://drive.google.com/file/d/1ip101iTLsNvkOYwQJIGidGGStyfOG4iH/view?usp=sharing){:target="_blank"}
-  - [Module 2 Activities](https://docs.google.com/presentation/d/1RHRVP0H-DL_SKJpD66BXp04Yq1iwUF7q1n8w82Ldv9o/edit?usp=sharing){:target="_blank"}
-  - [Module 2 Activity Solutions](https://drive.google.com/file/d/1aIJo_Upw3mM1sTUNunLbCelsiThxx5iE/view?usp=sharing){:target="_blank"}
-* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1YxSJYIVqxgyMS-NRKbM2Bqwp5f2EEt_fTw4BTzR31UY/edit?usp=sharing){:target="_blank"}
-  - [Module 3 Recording](https://drive.google.com/drive/folders/18Nnpe-6QpGZoQd0eYNjrURXf29Sga9Jv?usp=sharing){:target="_blank"}
-  - [Module 3 Activities](https://docs.google.com/presentation/d/1ZxnZP-A5LSljeSS1OyizlYCwVj_6j2uMYqVEfEAYXGQ/edit?usp=sharing){:target="_blank"}
-  - [Module 3 Activity Solutions](https://docs.google.com/document/d/1KiBaPF6pmOhhgY1Lq-Xf2k2_XRJ3IUTZud3Hw45-c4M/edit?usp=sharing){:target="_blank"}
-* [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1xZ14nbmwqd3Bsuy7LpmPoQUacMf6yJs96JQIXX6Ul2s/edit?usp=sharing){:target="_blank"}
-  - [Module 4 Recording](https://drive.google.com/file/d/1pvmmXL1nglvqwEsMkcidV76zK-MAZTZA/view?usp=sharing){:target="_blank"}
-  - [Module 4 Activities](https://docs.google.com/presentation/d/1Qmtu3cE9Phi8xWsbqv5lOeE3GV_CpcD86s8euvDl8BE/edit?usp=sharing){:target="_blank"}
-  - [Module 4 Activity Solutions](https://docs.google.com/document/d/1Npin6qgyQ85ZdrN_by4vWvQEm9qFyJ8iwcy2xl4i0n8/edit?usp=sharing){:target="_blank"}
-* [Module 5 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Kf1c2bGS3L6cldbxF2PRkPOYgZ5K9L6B0DXiP8g4jB0/edit?usp=sharing){:target="_blank"}
-  - [Module 5 Recording](https://drive.google.com/file/d/12wyZYsMazcE_cHWVvhYAnbCk5wz2ezsF/view?usp=sharing){:target="_blank"}
-  - Note: you can skip 27:40 - 45:35, we forgot to pause the recording while helping people
-* [Module 6 - PCB Design](https://docs.google.com/presentation/d/1NXjCmq0iscCOOHnRjZsCWuts6fBJQJvH69GtnrqpjPU/edit?usp=sharing){:target="_blank"}
-  - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
--->
 
 <!-- 2020-2021 Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
@@ -147,4 +123,35 @@
   - Note: you can skip 27:40 - 45:35, we forgot to pause the recording while helping people
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1NXjCmq0iscCOOHnRjZsCWuts6fBJQJvH69GtnrqpjPU/edit?usp=sharing){:target="_blank"}
   - [Module 6 Recording](https://drive.google.com/file/d/1PQIhfHLQLkh3Cwfg59ysp6vCvjVRgQS2/view?usp=sharing){:target="_blank"}
+-->
+
+<!-- 2022-23 links 
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1fmBmjzTjK83_dGvndSJuxfc4FZ3xK8FXjWf5jlVdWnw/edit?usp=sharing){:target="_blank"}
+  - [Module 1 Recording](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
+  - [Module 1 Activity Solutions](https://drive.google.com/file/d/1fsy1eyX2Uz4N-Hn-nUqrhhQ1b22kcu9w/view?usp=sharing){:target="_blank"}
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1qqgoNugdRBwcuI3rBUI2iIq2a75lU3CfYBpfi7GyWkI/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Recording](https://drive.google.com/file/d/1bVfOTjLeYEX4knIRUH6yZCtYL-fb8BrS/view?usp=sharing){:target="_blank"}
+  - [Module 2 Activity Solutions](https://docs.google.com/document/d/1MZKdi6chKThW_C92pozkTveDxa0r4rdBZUt9tk4EWX4/edit?usp=sharing){:target="_blank"}
+  - [Module 2 Review Quiz (Optional)](https://forms.gle/AasQnx2QxztbN3sW8){:target="_blank"}
+* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Mw5n7vAaftBb0QWx6FYwjS-MktnZrBpNhOCRI0DFyeo/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Recording](https://drive.google.com/file/d/1YLc8z8xRc38fGcdaozv1y7-P5x-gV4hx/view?usp=sharing){:target="_blank"}
+  - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
+* [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1w9jnbE4WoDbKuROmt83tUZXGGGQSWGGtHcrOTF2eWog/edit?usp=sharing){:target="_blank"}
+  - [Module 4 Recording](https://drive.google.com/file/d/1W377vp2gs9LhnSXp_LT113_oahE2bNe-/view?usp=sharing){:target="_blank"}
+* [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1atgqWqmfczE9pHfFCq9CTDW6RgyeQtPvQlGr7-JyWs4/edit#slide=id.gfdae518652_0_0){:target="_blank"}
+  - [Module 5 Recording](https://drive.google.com/file/d/1TgqPGVb_E8O934O6DQdGyb8HxZUR2EK5/view?usp=sharing){:target="_blank"}
+* [Module 6 - CAD and 3D Printing](https://docs.google.com/presentation/d/1LVj3hpve1fgcmeYeT34nZV0Wg44giaI1fsfMPCDPfFI/edit?usp=sharing){:target="_blank"}
+  - [Module 6 Recording](https://drive.google.com/file/d/1iLLKfOZIezLHT3dlFERyquZHJwZeGbVl/view?usp=sharing){:target="_blank"}
+* [Module 7 - PCB Design](https://docs.google.com/presentation/d/1GWW7Bd8lNxWaFQK-WVvlD8fX3iEyEK0D8P7zPjxDTuI/edit?usp=sharing){:target="_blank"}
+  - [Module 7 Recording](https://drive.google.com/file/d/1xLillfIyGKHrR0OSCzXhR_-4WXMjsXBt/view?usp=sharing){:target="_blank"}
+
+## Workshops:
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
+  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing){:target="_blank"}
+* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
+* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
+* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
+* Workshop 5 - CAD and 3D Printing
+* Workshop 6 - PCB and Pulse Ox
+* [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
 -->
