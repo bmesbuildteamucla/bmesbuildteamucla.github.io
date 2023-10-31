@@ -55,7 +55,7 @@
 * Build a circuit with a button and an LED where the LED turns on when the button is pressed. Then, try to make a circuit where the LED turns off when the button is pressed.
 
 
-
+<!--
 ## Solutions:
 #### Activity 1 - Ohm's Law
 * First measure the voltage across R1 (place multimeter probes on each side of R1), then measure the current going through R1 (place the probes in series with R1). Plug the voltage and current values into Ohm's law and verify that they equal the resistor value. A small error is fine, this is due to allowable error in your circuit components.
@@ -104,5 +104,5 @@
 - Blue LED circuit is shorted when button is pressed (creates path of less resistance), so LED turns off
 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry/activity-4-circuit-solution.png)
-
+-->
 
