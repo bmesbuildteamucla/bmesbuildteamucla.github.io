@@ -67,5 +67,5 @@
 * [Activity 5 - LED Three Presses](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-5--LED-three-presses)
 * [Activity 6 - LED Blinking](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-blinking)
 * [Activity 7 - Three LEDs](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--three-LEDs)
-<!-- * [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code) -->
+* [Activity 8 - Morse Code](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code) -->
 
