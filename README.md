@@ -16,6 +16,7 @@
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1ktlUhkx6WIws_7dzA8dTMCJrHROmLarXParCpVEFqP0/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/163IT--UMDqeeRxk5EEhSoRyoZZwmv2a0/view?usp=share_link){:target="_blank"}
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
+* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1sWyYRXASQWldrMFFDmTGfdQCyu_pTAGlPq4-Nrjj4T8/edit?usp=share_link){:target="_blank"}
 
 <!--
   - [Module 1 Recording (22-23)](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
