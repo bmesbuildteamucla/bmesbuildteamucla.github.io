@@ -46,11 +46,15 @@
   <br>Practice searching online for how to wire and code a Joystick, then try to incorporate it into your code to achieve the same function.
   Some useful links: https://www.instructables.com/Connect-and-Use-Joystick-With-Arduino/, https://lastminuteengineers.com/joystick-interfacing-arduino-processing/
 
-#### Activity 3 - Thermometer
-* Use a thermistor to measure temperature
-  - Pinch and release the thermistor to see temperature changes
-  - Graph using Serial Plotter (in the Arduino IDE, go to tools > Serial Plotter)
-  - Alternatively, use a photoresistor to measure brightness
+#### Activity 3 - Light-Level sensor
+* Use a photoresistor to measure brightness
+  - Pinch and release the thermistor to see light level changes
+  - Graph using Serial Plotter
+  - Alternatively, use thermistor to measure temperature by pinching & releasing the thermistor to see tempearture changes
+* Relevant Components
+  - Thermistor: Can be connected in both directions, as it does not have polarity.
+  ![Thermistor](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/ebd35de3-7983-4192-82f5-14428ca65ac4)
+  Learn more about the thermistor, how it works, and how to code it at https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/
 
 
 #### Activity 4 - Night Light
