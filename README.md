@@ -54,6 +54,7 @@
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1hlXs0M5MaTibvn52wWaJA8w2Dcb-JrOplgp34bf_QFc/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
+* [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 
 <!--
 * [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
@@ -70,6 +71,7 @@
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 
 ## Other Resources:
+* [Cheat Sheet](https://docs.google.com/document/d/1Uvyq3HPQLMh-ArzyDjzNDMQGvcviiSPrPQThOc9WvOk/edit?usp=sharing){:target="_blank"}
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
 * [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
 * [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"}
