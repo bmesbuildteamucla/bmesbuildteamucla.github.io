@@ -1,6 +1,6 @@
 # [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog)
 
-## Activity 3 - Thermometer
+## Activity 3 - Light-Level sensor
 
 ### Task:
 * Use a photoresistor to measure brightness
