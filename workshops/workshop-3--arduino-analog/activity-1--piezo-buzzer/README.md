@@ -14,7 +14,7 @@
   ```
 * Revelant components
   - Piezo Buzzer: 
-  ![buzzer circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/9e2431f6-50cb-488e-85c0-cdf8b56be659)
+  ![buzzer circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/f0c98d85-631b-4d5e-b60b-ee61a7043293)
   - Photoresistor:
   - Potentiometer:
 
