@@ -17,7 +17,7 @@
   ![buzzer circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/f0c98d85-631b-4d5e-b60b-ee61a7043293)
   - Photoresistor: Can be wired in both directions, since it isn't a diode.
   ![photoresistor](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/6eccc47e-69a0-449b-bf55-7219ab8dbeb7)
-  - Potentiometer: (The square component in the image is the potentiometer)
+  - Potentiometer: Can also be wired in both directions either place power at the left or right most pin.
   ![potentiometerpng](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/5065d173-fe3b-4ade-91c0-bdea99501fa8)
 
 ### Circuit:
