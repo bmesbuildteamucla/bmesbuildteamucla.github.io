@@ -7,7 +7,7 @@
 * Possible functions to use
   ```c++
   random(start of range, end of range); //output a random number between the defined range
-  randSeed(integer seed vallue); //initializes the random number generator, each seed value corresponds to a particular pseudorandom number list
+  randomSeed(integer seed vallue); //initializes the random number generator, each seed value corresponds to a particular pseudorandom number list
   //quesiton: How to get a truly random number generator each time the code is restarted? What on the Arduino can output relatively random values?
   ```
 
