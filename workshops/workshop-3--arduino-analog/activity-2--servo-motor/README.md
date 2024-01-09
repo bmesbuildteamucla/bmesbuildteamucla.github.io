@@ -20,7 +20,7 @@
   ![servo](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/26b289cf-f71f-4741-aeb1-097a82c9a46c)
   - Joystick:<br>
   ![joystick](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/4e8bd64d-5d6d-433a-b8ff-780cd6b8e361)
-  Practice searching online for how to wire and code a Joystick, then try to incorporate it into your code to achieve the same function.
+  <br>Practice searching online for how to wire and code a Joystick, then try to incorporate it into your code to achieve the same function.
   Some useful links: https://www.instructables.com/Connect-and-Use-Joystick-With-Arduino/, https://lastminuteengineers.com/joystick-interfacing-arduino-processing/
 
 ### Circuit: 
