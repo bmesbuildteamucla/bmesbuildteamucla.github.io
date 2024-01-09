@@ -12,6 +12,11 @@
   tone(pin, frequency, duration);
   noTone(pin);
   ```
+* Revelant components
+  - Piezo Buzzer: 
+  ![Piezo Buzzer]bmesbuildteamucla/bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-1--piezo-buzzer/buzzer circuit.png
+  - Photoresistor:
+  - Potentiometer:
 
 ### Circuit:
 ![Circuit](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/81682143ed45909f4c51086dd34fbe8f0fda102c/workshops/workshop-3--arduino-analog/activity-1--piezo-buzzer/Workshop%203%20Activity%201.png)
