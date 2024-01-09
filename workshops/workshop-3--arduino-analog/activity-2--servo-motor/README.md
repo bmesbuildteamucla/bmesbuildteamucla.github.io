@@ -15,6 +15,9 @@
   myservo.attach(pin)
   myservo.write(angle)
   ```
+* Revelant Components
+  - Servo:
+  ![servo](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/26b289cf-f71f-4741-aeb1-097a82c9a46c)
 
 ### Circuit: 
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-2--servo-motor/W3A2_Circuit.JPG)
