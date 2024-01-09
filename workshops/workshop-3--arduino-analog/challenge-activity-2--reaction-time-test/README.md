@@ -4,7 +4,7 @@
 
 ### Task:
 * Use an LED and a piezo buzzer to make a fun game! Have the LED or piezo buzzer turn on randomly so that the user has to press the button as fast as possible to turn it off. Have the reaction speed be printed in the serial monitor each time. See who has the fastest reaction times :)
-* Possible functions to use
+* Relevant functions
   ```c++
   random(start of range, end of range); //output a random number between the defined range
   randomSeed(integer seed value); //initializes the random number generator, each seed value corresponds
