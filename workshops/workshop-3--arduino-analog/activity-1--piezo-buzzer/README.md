@@ -14,7 +14,7 @@
   ```
 * Revelant components
   - Piezo Buzzer: 
-  ![Piezo Buzzer]bmesbuildteamucla/bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-1--piezo-buzzer/buzzer circuit.png
+  ![Piezo Buzzer](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/commit/81682143ed45909f4c51086dd34fbe8f0fda102c#commitcomment-136567240)
   - Photoresistor:
   - Potentiometer:
 
