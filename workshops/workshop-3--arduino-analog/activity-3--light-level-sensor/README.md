@@ -7,6 +7,9 @@
   - Pinch and release the thermistor to see temperature changes
   - Graph using Serial Plotter
   - Alternatively, use photoresistor to measure brightness
+* Relevant Components
+  - Thermistor: Can be connected in both directions, as it does not have polarity.
+  ![Thermistor](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/134753006/ebd35de3-7983-4192-82f5-14428ca65ac4)
 
 ### Circuit:
 ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog/activity-3--light-level-sensor/circuit.png)
