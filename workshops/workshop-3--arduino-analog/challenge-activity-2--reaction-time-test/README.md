@@ -9,8 +9,8 @@
   random(start of range, end of range); //output a random number between the defined range
   randomSeed(integer seed value); //initializes the random number generator, each seed value corresponds
                                   //to a particular pseudorandom number list
-  //quesiton: How to get a truly random number generator each time the
-  //code is restarted? What on the Arduino can output relatively random values?
+  //quesiton: How to get a truly random number generator each time the code is restarted?
+  //What on the Arduino can output relatively random values?
   ```
 
 ### Circuit:
