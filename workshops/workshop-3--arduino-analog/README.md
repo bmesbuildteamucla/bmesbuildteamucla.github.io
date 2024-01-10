@@ -4,9 +4,8 @@
 ### *** *Note: Remember which pins we use for analog INPUT vs analog OUTPUT* ***
 
 #### Activity 1 - Piezo Buzzer
-* Make a theremin (musical instrument) using a photoresistor and piezo buzzer
+* Make a theremin (musical instrument) using a photoresistor to control the pitch of a piezo buzzer
   - Alternatively, use a potentiometer to control pitch
-* Play a scale 
 * Relevant functions
   ```c++
   tone(pin, frequency);             //assigns a tone to the specified pin
