@@ -47,7 +47,7 @@
 
 #### Activity 3 - Light-Level sensor
 * Use a photoresistor to measure brightness
-  - Pinch and release the thermistor to see light level changes
+  - Pinch and release the photoresistor to see light level changes
   - Graph using Serial Plotter
   - Alternatively, use thermistor to measure temperature by pinching & releasing the thermistor to see tempearture changes
 * Relevant Components
