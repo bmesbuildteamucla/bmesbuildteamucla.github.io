@@ -5,6 +5,7 @@
 
 #### Activity 1 - Piezo Buzzer
 * Make a theremin (musical instrument) using a photoresistor to control the pitch of a piezo buzzer
+* Play a scale with individual pitches
   - Alternatively, use a potentiometer to control pitch
 * Relevant functions
   ```c++
