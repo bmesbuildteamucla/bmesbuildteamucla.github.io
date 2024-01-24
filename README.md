@@ -20,6 +20,10 @@
   - [Module 3 Recording](https://drive.google.com/file/d/1mQaF2HbZCqiQLNOy_Sau7jRgTqUEoQhC/view?usp=share_link){:target="_blank"}
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1gNvCkAcfDyKwT65lw1yo0aknkWRnlZU4513LKx7VKgc/edit#slide=id.g5c9249620d_0_845){:target="_blank"}
+  - [Module 4 Recording_part 1](https://drive.google.com/file/d/1JP-bgiZ6hCwI8XxsnHGO6pVNX_tMZB5Y/view?usp=sharing){:target="_blank"}
+  - [Module 4 Recording_part 2](https://drive.google.com/file/d/1BVz2l8SAV-XD48IYamvurWa9drhbzKho/view?usp=sharing){:target="_blank"}
+  - [Module 4 Recording_part 3](https://drive.google.com/file/d/1aE366X-Zz4X7XXmn0W6au8BDnxFzc5D9/view?usp=sharing){:target="_blank"}
+* [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1h83eBalPFIDJtE0AJRNGldw5zR5QQ2hgHeRhIxa_ok0/edit?usp=sharing){:target="_blank"}
   
 <!--
   - [Module 1 Recording (22-23)](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
