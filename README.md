@@ -24,6 +24,7 @@
   - [Module 4 Recording_part 2](https://drive.google.com/file/d/1BVz2l8SAV-XD48IYamvurWa9drhbzKho/view?usp=sharing){:target="_blank"}
   - [Module 4 Recording_part 3](https://drive.google.com/file/d/1aE366X-Zz4X7XXmn0W6au8BDnxFzc5D9/view?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1h83eBalPFIDJtE0AJRNGldw5zR5QQ2hgHeRhIxa_ok0/edit?usp=sharing){:target="_blank"}
+  - [Module 5 Recording](https://drive.google.com/file/d/1cMO5GWvieFs8Q5vo2CcmkTfGw4wpg-x5/view?usp=share_link){:target="_blank"}
   
 <!--
   - [Module 1 Recording (22-23)](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
