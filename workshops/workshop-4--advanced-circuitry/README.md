@@ -11,7 +11,7 @@
 #### Activity 2 - Inverting Amplifier
 * Set up an inverting amplifier circuit with the potentiometer output as Vin
 
-    ![Inverting Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/inverting-amplifier-circuit-diagram.png)
+    ![Inverting Amplifier](workshops/workshop-4--advanced-circuitry/inverting-amplifier-circuit-diagram.png)
 
 * Simultaneously measure the voltage from the potentiometer and the op amp
   <details>
