@@ -31,7 +31,7 @@
 #### Activity 3 - Non-inverting Amplifier
 * Set up an non-inverting amplifier circuit with the potentiometer output as Vin
 
-    ![Non-Inverting Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/f6287c8dcca4f1b17611bfbd0ab36d6aeb0ac5ec/workshops/workshop-4--advanced-circuitry/non-inverting-amplifier-circuit-diagram.png)
+    ![Non-Inverting Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/non-inverting-amplifier-circuit-diagram.png)
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
@@ -39,7 +39,7 @@
 #### Activity 4 - Transimpedance Amplifier
 * Set up a transimpedance amplifier circuit with an PD204 photodiode as the current source. Try to use a high value resistor (example: 1 megaohm) to make sure you can see the photodiode signal since the photodiode outputs a very low magnitude current.
 
-    ![Transimpedance Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/a5840ea1be4060ed594198cec359612e07c379bc/workshops/workshop-4--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
+    ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
 * Measure the voltage from the op amp and see how it changes when you cover the photodiode
   <details>
