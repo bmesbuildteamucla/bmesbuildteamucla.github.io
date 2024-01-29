@@ -39,7 +39,7 @@
 #### Activity 4 - Transimpedance Amplifier
 * Set up a transimpedance amplifier circuit with an PD204 photodiode as the current source. Try to use a high value resistor (example: 1 megaohm) to make sure you can see the photodiode signal since the photodiode outputs a very low magnitude current.
 
-    ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
+    ![Transimpedance Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/a5840ea1be4060ed594198cec359612e07c379bc/workshops/workshop-4--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
 * Measure the voltage from the op amp and see how it changes when you cover the photodiode
   <details>
