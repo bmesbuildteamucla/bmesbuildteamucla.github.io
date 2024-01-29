@@ -61,7 +61,17 @@
   
 * Combine the low pass and high pass filters together to create a band pass filter
   - Compare with using each filter by itself
-
+ 
+#### Activity 6 - Processing + Arduino
+* Set up a button circuit
+  - Feel free to try with any input component you prefer ex.potentiometer, potoresistor etc.
+* Set up connection between Processing and Arduino
+  - Upload Standard Firmata code to Arduino
+    - Remeber: this code has to be uploaded again everytime before switching from Arduion IDE to Processing!!!
+  - In Processing, make sure to include these three lines of code:
+ 
+* Code Processing to draw a circle everytime the button is pressed
+  - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component
 
 <!--
 ## Solutions:
