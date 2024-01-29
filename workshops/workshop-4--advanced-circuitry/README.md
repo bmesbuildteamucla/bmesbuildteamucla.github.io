@@ -31,7 +31,7 @@
 #### Activity 3 - Non-inverting Amplifier
 * Set up an non-inverting amplifier circuit with the potentiometer output as Vin
 
-    ![Non-Inverting Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/non-inverting-amplifier-circuit-diagram.png)
+    ![Non-Inverting Amplifier](https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/blob/f6287c8dcca4f1b17611bfbd0ab36d6aeb0ac5ec/workshops/workshop-4--advanced-circuitry/non-inverting-amplifier-circuit-diagram.png)
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
