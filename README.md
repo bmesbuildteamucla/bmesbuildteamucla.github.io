@@ -50,7 +50,7 @@
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
-* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry){:target="_blank"}
+* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * Workshop 5 - CAD and 3D Printing
 * Workshop 6 - PCB and Pulse Ox
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
