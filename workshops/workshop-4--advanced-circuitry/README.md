@@ -70,7 +70,7 @@
     - Remeber: this code has to be uploaded again everytime before switching from Arduion IDE to Processing!!!
   - In Processing, make sure to include these three lines of code:
 
-    *<img width="292" alt="processing setup" src="https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/107527511/b78cb8e7-f5cc-4a89-9e48-26cb170c0c95">
+    <img width="292" alt="processing setup" src="https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/107527511/b78cb8e7-f5cc-4a89-9e48-26cb170c0c95">
 
 * Code Processing to draw a circle everytime the button is pressed
   - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component
