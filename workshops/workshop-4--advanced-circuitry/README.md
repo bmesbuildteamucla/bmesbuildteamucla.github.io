@@ -7,6 +7,7 @@
 * Set up separate op amp circuit with 5V and GND pins attached
   - *Hint: Search up op amp data sheet to determine pin configuration*
   - *VDD is (+), VSS is (-)*
+  - use opamp MCP6041
 
 #### Activity 2 - Inverting Amplifier
 * Set up an inverting amplifier circuit with the potentiometer output as Vin
