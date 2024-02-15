@@ -26,6 +26,7 @@
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/1h83eBalPFIDJtE0AJRNGldw5zR5QQ2hgHeRhIxa_ok0/edit?usp=sharing){:target="_blank"}
   - [Module 5 Recording](https://drive.google.com/file/d/1cMO5GWvieFs8Q5vo2CcmkTfGw4wpg-x5/view?usp=share_link){:target="_blank"}
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1gMSTdg3hXSP-024HMoZUFe-XmXPqZzQXTRyfdDT_9sE/edit?usp=sharing){:target="_blank"}
+  - [Module 7 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}
   
 <!--
   - [Module 1 Recording (22-23)](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
