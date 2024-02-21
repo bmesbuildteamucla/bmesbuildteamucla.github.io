@@ -34,7 +34,7 @@
 #### Activity 4 - PCB Design
 * **Please read this entire section before working on your design**
 * By now you should have a functioning circuit on your breadboard! 
-* Now it's time to translate your circuit into a PCB design. Keep in mind that the example we showed in Module 7 was not the full circuit design. Your PCB design should include the following:
+* Now it's time to translate your circuit into a PCB design. Keep in mind that the example we showed in Module 6 was not the full circuit design. Your PCB design should include the following:
   - Red LED circuit (don't forget resistor!)
   - Photodiode (connected to transimpedance amp)
     - You can just use the same part as you did for the red LED because the diodes have the same footprint (see note below)
