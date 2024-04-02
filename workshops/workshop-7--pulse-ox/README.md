@@ -7,7 +7,7 @@
 * Week 5 Printed CAD + Soldering Workshop
 * Week 6 PCB gerber files sent to PMs 
 * Week 9 Internal Presentations
-* Week 10 Demo Day
+* Week 10 Tech project wide Symposium
   
 ## Activities:
 
