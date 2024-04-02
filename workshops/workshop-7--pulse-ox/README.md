@@ -156,13 +156,13 @@
 #### Activity 9 - Button
 * With your current circuit, the PulseOx has to be controlled from the laptop to begin measuring pulse/blood oxygenation and stop for reset. To make the PulseOx more convenient for users to control, you can consider adding a button.
 * Design considerations
-Find or add additional space on the PCB to fit the button circuit in, either directly onto the circuit board or set up extension wires for the button to connect to.
-Ensure to make additions before sending us the PCB design for printing!
-Think about where the button should be placed on/in the casing for easy access, edit the CAD as needed.
-Update Arduino code to allow control through button presses 
-What type of button control is the most intuitive to implement? (ex. toggle, long press to activate, hold down the button…etc.)
-What should the button control?  (ex. turning the pulse-ox on & off, resetting the pulse-ox, clearing the window…etc.)
-What initial state do you want the pulse-ox to be in when connected to power/the laptop? Update setup variable values as needed
+  - Think about where the button should be placed on/in the casing for easy access, edit the CAD as needed.
+  - Update Arduino code to allow control through button presses
+    - What type of button control is the most intuitive to implement? (ex. toggle, long press to activate, hold down the button…etc.)
+    - What should the button control?  (ex. turning the pulse-ox on & off, resetting the pulse-ox, clearing the window…etc.)
+    - What initial state do you want the pulse-ox to be in when connected to power/the laptop? Update setup variable values as needed
+  - Find or add additional space on the PCB to fit the button circuit in, either directly onto the circuit board or set up extension wires for the button to connect to.
+  - Ensure to make additions before sending us the PCB design for printing!
 
 <!--
 hide solutions
