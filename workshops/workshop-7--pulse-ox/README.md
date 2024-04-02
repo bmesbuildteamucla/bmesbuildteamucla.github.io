@@ -9,6 +9,8 @@
 * Week 9 Internal Presentations
 * Week 10 Tech project wide Symposium
   
+## [Guidelines & extra resources](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing)
+
 ## Activities:
 
 #### Activity 1 - Storing Data in an Array
