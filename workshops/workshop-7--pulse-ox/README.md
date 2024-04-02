@@ -54,7 +54,7 @@
 #### Activity 2 - Transimpedance Amplifier and Processing
 1. Set up a transimpedance amplifier circuit with an OP905 photodiode as the current source and an appropriate resistor value (try 1 megohm or higher).
 
-    ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
+    ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
 
 2. Plot the output from the transimpedance amplifier using the Serial Plotter.
 3. Print the output values on the Processing console.
