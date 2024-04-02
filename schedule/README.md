@@ -47,9 +47,9 @@
 | 5           | *Team Projects* |
 | 6           | *Team Projects* |
 | 7           | *Team Projects* |
-| 8           | **Presentations** |
-| 9           | **Demo Day** |
-| 10          |     |
+| 8           | *Team Projects* |
+| 9           | **Presentations** |
+| 10          | **Demo Day** |
 
 
 
