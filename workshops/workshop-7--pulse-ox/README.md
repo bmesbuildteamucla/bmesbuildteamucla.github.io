@@ -103,7 +103,7 @@
 #### Note: Activities 6, 7, and 8 do not have to be completed in order. Your team should decide how to divide work and which order you would like to complete them in to best utilize your time. Proper time management is an important part of all engineering projects!
   
 #### Activity 6 - Adding an Infrared (IR) LED
-* Look at [these slides](https://docs.google.com/presentation/d/1O1AgHZ580prPZU6NF8KwVhaeoH9mqk1tXWXyfUsnyY4/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
+* Look at latter half of [these slides](https://docs.google.com/presentation/d/1O1AgHZ580prPZU6NF8KwVhaeoH9mqk1tXWXyfUsnyY4/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
 * This step is optional, but it means that your final device will be a fully functional pulse oximeter (rather than just heart rate monitor)
 * If you choose to do this, we can help you along the way but we don't have specific instructions like the other activities. You have all the knowledge and tools you need to guide yourself through it!
   
