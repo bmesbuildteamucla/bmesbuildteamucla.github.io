@@ -128,6 +128,7 @@
     - In the Eagle Library Manager, make sure to set the new library ```MCP6041-E_P``` to ```In Use```
     - You should now be able to find it in the add parts menu!
 * We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
+* [**PCB DRC Settings**](https://docs.google.com/document/d/1qWOX2tQpcEFKrnEINHshy1QbcyVMniEwuVDaCoqFRYo/edit?usp=sharing)
 * ***Do not order your PCB without approval from the Project Managers!***
 * Important notes about PCBs:
   - The printed circuit board doesn't actually come with the parts, it just comes with "wires" that connects the parts and the holes that you solder your own parts onto. For your device, this includes the diodes (LEDs and photodiode), resistors, and op amps.
