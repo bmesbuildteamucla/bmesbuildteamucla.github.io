@@ -10,6 +10,7 @@
 * [Attendance Form](https://forms.gle/AyjTq9HsoGWvQvM56){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
+<!--
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1fmBmjzTjK83_dGvndSJuxfc4FZ3xK8FXjWf5jlVdWnw/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"}
@@ -29,6 +30,7 @@
   - [Module 6 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/110Z32G7ii5QCl_Bj1kmq5hRGsw8p2Xa17aJM7ug6rzw/edit?usp=sharing){:target="_blank"}
   -  [Module 7 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link)
+  -->
   
 <!--
   - [Module 1 Recording (22-23)](https://ucla.zoom.us/rec/share/5oYyZgYOnHqh5SZn6FnwDb-V51pdufQ736nbn13LoiHYW6lZ5HwthmxEh_K_oSNi.ks9b-NG8IUBFL7HZ){:target="_blank"} (Passcode: Wev9G%%?)
@@ -82,6 +84,7 @@
 * [Pulse Oximeter Workshop](https://docs.google.com/presentation/d/1IImYo_rVWigay2D_J3yl-ipxPs0ZTwqCrgj2YfEigjI/edit?usp=sharing){:target="_blank"}
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
 -->
+
 <!--
 ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
