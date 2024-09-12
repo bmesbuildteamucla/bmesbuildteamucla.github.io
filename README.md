@@ -62,6 +62,7 @@
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
 -->
 
+<!--
 ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1hlXs0M5MaTibvn52wWaJA8w2Dcb-JrOplgp34bf_QFc/edit?usp=sharing){:target="_blank"}
@@ -72,7 +73,7 @@
 * [Workshop 6 - CAD and 3D Printing](https://bmesbuildteamucla.github.io/workshops/workshop-6--CAD){:target="_blank"}
 * [Workshop 7 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
 * [Workshop 8 - Soldering](https://bmesbuildteamucla.github.io/workshops/workshop-8--soldering){:target="_blank"}
-
+-->
 
 <!--
 * [Pulse Oximeter Workshop Slides](https://docs.google.com/presentation/d/1yYMUpLfETwpd5UFMXlOSOVsBrH_GR4XbkF3A0wWSW_k/edit?usp=sharing){:target="_blank"}
