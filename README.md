@@ -13,7 +13,7 @@
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
-  <!--- [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"} 
+  <!--- [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"} -->
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   <!--- [Module 2 Recording](https://drive.google.com/file/d/163IT--UMDqeeRxk5EEhSoRyoZZwmv2a0/view?usp=share_link){:target="_blank"}
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}-->
