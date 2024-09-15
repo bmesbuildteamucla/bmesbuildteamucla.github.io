@@ -10,7 +10,7 @@
 * [Attendance Form](https://forms.gle/AyjTq9HsoGWvQvM56){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
-
+<!--
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"} 
