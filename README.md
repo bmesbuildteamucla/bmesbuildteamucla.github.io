@@ -13,21 +13,21 @@
 
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
-  <!--- [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"}
+  <!--- [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"} -->
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   <!--- [Module 2 Recording](https://drive.google.com/file/d/163IT--UMDqeeRxk5EEhSoRyoZZwmv2a0/view?usp=share_link){:target="_blank"}
-  - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
+  - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}-->
 * [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Q1y9ZGVvXZVQgEMkkGgFJHb7PKUrLOT2elcoyK1gu3g/edit?usp=sharing){:target="_blank"}
   <!--- [Module 3 Recording](https://drive.google.com/file/d/1mQaF2HbZCqiQLNOy_Sau7jRgTqUEoQhC/view?usp=share_link){:target="_blank"}
-  - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
+  - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}-->
 * [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1pIDjRnuq6AQ1a9pJNxVi_kF34vXphBnP99XznEoH2bc/edit?usp=sharing){:target="_blank"}
   <!--- [Module 4 Recording_part 1](https://drive.google.com/file/d/1JP-bgiZ6hCwI8XxsnHGO6pVNX_tMZB5Y/view?usp=sharing){:target="_blank"}
   - [Module 4 Recording_part 2](https://drive.google.com/file/d/1BVz2l8SAV-XD48IYamvurWa9drhbzKho/view?usp=sharing){:target="_blank"}
-  - [Module 4 Recording_part 3](https://drive.google.com/file/d/1aE366X-Zz4X7XXmn0W6au8BDnxFzc5D9/view?usp=sharing){:target="_blank"}
+  - [Module 4 Recording_part 3](https://drive.google.com/file/d/1aE366X-Zz4X7XXmn0W6au8BDnxFzc5D9/view?usp=sharing){:target="_blank"}-->
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/15vELr75XBqW-TKj-1D09v2UisZyr621aiVK75nXuT2Y/edit?usp=sharing){:target="_blank"}
-  <!--- [Module 5 Recording](https://drive.google.com/file/d/1cMO5GWvieFs8Q5vo2CcmkTfGw4wpg-x5/view?usp=share_link){:target="_blank"}
+  <!--- [Module 5 Recording](https://drive.google.com/file/d/1cMO5GWvieFs8Q5vo2CcmkTfGw4wpg-x5/view?usp=share_link){:target="_blank"}-->
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1kLV-kdJsfE4m064zs4IGnj1X5X_C_2juA8fOuqEPkhI/edit?usp=sharing){:target="_blank"}
-  <!--- [Module 6 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}
+  <!--- [Module 6 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}-->
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Hd7QJUCnD48xEuAD6MG2Buix1F_Wa_Y61gDUu1NB2XE/edit?usp=sharing){:target="_blank"}
   <!---  [Module 7 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link)
   -->
