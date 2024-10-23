@@ -8,13 +8,13 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* [Attendance Form](https://forms.gle/AyjTq9HsoGWvQvM56](https://docs.google.com/forms/d/e/1FAIpQLSeyQd8KEgRIXovr4HVOqgUv08KC2p1zGEXV39lNvkA-mF1B_Q/viewform?usp=sf_link)){:target="_blank"}
+* [Attendance Form](https://forms.gle/XszHhEz6UjEtFrLP8){:target="_blank"}
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
 <!-- 24-25 Modules-->
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
- <!--
+<!--
   - [Module 1 Recording (23-24)](https://drive.google.com/file/d/1LRWdLZ_L1wyQmTTQE-VCILTQU29KCFmJ/view?usp=share_link){:target="_blank"}
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/163IT--UMDqeeRxk5EEhSoRyoZZwmv2a0/view?usp=share_link){:target="_blank"}
@@ -32,7 +32,7 @@
   - [Module 6 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Hd7QJUCnD48xEuAD6MG2Buix1F_Wa_Y61gDUu1NB2XE/edit?usp=sharing){:target="_blank"}
   -  [Module 7 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link)
-  -->
+-->
 
 <!--
 ## Modules:
