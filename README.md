@@ -1,5 +1,6 @@
 * [Syllabus](https://bmesbuildteamucla.github.io/syllabus)
-* [Schedule](https://bmesbuildteamucla.github.io/schedule)
+<!--* [Schedule](https://bmesbuildteamucla.github.io/schedule)
+-->
 
 ## Announcements:
 
