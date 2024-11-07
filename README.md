@@ -15,9 +15,10 @@
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
   - [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
+* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
+
 
 <!--
-* [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording](https://drive.google.com/file/d/163IT--UMDqeeRxk5EEhSoRyoZZwmv2a0/view?usp=share_link){:target="_blank"}
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
 * [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Q1y9ZGVvXZVQgEMkkGgFJHb7PKUrLOT2elcoyK1gu3g/edit?usp=sharing){:target="_blank"}
