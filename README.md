@@ -19,9 +19,10 @@
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording (24-25)](https://ucla.zoom.us/rec/share/utl984cNXGmgLjms1R0ckQ3LdPXRoowkrU-D9UKhc4s86vqr4EW3urVWpgS0GMvR.wfvgvb4sjqWQY2Jd?startTime=1730945360000){:target="_blank"} Password: p1k&DZGe
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
+* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Q1y9ZGVvXZVQgEMkkGgFJHb7PKUrLOT2elcoyK1gu3g/edit?usp=sharing){:target="_blank"}
+
 
 <!--
-* [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/1Q1y9ZGVvXZVQgEMkkGgFJHb7PKUrLOT2elcoyK1gu3g/edit?usp=sharing){:target="_blank"}
   - [Module 3 Recording](https://drive.google.com/file/d/1mQaF2HbZCqiQLNOy_Sau7jRgTqUEoQhC/view?usp=share_link){:target="_blank"}
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1pIDjRnuq6AQ1a9pJNxVi_kF34vXphBnP99XznEoH2bc/edit?usp=sharing){:target="_blank"}
