@@ -72,6 +72,7 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 	Serial.read() // reads incoming serial data
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
+  
 <!--
 ## Solutions:
 * [Problem 1 - Traffic Light](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light)
