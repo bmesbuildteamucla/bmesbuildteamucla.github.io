@@ -23,7 +23,7 @@
   - [Module 3 Recording](https://drive.google.com/file/d/1mQaF2HbZCqiQLNOy_Sau7jRgTqUEoQhC/view?usp=share_link){:target="_blank"}
   - [Module 3 Activity Solutions](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Winter Break Problem Set and Processing](https://docs.google.com/presentation/d/1pIDjRnuq6AQ1a9pJNxVi_kF34vXphBnP99XznEoH2bc/edit?usp=sharing){:target="_blank"}
-
+* [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/15vELr75XBqW-TKj-1D09v2UisZyr621aiVK75nXuT2Y/edit?usp=sharing){:target="_blank"}
 
 <!--
   - [Module 4 Recording_part 1](https://drive.google.com/file/d/1JP-bgiZ6hCwI8XxsnHGO6pVNX_tMZB5Y/view?usp=sharing){:target="_blank"}
