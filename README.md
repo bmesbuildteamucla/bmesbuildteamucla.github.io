@@ -26,11 +26,12 @@
   - [Module 4 Recording (24-25)](https://ucla.zoom.us/rec/share/qIWsRGzTdH8eceiCObAPduFOd4ljRCaSrNjtkbjnq4ZCVlS7ZuZnBGSzfA6vA6eC.MKJNC5OQHlnAls4a){:target="_blank"} Password: nE*HA@1f
   - [Module 4 Activity Solutions](https://docs.google.com/document/d/1lSSazH-rDAma1QnrAYFhSSzUfCGHoIr4g7JnPTL1Y1U/edit?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/15vELr75XBqW-TKj-1D09v2UisZyr621aiVK75nXuT2Y/edit?usp=sharing){:target="_blank"}
+  - [Module 5 Recording](https://ucla.zoom.us/rec/share/InwPTCKn_osDpPWQFnJU-HFWCEX2J8xIecDoBfURP2hL-KrdJcWPcoQonVSVgRVZ.Mm3CJ4D0cqmCHTbf){:target="_blank"} Password: r=W7BH#1
 
 <!--
   - [Module 4 Recording_part 3](https://drive.google.com/file/d/1aE366X-Zz4X7XXmn0W6au8BDnxFzc5D9/view?usp=sharing){:target="_blank"}
 * [Module 5 - Advanced Circuitry](https://docs.google.com/presentation/d/15vELr75XBqW-TKj-1D09v2UisZyr621aiVK75nXuT2Y/edit?usp=sharing){:target="_blank"}
-  - [Module 5 Recording](https://drive.google.com/file/d/1cMO5GWvieFs8Q5vo2CcmkTfGw4wpg-x5/view?usp=share_link){:target="_blank"}
+  - [Module 5 Recording](https://ucla.zoom.us/rec/share/InwPTCKn_osDpPWQFnJU-HFWCEX2J8xIecDoBfURP2hL-KrdJcWPcoQonVSVgRVZ.Mm3CJ4D0cqmCHTbf){:target="_blank"}
 * [Module 6 - PCB Design](https://docs.google.com/presentation/d/1kLV-kdJsfE4m064zs4IGnj1X5X_C_2juA8fOuqEPkhI/edit?usp=sharing){:target="_blank"}
   - [Module 6 Recording](https://drive.google.com/file/d/1eun5ovnP7BYJW0LZgvM8tSJpqRn2Arzk/view?usp=share_link){:target="_blank"}
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Hd7QJUCnD48xEuAD6MG2Buix1F_Wa_Y61gDUu1NB2XE/edit?usp=sharing){:target="_blank"}
