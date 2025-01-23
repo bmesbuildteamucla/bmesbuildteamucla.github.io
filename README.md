@@ -95,9 +95,10 @@
 * [Workshop 1 - Basic Circuitry](https://docs.google.com/presentation/d/1ZGD1QCvNFO8lmv8kDWeGItB7K-4GqMGZsF2rsV24eGM/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
+* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
+
 
 <!--
-* [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * [Workshop 5 - PCB and Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-5--PCB){:target="_blank"}
 * [Workshop 6 - CAD and 3D Printing](https://bmesbuildteamucla.github.io/workshops/workshop-6--CAD){:target="_blank"}
 * [Workshop 7 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
