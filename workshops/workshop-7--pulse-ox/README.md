@@ -2,7 +2,10 @@
 
 ## IMPORTANT DEADLINES: 
 
-* Week 1 [Project Timeline](https://docs.google.com/spreadsheets/d/1iXe73medv4pFezDHwyH74r_h56Ny7wXFiqEyXDhMIqo/edit?usp=share_link)
+Winter:
+* Week 10 [Project Timeline](https://docs.google.com/spreadsheets/d/1iXe73medv4pFezDHwyH74r_h56Ny7wXFiqEyXDhMIqo/edit?usp=share_link)
+  
+Spring:
 * Week 4 [Design Review](https://docs.google.com/presentation/d/19sC7dH2UuXUHeNcOv0W1TxAFQRV5BMv53ZNprg9Kw_s/edit?usp=sharing)
 * Week 5 Printed CAD + Soldering Workshop
 * Week 6 PCB gerber files sent to PMs 
