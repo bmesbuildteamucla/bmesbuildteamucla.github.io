@@ -92,10 +92,9 @@
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * [Workshop 5 - PCB and Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-5--PCB){:target="_blank"}
 * [Workshop 6 - CAD and 3D Printing](https://bmesbuildteamucla.github.io/workshops/workshop-6--CAD){:target="_blank"}
-
+* [Workshop 7 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
 
 <!--
-* [Workshop 7 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
 * [Workshop 8 - Soldering](https://bmesbuildteamucla.github.io/workshops/workshop-8--soldering){:target="_blank"}
 -->
 
