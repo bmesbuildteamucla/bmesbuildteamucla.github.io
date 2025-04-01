@@ -79,7 +79,9 @@ Spring:
   - Is the pulse graph visible yet?
 * Add an appropriate non-inverting amplifier circuit
   - Calculate the theoretical gain
-* Your plot should look something like this:
+
+<!--* Your plot should look something like this:
+-->
 
 #### Activity 4 - Filtering Signal
 * At this point, you should be able to see your pulse, but it should be very noisy.
