@@ -31,6 +31,7 @@
   - [Module 6 Recording (24-25)](https://ucla.zoom.us/rec/share/Zoo8ASd6McguW2MREwp6RufXi7TaFRu6LLT3rkMGuVpBGVlSpb5dTHhnDTfDnO76.pQFi5hNo2zjdL6SE){:target="_blank"} Password: Hbz0G2%6
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Hd7QJUCnD48xEuAD6MG2Buix1F_Wa_Y61gDUu1NB2XE/edit?usp=sharing){:target="_blank"}
   -  [Module 7 Recording (24-25)](https://ucla.zoom.us/rec/share/59lczhwZKoWjV2oPGqP22hk5mqz3xHkJ8O-11bWRJSPxNejG7uU2ss9-jfMx5ryv.6oqnBl9Qy2dwApCk){:target="_blank"} Password: $0!VyI8M
+* [Bonus Processing Guide](https://docs.google.com/presentation/d/14cSewl7vbFR4kclmWjaROp6AGvG4jQkX0toKFMAkRhE/edit?usp=sharing){:target="_blank"}
 
 <!--
 ## Modules:
