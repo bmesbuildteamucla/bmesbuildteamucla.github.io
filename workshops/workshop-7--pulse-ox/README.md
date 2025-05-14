@@ -9,7 +9,7 @@ Spring:
 * Week 3 [Design Review](https://docs.google.com/presentation/d/19sC7dH2UuXUHeNcOv0W1TxAFQRV5BMv53ZNprg9Kw_s/edit?usp=sharing)
 * Week 5 Printed CAD + Soldering Workshop
 * Week 6 PCB gerber files sent to PMs 
-* Week 9 Internal Presentations
+* Week 9 [Internal Presentations](https://docs.google.com/presentation/d/1031YyMKs7IsTFLjsiL9ngZ-s-qNvRb3rZWXwRrrNzjc/edit?usp=sharing) 
 * Week 10 Tech project wide Symposium
   
 ## [Guidelines & extra resources](https://docs.google.com/presentation/d/1O1AgHZ580prPZU6NF8KwVhaeoH9mqk1tXWXyfUsnyY4/edit?usp=sharing)
