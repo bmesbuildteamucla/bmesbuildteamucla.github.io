@@ -8,14 +8,14 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
-<!-- * [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
-* [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"} -->
+<!--* [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
+* [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"}-->
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
 <!-- 24-25 Modules-->
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
-<!--   - [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
+<!--- [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording (24-25)](https://ucla.zoom.us/rec/share/utl984cNXGmgLjms1R0ckQ3LdPXRoowkrU-D9UKhc4s86vqr4EW3urVWpgS0GMvR.wfvgvb4sjqWQY2Jd?startTime=1730945360000){:target="_blank"} Password: p1k&DZGe
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
