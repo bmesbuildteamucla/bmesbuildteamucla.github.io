@@ -128,13 +128,15 @@
 ## Other Resources:
 * [Cheat Sheet](https://docs.google.com/document/d/1OAMfj-cizv8TWRzVpr8cUBld7bFptPS7H24YjgxFS5Y/edit?usp=sharing){:target="_blank"}
 * [Circuitry Guide](https://docs.google.com/document/d/1xoPZDM4w_18u-5SAel72Ljc1ihYJ8d1sky9QcXxrpqM/edit?usp=sharing){:target="_blank"}
-<!-- * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
-* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
-* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"} -->
 * [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
 * [Processing](https://processing.org/){:target="_blank"}
 * [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
 * [Eagle](https://www.autodesk.com/products/eagle/overview){:target="_blank"}
+  
+<!-- * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
+* [Arduino Reference](https://www.arduino.cc/reference/en/){:target="_blank"}
+* [Arduino Kit via Amazon](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_3?dchild=1&keywords=arduino+uno+starter+kit&qid=1603664935&sr=8-3){:target="_blank"} -->
+
 
 <!-- 2020-2021 Links
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1uVS40pTPOzMr3Lo37LBFV9Pn5tSCblcV8J7QBXQmzR0/edit?usp=sharing){:target="_blank"}
