@@ -8,14 +8,14 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
-* [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
-* [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"}
+<!-- * [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
+* [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"} -->
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 
 <!-- 24-25 Modules-->
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
-  - [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
+<!--   - [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording (24-25)](https://ucla.zoom.us/rec/share/utl984cNXGmgLjms1R0ckQ3LdPXRoowkrU-D9UKhc4s86vqr4EW3urVWpgS0GMvR.wfvgvb4sjqWQY2Jd?startTime=1730945360000){:target="_blank"} Password: p1k&DZGe
   - [Module 2 Activity Solutions](https://docs.google.com/document/d/1ts-DgkSwP_xfQG-OsC1zW0CuWvf7YgNFe-Rwm29nJms/edit){:target="_blank"}
@@ -31,7 +31,7 @@
   - [Module 6 Recording (24-25)](https://ucla.zoom.us/rec/share/Zoo8ASd6McguW2MREwp6RufXi7TaFRu6LLT3rkMGuVpBGVlSpb5dTHhnDTfDnO76.pQFi5hNo2zjdL6SE){:target="_blank"} Password: Hbz0G2%6
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1Hd7QJUCnD48xEuAD6MG2Buix1F_Wa_Y61gDUu1NB2XE/edit?usp=sharing){:target="_blank"}
   -  [Module 7 Recording (24-25)](https://ucla.zoom.us/rec/share/59lczhwZKoWjV2oPGqP22hk5mqz3xHkJ8O-11bWRJSPxNejG7uU2ss9-jfMx5ryv.6oqnBl9Qy2dwApCk){:target="_blank"} Password: $0!VyI8M
-* [Bonus Processing Guide](https://docs.google.com/presentation/d/14cSewl7vbFR4kclmWjaROp6AGvG4jQkX0toKFMAkRhE/edit?usp=sharing){:target="_blank"}
+* [Bonus Processing Guide](https://docs.google.com/presentation/d/14cSewl7vbFR4kclmWjaROp6AGvG4jQkX0toKFMAkRhE/edit?usp=sharing){:target="_blank"} -->
 
 <!--
 ## Modules:
@@ -88,13 +88,13 @@
 
 ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://docs.google.com/presentation/d/1ZGD1QCvNFO8lmv8kDWeGItB7K-4GqMGZsF2rsV24eGM/edit?usp=sharing){:target="_blank"}
-* [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
+<!-- * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * [Workshop 5 - PCB and Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-5--PCB){:target="_blank"}
 * [Workshop 6 - CAD and 3D Printing](https://bmesbuildteamucla.github.io/workshops/workshop-6--CAD){:target="_blank"}
 * [Workshop 7 - Pulse Ox](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
-* [Processing Problem Set](https://bmesbuildteamucla.github.io/spring-break/Processing%20PS/){:target="_blank"}
+* [Processing Problem Set](https://bmesbuildteamucla.github.io/spring-break/Processing%20PS/){:target="_blank"} -->
 
 <!--
 * [Workshop 8 - Soldering](https://bmesbuildteamucla.github.io/workshops/workshop-8--soldering){:target="_blank"}
@@ -112,8 +112,8 @@
 -->
 
 
-## Winter Break:
-* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
+<!-- ## Winter Break:
+* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2) -->
 
 <!--
 ## Spring Break:
