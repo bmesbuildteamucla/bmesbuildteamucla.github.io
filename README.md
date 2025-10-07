@@ -86,7 +86,7 @@
 -->
 
 
-## Workshops:
+<!-- ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://docs.google.com/presentation/d/1ZGD1QCvNFO8lmv8kDWeGItB7K-4GqMGZsF2rsV24eGM/edit?usp=sharing){:target="_blank"}
 <!-- * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
