@@ -11,7 +11,7 @@
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
 * [EH&S Safety Training](https://forms.gle/X5xjCdWdGjA5ZC6h6){:target="_blank"}
 * [Amazon: Freenove Basic Start Kit for ESP32](https://a.co/d/hmO7K2U){:target="_blank"}
-* [Financial Assistance Form for ESP32](https://docs.google.com/forms/d/e/1FAIpQLSdNF03v3gEIJocMCKyZwKAn1lfjj3Qd95b7GpRNChF1eQuKqQ/viewform?usp=sf_link){:target="_blank'}
+* [Financial Assistance Form for ESP32](https://forms.gle/vjoKWNTKCpHKAhTt8){:target="_blank'}
 
 <!--* [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
 * [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"}-->
