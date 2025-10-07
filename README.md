@@ -9,13 +9,16 @@
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
+* [EH&S Safety Training](https://forms.gle/X5xjCdWdGjA5ZC6h6){:target="_blank"}
+* [Amazon: Freenove Basic Start Kit for ESP32](https://a.co/d/hmO7K2U){:target="_blank"}
+* [Financial Assistance Form for ESP32](https://docs.google.com/forms/d/e/1FAIpQLSdNF03v3gEIJocMCKyZwKAn1lfjj3Qd95b7GpRNChF1eQuKqQ/viewform?usp=sf_link){:target="_blank'}
 
 <!--* [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
 * [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"}-->
 
 <!-- 24-25 Modules-->
 ## Modules:
-* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1MxF9918vx4dUsrNej0EtjioXBvvHCV1mLXPOavTEWaY/edit?usp=sharing){:target="_blank"}
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
 
 <!--- [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
