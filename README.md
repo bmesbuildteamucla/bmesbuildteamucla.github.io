@@ -7,7 +7,7 @@
 * Welcome to the Build Team Website for 2025-2026!
 
 ## Important Links:
-* [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}
+* [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
 <!-- * [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
 * [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"} -->
 * Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
