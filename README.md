@@ -80,11 +80,10 @@
   - [Module 7 Recording](https://drive.google.com/file/d/1xLillfIyGKHrR0OSCzXhR_-4WXMjsXBt/view?usp=sharing){:target="_blank"}
 -->
 
+<!--
 ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing){:target="_blank"}
-
-<!--
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
@@ -119,6 +118,9 @@
 * [Pulse Ox Presentation Template](https://docs.google.com/presentation/d/1dob9p1WphbKbcz2q1rpLnYft7KFWSWCEwtdFZxsUTe0/edit?usp=sharing){:target="_blank"}
 -->
 
+## Workshops 25-26:
+* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
+  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing ){:target="_blank"}
 
 <!-- ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2) -->
