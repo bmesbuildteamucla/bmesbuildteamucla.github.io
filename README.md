@@ -78,17 +78,20 @@
   - [Module 6 Recording](https://drive.google.com/file/d/1iLLKfOZIezLHT3dlFERyquZHJwZeGbVl/view?usp=sharing){:target="_blank"}
 * [Module 7 - PCB Design](https://docs.google.com/presentation/d/1GWW7Bd8lNxWaFQK-WVvlD8fX3iEyEK0D8P7zPjxDTuI/edit?usp=sharing){:target="_blank"}
   - [Module 7 Recording](https://drive.google.com/file/d/1xLillfIyGKHrR0OSCzXhR_-4WXMjsXBt/view?usp=sharing){:target="_blank"}
+-->
 
 ## Workshops:
 * [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
   - [Workshop 1 Slides](https://docs.google.com/presentation/d/1QjL6kzjEdPdxINjxyY-ncIFI49I5ALkDH3C9SVb8Xf4/edit?usp=sharing){:target="_blank"}
+
+<!--
 * [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino){:target="_blank"}
 * [Workshop 3 - Arduino Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--arduino-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * Workshop 5 - CAD and 3D Printing
 * Workshop 6 - PCB and Pulse Ox
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-6--pulse-ox){:target="_blank"}
--->
+
 
 
 <!-- ## Workshops:
