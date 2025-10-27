@@ -119,8 +119,7 @@
 -->
 
 ## Workshops 25-26:
-* [Workshop 1 - Basic Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-1--basic-circuitry){:target="_blank"}
-  - [Workshop 1 Slides](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing){:target="_blank"}
+* [Workshop 1 Slides](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing){:target="_blank"}
 
 <!-- ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2) -->
