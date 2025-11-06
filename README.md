@@ -16,10 +16,12 @@
 <!--* [Attendance Form](https://forms.gle/5TPBgWYXnmYcJtjj8){:target="_blank"}
 * [Additional Session Scheduling Form](https://forms.gle/pS2NhK7RMXutySqf8){:target="_blank"}-->
 
-<!-- 24-25 Modules-->
+<!-- 25-26 Modules-->
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
+* [Module 2 - Intro to Arduino and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
 
+<!-- 24-25 Modules-->
 <!--- [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
 * [Module 2 - Intro to Coding and Arduino](https://docs.google.com/presentation/d/1-7GOUSqCApO-VQWBxHzcrKFppaFa5o8ioVYbgqtgIjg/edit?usp=sharing){:target="_blank"}
   - [Module 2 Recording (24-25)](https://ucla.zoom.us/rec/share/utl984cNXGmgLjms1R0ckQ3LdPXRoowkrU-D9UKhc4s86vqr4EW3urVWpgS0GMvR.wfvgvb4sjqWQY2Jd?startTime=1730945360000){:target="_blank"} Password: p1k&DZGe
