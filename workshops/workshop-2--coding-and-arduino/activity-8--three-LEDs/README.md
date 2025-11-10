@@ -1,6 +1,6 @@
 # [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
 
-## Activity 7 - Three LEDs
+## Activity 8 - Three LEDs
 
 ### Task:
 You have one button and three separate LEDs. When you hold the button, the first LED turns on. If you are still holding the button after one second, the second LED also turns on. If you are still holding the button after two seconds, the third LED also turns on. If at any point you release the button, only the LEDs that have been turned on stay on. The next time you press the button, all the LEDs will turn off. Further button presses will continue the pattern.
@@ -8,7 +8,7 @@ You have one button and three separate LEDs. When you hold the button, the first
 *Hint: Don’t use delays [delay() will stall your code for the specified time]. Instead, think of a way to track time elapsed from the first button press using millis().*
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--three-LEDs/circuit.png)
+![Circuit](circuit.png)
 
 ### Code:
 ```cpp

@@ -1,12 +1,12 @@
 # [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
 
-## Activity 5 - LED Three Presses
+## Activity 6 - LED Three Presses
 
 ### Task:
 Have an LED toggle on/off after three clicks of a button.
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-5--LED-three-presses/W2A5%20(1).png)
+![Circuit](W2A5%20(1).png)
 
 ### Code:
 ```c++

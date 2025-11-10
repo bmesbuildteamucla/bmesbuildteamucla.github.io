@@ -1,6 +1,6 @@
 # [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
 
-## Activity 8 - Morse Code (Challenge)
+## Activity 9 - Morse Code (Challenge)
 
 ### Task:
 Write a program that lets you to input a word or sentence into the serial monitor and translate it to Morse code. Have an LED flash the Morse code.
@@ -23,7 +23,7 @@ Serial.readString() // reads characters from the serial buffer into a String
 ```
 
 ### Circuit:
-![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--morse-code/circuit.png)
+![Circuit](circuit.png)
 
 Circuit uses built in LED
 

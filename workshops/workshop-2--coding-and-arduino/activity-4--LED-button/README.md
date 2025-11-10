@@ -1,6 +1,6 @@
  # [Workshop 2 - Coding and Arduino](/workshops/workshop-2--coding-and-arduino)
 
-## Activity 3 - LED Button
+## Activity 4 - LED Button
 
 ### Task:
 Have the LED light up when the button is pressed down and turn off when not.
