@@ -1,4 +1,4 @@
- # [Workshop 2 - Coding and Arduino](/workshops/workshop-2--coding-and-arduino)
+# <a href="/workshops/workshop-2--coding-and-arduino">Workshop 2 - Coding and Arduino</a>
 
 ## Activity 3 - Storing Potentiometer Data
 
@@ -6,7 +6,7 @@
 Store the past 5 values read from the potentiometer in an array, and print the array after every reading. To prevent output clutter, only read new values every 5 seconds (use delay())
 
 ### Circuit:
-![Circuit](Circuit.png)
+![Circuit](circuit.png)
 
 ### Code: 
 ```c++

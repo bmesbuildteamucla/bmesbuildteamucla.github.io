@@ -1,4 +1,4 @@
-# [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino)
+# <a href="/workshops/workshop-2--coding-and-arduino">Workshop 2 - Coding and Arduino</a>
 
 ## Activity 8 - Three LEDs
 
