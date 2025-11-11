@@ -5,6 +5,8 @@
 
 # Workshop 2 - Coding and Arduino
 
+[Attendance Form](https://forms.gle/hoBcsWCQdFxDxCy48){:target="_blank"}
+
 ## Activities:
 
 #### Activity 1 - LED Time
@@ -17,8 +19,8 @@
 * Store the past 5 values read from the potentiometer in an array, and print the array after every reading. To prevent output clutter, only read new values every 5 seconds (use delay())
 * The potentiometer is a voltage divider, and turning the knob changes the resistances R1 and R2. This allows you to change the output voltage, which is the middle pin.
  	* The potentiometer has 3 pins: Power, Ground, and Signal.
-    * ![image](https://i.pinimg.com/736x/fa/b5/e0/fab5e0b7a7aa6028ffb29febc00b55d6.jpg)
- 	* Connect the power/Vcc pin to **3v3**, the ground pin to ground, and the signal pin to an **analog pin.** Analog pins are labelled "ADC" in [this diagram](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?slide=id.g5d34e6069b_0_142#slide=id.g5d34e6069b_0_142).
+    * ![image](https://i.pinimg.com/736x/fa/b5/e0/fab5e0b7a7aa6028ffb29febc00b55d6.jpg) <br>
+ 	* Connect the power/Vcc pin to **3v3**, the ground pin to ground, and the signal pin to an **analog pin.** Analog pins are labelled "ADC" in [this diagram](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?slide=id.g5d34e6069b_0_142#slide=id.g5d34e6069b_0_142){:target="_blank"}.
  	* Use the analogRead instead of digitalRead to capture the voltage differences
     * The array should be of ints, and should store the most recent value at index 0 at all times and the least recent value at index 4.
     * Challenge activity: Also print the maximum and minimum value of the array every time a value is added.
