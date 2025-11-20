@@ -21,6 +21,7 @@
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to Arduino and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
     - [Module 2 Recording (25-26)](https://drive.google.com/file/d/1fezmCSshK8X8X--URERH5C8aYIhKaF5S/view?usp=sharing){:target="_blank"}
+* [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing){:target="_blank"}
 
 <!-- 24-25 Modules-->
 <!--- [Module 1 Recording (24-25)](https://ucla.zoom.us/rec/share/VD-YJAfHe11gfkodrKsaNHCTMm4s4gxCk6S31BG3RsJn6Uyqqv1vRbLczCHeraOz.425DF58vgFMCudwK?startTime=1729732201000){:target="_blank"} Password: E0sHn3@V
