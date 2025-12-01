@@ -44,7 +44,7 @@
   - Joystick:<br>
   ![joystick](static/joystick.png)
   <br>Practice searching online for how to wire and code a Joystick, then try to incorporate it into your code to achieve the same function.
-  Some useful links: ![Connect Joystick 1](https://www.instructables.com/Connect-and-Use-Joystick-With-Arduino/), ![Connect Joystick 2](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
+  Some useful links: [Connect Joystick 1](https://www.instructables.com/Connect-and-Use-Joystick-With-Arduino/), [Connect Joystick 2](https://lastminuteengineers.com/joystick-interfacing-arduino-processing/)
 
 #### Activity 3 - Light-Level sensor
 * Use a photoresistor to measure brightness

@@ -14,7 +14,7 @@
 <!-- 25-26 Modules-->
 ## Modules:
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
-* [Module 2 - Intro to Arduino and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
+* [Module 2 - Intro to ESP32 and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
     - [Module 2 Recording (25-26)](https://drive.google.com/file/d/1fezmCSshK8X8X--URERH5C8aYIhKaF5S/view?usp=sharing){:target="_blank"}
 * [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing){:target="_blank"}
 

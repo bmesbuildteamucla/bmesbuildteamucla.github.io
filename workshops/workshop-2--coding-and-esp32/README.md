@@ -72,15 +72,15 @@
 	```
  
 ## Solutions:
-* [Activity 1 - LED Time](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-1--LED-time)
-* [Activity 2 - LED Flashing](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-2--LED-flashing)
-* [Activity 3 - Storing Potentiometer Values](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-3--Storing-Potentiometer)
-* [Activity 4 - LED Button](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-4--LED-button)
-* [Activity 5 - LED Switch](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-5--LED-switch)
-* [Activity 6 - LED Three Presses](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-6--LED-three-presses)
-* [Activity 7 - LED Blinking](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-7--LED-blinking)
-* [Activity 8 - Three LEDs](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-8--three-LEDs)
-* [Activity 9 - Morse Code](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/activity-9--morse-code) 
+* [Activity 1 - LED Time](activity-1--LED-time)
+* [Activity 2 - LED Flashing](activity-2--LED-flashing)
+* [Activity 3 - Storing Potentiometer Values](activity-3--Storing-Potentiometer)
+* [Activity 4 - LED Button](activity-4--LED-button)
+* [Activity 5 - LED Switch](activity-5--LED-switch)
+* [Activity 6 - LED Three Presses](activity-6--LED-three-presses)
+* [Activity 7 - LED Blinking](activity-7--LED-blinking)
+* [Activity 8 - Three LEDs](activity-8--three-LEDs)
+* [Activity 9 - Morse Code](activity-9--morse-code) 
 
 
 
