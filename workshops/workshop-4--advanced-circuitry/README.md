@@ -12,7 +12,7 @@
 #### Activity 2 - Inverting Amplifier
 * Set up an inverting amplifier circuit with the potentiometer output as Vin
 
-    ![Inverting Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/inverting-amplifier-circuit-diagram.png)
+    ![Inverting Amplifier](inverting-amplifier-circuit-diagram.png)
 
 * Simultaneously measure the voltage from the potentiometer and the op amp
   <details>
@@ -32,7 +32,7 @@
 #### Activity 3 - Non-inverting Amplifier
 * Set up an non-inverting amplifier circuit with the potentiometer output as Vin
 
-    ![Non-Inverting Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/non-inverting-amplifier-circuit-diagram.png)
+    ![Non-Inverting Amplifier](non-inverting-amplifier-circuit-diagram.png)
 * Simultaneously measure the voltage from the potentiometer and the op amp
 * Compare the two voltages and see if they match the expected gain
 
@@ -40,7 +40,7 @@
 #### Activity 4 - Transimpedance Amplifier
 * Set up a transimpedance amplifier circuit with an PD204 photodiode as the current source. Try to use a high value resistor (example: 1 megaohm) to make sure you can see the photodiode signal since the photodiode outputs a very low magnitude current.
 
-    ![Transimpedance Amplifier](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry/transimpedance-amplifier-circuit-diagram.png)
+    ![Transimpedance Amplifier](transimpedance-amplifier-circuit-diagram.png)
 
 * Measure the voltage from the op amp and see how it changes when you cover the photodiode
   <details>
@@ -71,7 +71,7 @@
     - Remeber: this code has to be uploaded again everytime before switching from Arduion IDE to Processing!!!
   - In Processing, make sure to include these three lines of code:
 
-    <img width="292" alt="processing setup" src="https://github.com/bmesbuildteamucla/bmesbuildteamucla.github.io/assets/107527511/b78cb8e7-f5cc-4a89-9e48-26cb170c0c95">
+    <img width="292" alt="processing setup" src="processing.png">
 
 * Code Processing to draw a circle everytime the button is pressed
   - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component
@@ -81,7 +81,7 @@
 #### Activity 3 - Non-inverting Amplifier
 * Circuit:
 
-    ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/non-inverting-amplifier-arduino-circuit.png)
+    ![Circuit](non-inverting-amplifier-arduino-circuit.png)
     
 * Code:
     ```c++
@@ -103,7 +103,7 @@
 #### Activity 4 - Transimpedance Amplifier
 * Circuit:
 
-    ![Circuit](https://bmesbuildteamucla.github.io/workshops/workshop-5--advanced-circuitry/transimpedance-amplifier-arduino-circuit.png)
+    ![Circuit](transimpedance-amplifier-arduino-circuit.png)
     
 * Code:
     ```c++

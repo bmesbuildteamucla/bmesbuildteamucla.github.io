@@ -1,0 +1,73 @@
+# [Workshop 3 - ESP32 Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog)
+
+## Activity 2 - Servo Motors
+
+### Task:
+* Program the Servo to sweep back and forth automatically
+* Use a potentiometer or joystick to it to control the servo manually
+* Initializing Servo (above setup)
+  ```c++
+  #include <Servo.h>
+  Servo myservo;
+  ```
+* Relevant functions
+  ```c++
+  myservo.attach(pin)
+  myservo.write(angle)
+  ```
+* Revelant Components
+  - Servo:
+  ![servo](../static/servo.png)
+  - Joystick:<br>
+  ![joystick](../static/joystick.png)
+  <br>Practice searching online for how to wire and code a joystick, then try to incorporate it into your code to achieve the same function.
+  Some useful links: https://www.instructables.com/Connect-and-Use-Joystick-With-Arduino/, https://lastminuteengineers.com/joystick-interfacing-arduino-processing/
+  <br> Hint: only need to use 1 rotation axis of the joystick
+
+### Circuit: 
+![Circuit](W3A2_Circuit.JPG)
+
+### Code to Automatically Sweep Servo:
+```c++
+#include<Servo.h>
+Servo Right;
+bool current = false;
+int rotation = 0;
+void setup() {
+  Right.attach(A5);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+   for (int i = 0; i <= 180 ; i++)
+   {
+      if (rotation%2==0)
+        {Right.write(i);}
+      else
+        {Right.write(180-i);}
+      delay(10);
+   }
+   rotation++;
+}
+```
+
+### Code to Manually Control Servo with Joystick:
+```c++
+#include<Servo.h>
+Servo Right;
+int joyY = A0; // analog pin used to connect the Y - axis of Joystick
+int y; // variables to read the values from the analog pins
+
+void setup() {
+  Right.attach(A5);
+  Serial.begin(9600);
+}
+
+void loop() {
+  y = joyY;    // reads the value of the Joystick's Y - axis (value between 0 and 1023)
+  y = map(analogRead(joyY),0,1023, 0, 180);
+  Right.write(y);
+  delay(15);
+}
+```
