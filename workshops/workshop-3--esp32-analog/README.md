@@ -1,3 +1,8 @@
+<ul class="breadcrumb">
+  <li><a href="{{ "/" | absolute_url }}">HOME</a></li>
+  <li>WORKSHOP 3 - ESP32 Analog</li>
+</ul>
+
 # Workshop 3 - ESP32 Analog
 
 [Attendance Form](https://forms.gle/aWNgUsjrnWT7bKb16){:target="_blank"}
