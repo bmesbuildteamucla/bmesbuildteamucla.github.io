@@ -24,7 +24,8 @@
 * [Workshop 2 - Coding and ESP32](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-esp32){:target="_blank"}
 * [Workshop 3 - ESP32 Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog){:target="_blank"}
 
-
+## Winter Break:
+* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 
 ## Other Resources:
 * [Cheat Sheet](https://docs.google.com/document/d/1OAMfj-cizv8TWRzVpr8cUBld7bFptPS7H24YjgxFS5Y/edit?usp=sharing){:target="_blank"}
@@ -34,8 +35,6 @@
 * [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
 * [KiCad](https://kicad.org){:target="_blank"}
 
-<!-- ## Winter Break:
-* [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2) -->
 
 <!--
 ## Spring Break:

@@ -1,8 +1,8 @@
 # Winter Break Problem Set
 
-Before you start this problem set, please make sure that you can successfully complete all of the activities from [Workshop 2 - Coding and Arduino](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-arduino/) and [Module 3 - Arduino Analog, Blood, Spectroscopy](https://docs.google.com/document/d/1UMTMQoW96v9WKbUxgi1VyGEyBYfd5HpFdkXUfVjm_FY/edit?usp=sharing). The solutions to those activities can be found at the bottom of the page for your reference. Even if you are super confident about these activities, please read through the solutions and make sure you understand everything.
+Before you start this problem set, please make sure that you can successfully complete all of the activities from [Workshop 2 - Coding and ESP32](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-esp32/) and [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing). The solutions to those activities can be found at the bottom of the page for your reference. Even if you are super confident about these activities, please read through the solutions and make sure you understand everything.
 
-These  problems are more complex than the ones we did in workshop and will help you practice your coding skills with both Arduino digital and analog. Try your best to use your current knowledge to solve them individually. Do not hesitate to message any of us for help.
+These  problems are more complex than the ones we did in workshop and will help you practice your coding skills with both ESP32 digital and analog. Try your best to use your current knowledge to solve them individually. Do not hesitate to message any of us for help.
 
 Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.build.team@gmail.com](mailto:bmes.build.team@gmail.com) with the TinkerCAD share link (found at the top right of the page) for each problem. Please make your circuits organized enough so we can see the connections.
 
@@ -73,7 +73,7 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
   
-
+<!-- 
 ## Solutions:
 * [Problem 1 - Traffic Light](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light)
 * [Problem 2 - LED Game](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game)
@@ -81,14 +81,4 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 * [Problem 4 - Newton’s Luminescent Cradle](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-4--newton's-cradle)
 * [Problem 5 - Potentiometer LED Switch](https://docs.google.com/document/d/1Zmtv1SEtLEv3ZJoump5TfCnvvnrlgBmzrHN2V0pgvgc/edit?usp=sharing)
 * [Bonus - Morse Code](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-5--morse-code)
-
-
-
-<!--
-## Solutions:
-* [Problem 1 - Traffic Light](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light)
-* [Problem 2 - LED Game](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game)
-* [Problem 3 - Save Energy...Save the World](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-3--save-energy)
-* [Problem 4 - Newton’s Luminescent Cradle](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-4--newton's-cradle)
-* [Problem 5 - Morse Code](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-5--morse-code)
--->
+ -->
