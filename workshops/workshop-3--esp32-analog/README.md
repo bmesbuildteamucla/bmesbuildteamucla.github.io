@@ -1,5 +1,7 @@
 # Workshop 3 - ESP32 Analog
 
+[Attendance Form](https://forms.gle/aWNgUsjrnWT7bKb16){:target="_blank"}
+
 ## Activities:
 ### *** *Note: Remember which pins we use for analog INPUT (ADC) vs analog OUTPUT* ***
 
@@ -54,7 +56,7 @@
 * Relevant Components
   - Thermistor: Can be connected in both directions, as it does not have polarity.
   ![Thermistor](static/thermistor.png)
-  Learn more about the thermistor, how it works, and how to code it at ![Thermistor Tutorial](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
+  Learn more about the thermistor, how it works, and how to code it at [Thermistor Tutorial](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
 
 
 #### Activity 4 - Night Light
@@ -69,7 +71,7 @@
   randomSeed(integer seed value); //initializes the random number generator, each seed value corresponds
                                   //to a particular pseudorandom number list
   //question: How to get a truly random number generator each time the code is restarted?
-  //What on the Arduino can output relatively random values?
+  //What on the ESP32 can output relatively random values?
   ```
 
 
