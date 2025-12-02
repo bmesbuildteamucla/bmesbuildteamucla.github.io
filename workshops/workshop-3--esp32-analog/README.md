@@ -35,8 +35,9 @@
 * Program the Servo to sweep back and forth automatically
 * Then use a potentiometer or joystick to control the servo manually
 * Initializing Servo (above void setup)
+* MUST Install ESP32Servo Library (by Kevin Harrington)
   ```c++
-  #include <Servo.h>    //allows you to use the servo library
+  #include <ESP32Servo.h>    //allows you to use the servo library
   Servo myservo;        //names your servo and assigns it as a servo
   ```
 * Relevant functions
