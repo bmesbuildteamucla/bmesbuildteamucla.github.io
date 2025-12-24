@@ -1,6 +1,9 @@
 name: UCLA BMES Build Team
-title: null
+title: "UCLA BMES Build Team"
 
+exclude:
+  - README.md
+  - .gitignore
 
 author:
   name: Build Team Project Managers

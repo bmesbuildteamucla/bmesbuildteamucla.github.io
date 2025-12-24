@@ -1,3 +1,8 @@
+---
+title: Workshop 1 - Basic Circuitry
+permalink: /workshops/workshop-1--basic-circuitry
+---
+
 <ul class="breadcrumb">
 	<li><a href="{{ "/" | absolute_url }}">HOME</a></li>
 	<li>WORKSHOP 1 - BASIC CIRCUITRY</li>
