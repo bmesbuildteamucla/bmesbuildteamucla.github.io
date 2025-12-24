@@ -2,7 +2,6 @@ name: UCLA BMES Build Team
 title: "UCLA BMES Build Team"
 
 exclude:
-  - README.md
   - .gitignore
 
 author:
