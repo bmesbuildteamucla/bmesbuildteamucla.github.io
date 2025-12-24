@@ -24,7 +24,7 @@
       <details>
       <summary>Why? (Think before opening)</summary>
       <br>
-      An op amp can only produce an output voltage within the range of voltages that it's supplied with (ex: 0V - 5V). By using an inverting amplifier, you are telling the op amp to produce a negative output voltage. However, the lowest voltage it is supplied with is 0V, so the output voltage is 0V. (This should hold true for low voltages, but since the Arduino has limitations, there may be a signal present at higher input voltages.)
+      An op amp can only produce an output voltage within the range of voltages that it's supplied with (ex: 0V - 5V). By using an inverting amplifier, you are telling the op amp to produce a negative output voltage. However, the lowest voltage it is supplied with is 0V, so the output voltage is 0V. (This should hold true for low voltages, but since the ESP32 has limitations, there may be a signal present at higher input voltages.)
       <br>
       </details>
   </details>
@@ -55,7 +55,7 @@
 #### Activity 5 - Filters
 * Set up a low pass and high pass filter
   - Filter your potentiometer output using each filter and observe what happens
-  - You can read in both the unfiltered and filtered signals through your Arduino and monitor using the Serial Plotter
+  - You can read in both the unfiltered and filtered signals through your ESP32 and monitor using the Serial Plotter
   - Try to filter at different frequencies by using different resistors/capacitors and see their effect on filtering
     - Long capacitor is 4.7 μF and short capacitor is 6.8 μF
   - Turn the potentiometer dial quickly/slowly and see the effect it makes on the output graph. Does this match your expectations for the different filter types?
@@ -63,7 +63,7 @@
 * Combine the low pass and high pass filters together to create a band pass filter
   - Compare with using each filter by itself
  
-#### Activity 6 - Processing + Arduino
+<!-- #### Activity 6 - Processing + ESP32
 * Set up a button circuit
   - Feel free to try with any input component you prefer ex.potentiometer, potoresistor etc.
 * Set up connection between Processing and Arduino
@@ -74,7 +74,7 @@
     <img width="292" alt="processing setup" src="processing.png">
 
 * Code Processing to draw a circle everytime the button is pressed
-  - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component
+  - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component -->
 
 <!--
 ## Solutions:
