@@ -51,7 +51,7 @@
   - ***Red LED, IR LED, and photodiode***: LED. When placing, set the footprint to `Footprint	LED_THT:LED_D5.0mm`
   - ***Capacitor***: C. When placing, set the footprint to `Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal`
   - ***Op Amps***: (a little more complicated)
-    - ```Download Symbol and Footprint``` from this [Build Team KiCad Libraries](https://drive.google.com/drive/folders/1hwNMpJOX8Vhz9xLJ0M-7wDrhA3pnRFuU?usp=drive_link).
+    - ```Download MCP6041 Symbol and Footprint``` from this [Build Team KiCad Libraries](https://drive.google.com/drive/folders/1hwNMpJOX8Vhz9xLJ0M-7wDrhA3pnRFuU?usp=drive_link).
     - Follow these [instructions](https://www.snapeda.com/about/import/?plugin=&prev_ref=#KiCad6) to import the library into KiCad. Or, watch the video in the [KiCad Tutorials folder](https://drive.google.com/drive/folders/1Ws-rUEyWAYt_4fxkrh3LIJb50ylhu5OX?usp=drive_link)
     - You should now be able to find it in the add parts menu!
   - ***ESP32***: Follow the video in the [KiCad Tutorials folder](https://drive.google.com/drive/folders/1Ws-rUEyWAYt_4fxkrh3LIJb50ylhu5OX?usp=drive_link)
