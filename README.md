@@ -30,7 +30,7 @@
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 
 ## Other Resources:
-* [Cheat Sheet](https://docs.google.com/document/d/1OAMfj-cizv8TWRzVpr8cUBld7bFptPS7H24YjgxFS5Y/edit?usp=sharing){:target="_blank"}
+* [Cheat Sheet](https://docs.google.com/document/d/1wIeL6bx7rg2699iLlqAEaEuf3wh1BYzPnBXVcucla6Q/edit?usp=sharing){:target="_blank"}
 * [Circuitry Guide](https://docs.google.com/document/d/1xoPZDM4w_18u-5SAel72Ljc1ihYJ8d1sky9QcXxrpqM/edit?usp=sharing){:target="_blank"}
 * [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
 * [Processing](https://processing.org/){:target="_blank"}
