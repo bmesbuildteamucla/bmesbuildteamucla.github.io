@@ -73,7 +73,6 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
   
-<!-- 
 ## Solutions:
 * [Problem 1 - Traffic Light](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-1--traffic-light)
 * [Problem 2 - LED Game](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-2--LED-game)
@@ -81,4 +80,3 @@ Do each problem in a separate TinkerCAD circuit. When you finish,  email [bmes.b
 * [Problem 4 - Newton’s Luminescent Cradle](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-4--newton's-cradle)
 * [Problem 5 - Potentiometer LED Switch](https://docs.google.com/document/d/1Zmtv1SEtLEv3ZJoump5TfCnvvnrlgBmzrHN2V0pgvgc/edit?usp=sharing)
 * [Bonus - Morse Code](https://bmesbuildteamucla.github.io/winter-break/problem-set-2/problem-5--morse-code)
- -->
