@@ -62,7 +62,17 @@
   
 * Combine the low pass and high pass filters together to create a band pass filter
   - Compare with using each filter by itself
- 
+#### Activity 6 - Putting it all together
+* Connect the output of Activity 4 (Transimpedance amplifier) to the input of Activity 5 (Filters). Connect the output of the filter to an analog pin on the ESP32 and plot your data! This is the complete circuit capable of measuring your pulse!
+  - Fine tune the transimpedance amplifier resistor and filter resistor to get a clear signal. If you have time, you can try calculating your pulse. 
+  - You will have group work time to find the ideal values, so solutions for Activity 6 will not be posted
+    <details>
+    <summary>(Click me) What type of filter should you use? Hint: your pulse is comprised of low frequency signals (<30 Hz), and there is known noise at 60 Hz</summary>
+    <br>
+    You should use a low-pass filter to allow your low frequency pulse signal to "pass" through the filter while filtering out the noise. Choose an appropriate cutoff frequency given f=1/(2*pi*R*C) Hz, with R and C being the values of the resistor and capacitor. 
+    <br>
+    <br>
+    </details>
 <!-- #### Activity 6 - Processing + ESP32
 * Set up a button circuit
   - Feel free to try with any input component you prefer ex.potentiometer, potoresistor etc.
