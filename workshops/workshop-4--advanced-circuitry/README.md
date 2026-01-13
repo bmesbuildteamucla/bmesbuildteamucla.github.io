@@ -5,7 +5,7 @@
 
 #### Activity 1 - Set Up Circuits
 * Set up a potentiometer circuit (potentiometer is a voltage divider, with the top pin of the potentiometer serving as Vout)
-* Set up separate op amp circuit with 5V and GND pins attached
+* Set up separate op amp circuit with 3.3V and GND pins attached
   - *Hint: Search up op amp data sheet to determine pin configuration*
   - *VDD is (+), VSS is (-)*
   - use opamp MCP6041
