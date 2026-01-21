@@ -19,7 +19,7 @@
 * [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1cKn-7zPSCjam-RKHn4MwqCzdUQIta_7RJqH0Z0tkstA/edit?usp=sharing){:target="_blank"}
 * [Module 5 - PCB Design](https://docs.google.com/presentation/d/1wgtv2vp1518Qk9-QdMdX_D1u6vhKlCuBPCgorhh_2MM/edit?usp=sharing){:target="_blank"}
-
+* [Module 6 - Processing](https://docs.google.com/presentation/d/1XVoMuQ3VVuTIMmQ8UFYVKIzFvYe9Vg38fwnFgSJrigY/edit?usp=sharing){:target="_blank"}
 
 ## Workshops 25-26:
 * [Workshop 1 Slides](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing){:target="_blank"}
