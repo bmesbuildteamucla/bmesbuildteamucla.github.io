@@ -108,7 +108,7 @@ Spring:
 #### Note: Activities 6, 7, and 8 do not have to be completed in order. Your team should decide how to divide work and which order you would like to complete them in to best utilize your time. Proper time management is an important part of all engineering projects!
   
 #### Activity 6 - Adding an Infrared (IR) LED
-* Look at latter half of [these slides](https://docs.google.com/presentation/d/1O1AgHZ580prPZU6NF8KwVhaeoH9mqk1tXWXyfUsnyY4/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
+* Look at latter half of [these slides](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing) for details about why you would want to add an IR LED and how you would get started
 * This step is optional, but it means that your final device will be a fully functional pulse oximeter (rather than just heart rate monitor)
 * If you choose to do this, we can help you along the way but we don't have specific instructions like the other activities. You have all the knowledge and tools you need to guide yourself through it!
   
@@ -123,16 +123,15 @@ Spring:
   - Your low pass filter circuit (resistor and capacitor)
   - IR LED circuit (if you added this)
 * **Use the following parts (NOT the parts we showed in Module) - Just copy and paste these into the add parts menu**
-  - ***Resistors***: R-US_0207/12
-  - ***Red LED, IR LED, and photodiode***: LED5MM
-  - ***Capacitor***: C-US050-024X044
+  - ***Resistors***: Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+  - ***Red LED, IR LED, and photodiode***: LED_THT:LED_D5.0mm
+  - ***Capacitor***: Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm
   - ***Op Amps***: (a little more complicated)
-    - ```Download Symbol and Footprint``` from this [MCP6041-E/P external library](https://www.snapeda.com/parts/MCP6041-E/P/Microchip/view-part/?welcome=home#). For download format, select ```Eagle``` (duh)
-      - **UPDATE:** SnapEDA requires you to make an account to download the library, so if you don't want to do that then you can download automatically by clicking [here for MCP6041](https://drive.google.com/file/d/1ud-gdCDzWFnFGQpxmaV7CvkF98oBFVPc/view?usp=sharing)
-    - Follow these [instructions](https://www.snapeda.com/about/import/?plugin=&prev_ref=#Eagle) to import the library into Eagle
-    - In the Eagle Library Manager, make sure to set the new library ```MCP6041-E_P``` to ```In Use```
+    - ```Download MCP6041 Symbol and Footprint``` from this [Build Team KiCad Libraries](https://drive.google.com/drive/folders/1hwNMpJOX8Vhz9xLJ0M-7wDrhA3pnRFuU?usp=drive_link).
+    - Follow these [instructions](https://www.snapeda.com/about/import/?plugin=&prev_ref=#KiCad6) to import the library into KiCad. Or, watch the video in the [KiCad Tutorials folder](https://drive.google.com/drive/folders/1Ws-rUEyWAYt_4fxkrh3LIJb50ylhu5OX?usp=drive_link)
     - You should now be able to find it in the add parts menu!
-* We didn't show this in Module, but we recommend moving all of your parts on top of the Arduino Nano footprint so that your PCB is as small as possible (could fit on top of your casing)
+  - ***ESP32***: Follow the video in the [KiCad Tutorials folder](https://drive.google.com/drive/folders/1Ws-rUEyWAYt_4fxkrh3LIJb50ylhu5OX?usp=drive_link)
+* We didn't show this in Module, but we recommend moving all of your parts on top of the ESP32 footprint so that your PCB is as small as possible (could fit on top of your casing)
 * [**PCB DRC Settings**](https://docs.google.com/document/d/1qWOX2tQpcEFKrnEINHshy1QbcyVMniEwuVDaCoqFRYo/edit?usp=sharing)
 * ***Do not order your PCB without approval from the Project Managers!***
 * Important notes about PCBs:
@@ -153,7 +152,7 @@ Spring:
       - We recommend adding ~0.2 mm of buffer to the hole size in your casing (e.g. red LED hole should be ~5.5 mm)
     - Spot for IR LED if you're adding that
   - Slot for your PCB to slide into the casing
-    - Your PCB will be small enough for this if you followed all directions above (moving parts on top of Arduino Nano)
+    - Your PCB will be small enough for this if you followed all directions above (moving parts on top of ESP32)
     - Must be tall enough to accommodate your PCB with the Arduino Nano soldered on
     - You could also just secure the PCB on the bottom of your casing, but this will look much more bulky and unfinished
  * The makerspace is closed during workshop hours, so you'll need to go on your own 
