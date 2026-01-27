@@ -12,7 +12,17 @@ Spring:
 * Week 9 [Internal Presentations](https://docs.google.com/presentation/d/1031YyMKs7IsTFLjsiL9ngZ-s-qNvRb3rZWXwRrrNzjc/edit?usp=sharing) 
 * Week 10 Tech project wide Symposium
   
-## [Guidelines & extra resources](https://docs.google.com/presentation/d/1O1AgHZ580prPZU6NF8KwVhaeoH9mqk1tXWXyfUsnyY4/edit?usp=sharing)
+## [Guidelines & extra resources](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing)
+
+## Available Components
+* [IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
+* [Photodiodes](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/PD333-3C-H0-L2/2675634)
+* [Ceramic Capacitors 4.7 uF](https://www.digikey.com/en/products/detail/tdk-corporation/FA26X7R1H475KRU06/5866230)
+* [MCP6041 Op Amps](https://www.digikey.com/en/products/detail/microchip-technology/MCP6041-I-P/413363)
+* Various resistors, buttons, wires, and header pins from the SCC
+* [LCD Screens](https://www.amazon.com/NOYITO-Yellow-Green-Backlight-Interface-MEGA2560/dp/B07SYPPTWN/)
+* [USB-C Power Banks](https://www.amazon.com/Charging-10000mAh-Portable-Charger-Essentials/dp/B0FD3BTZHN/)
+* Various Arduino kit components in the SCC
 
 ## Activities:
 
