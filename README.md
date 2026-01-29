@@ -20,6 +20,7 @@
 * [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1cKn-7zPSCjam-RKHn4MwqCzdUQIta_7RJqH0Z0tkstA/edit?usp=sharing){:target="_blank"}
 * [Module 5 - PCB Design](https://docs.google.com/presentation/d/1wgtv2vp1518Qk9-QdMdX_D1u6vhKlCuBPCgorhh_2MM/edit?usp=sharing){:target="_blank"}
 * [Module 6 - Processing](https://docs.google.com/presentation/d/1XVoMuQ3VVuTIMmQ8UFYVKIzFvYe9Vg38fwnFgSJrigY/edit?usp=sharing){:target="_blank"}
+* [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1cFId1Egc6g-ozYwetW16nDFeu1Z04U_YBKycZj1rptI/edit?usp=sharing){:target="_blank"}
 
 ## Workshops 25-26:
 * [Workshop 1 Slides](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing){:target="_blank"}
@@ -32,6 +33,7 @@
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
 
 ## Other Resources:
+* [Pulse Ox Workshop Slides](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing){:target="_blank"}
 * [Cheat Sheet](https://docs.google.com/document/d/1wIeL6bx7rg2699iLlqAEaEuf3wh1BYzPnBXVcucla6Q/edit?usp=sharing){:target="_blank"}
 * [Circuitry Guide](https://docs.google.com/document/d/1xoPZDM4w_18u-5SAel72Ljc1ihYJ8d1sky9QcXxrpqM/edit?usp=sharing){:target="_blank"}
 * [Tinkercad](https://www.tinkercad.com/){:target="_blank"}
