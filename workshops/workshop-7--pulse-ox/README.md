@@ -4,7 +4,7 @@
 
 Winter:
 * Week 5 [Project Timeline](https://docs.google.com/spreadsheets/d/1Q2l8wiIcanTVYZCGfWGAdgwiylrqpzhlOHG7yh7x-X8/edit?usp=sharing)
-* Week 6 [Preliminary Design Review](https://docs.google.com/presentation/d/19sC7dH2UuXUHeNcOv0W1TxAFQRV5BMv53ZNprg9Kw_s/edit?usp=sharing)
+* Week 6 [Preliminary Design Review](https://docs.google.com/presentation/d/1qx_Ph7sWyh6bKh7NT9x9vXZEL4Ew-gN9UCNquoXywj4/edit?usp=sharing)
 * Week 8 Final Electrical Review
     * List of materials must be finalized by this week
     * KiCad Schematic must be sent to PMs for review
