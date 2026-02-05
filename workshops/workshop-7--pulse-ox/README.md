@@ -15,7 +15,7 @@ Spring:
 * Week 9: [Internal Presentations](https://docs.google.com/presentation/d/1031YyMKs7IsTFLjsiL9ngZ-s-qNvRb3rZWXwRrrNzjc/edit?usp=sharing) 
 * Week 10: Tech Project Symposium
   
-## [Guidelines & extra resources](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing)
+## [Guidelines & extra resources (Click me!)](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing)
 
 ## Available Components
 * [IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
@@ -26,6 +26,10 @@ Spring:
 * [LCD Screens](https://www.amazon.com/NOYITO-Yellow-Green-Backlight-Interface-MEGA2560/dp/B07SYPPTWN/)
 * [USB-C Power Banks](https://www.amazon.com/Charging-10000mAh-Portable-Charger-Essentials/dp/B0FD3BTZHN/)
 * Various Arduino kit components in the SCC
+
+## Bonus Modules
+* [Bonus Module 1: LCD Display](https://docs.google.com/presentation/d/18gLyrfmwk8M66czrSQp9YIk0QXNJu4j4ahqwxfgKfeg/edit?usp=sharing)
+* [PCB Debug](https://docs.google.com/presentation/d/1mKb8vS3uuRZqpIThIm9J1n_9MRmLcNuApOylAaTlZXQ/edit?usp=sharing)
 
 ## Activities:
 
