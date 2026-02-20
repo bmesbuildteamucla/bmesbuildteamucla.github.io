@@ -16,6 +16,7 @@ Spring:
 * Week 10: Tech Project Symposium
   
 ## [Guidelines & extra resources (Click me!)](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing)
+* [KiCad & Arduino IDE Libraries](https://drive.google.com/drive/u/3/folders/1hwNMpJOX8Vhz9xLJ0M-7wDrhA3pnRFuU)
 
 ## Available Components
 * [IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
