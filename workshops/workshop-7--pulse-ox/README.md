@@ -24,8 +24,14 @@ Spring:
 * [IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
 * [Photodiodes](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/PD333-3C-H0-L2/2675634)
 * [Ceramic Capacitors 4.7 uF](https://www.digikey.com/en/products/detail/tdk-corporation/FA26X7R1H475KRU06/5866230)
+* Limited Supply Capacitors (check SCC before incorporating in design)
+    * Assorted Ceramic capacitors between 4.7 pF and 0.47 uF
+    * Assorted Aluminum Electrolytic capacitors between 2.2 uF and 470 uF. Try to use smaller capacitor values as electrolytic capacitors are larger than the ceramic ones
+* Limited Supply Resistors (check SCC)
 * [MCP6041 Op Amps](https://www.digikey.com/en/products/detail/microchip-technology/MCP6041-I-P/413363)
+* [MCP6042 Dual Op Amps](https://www.digikey.com/en/products/detail/microchip-technology/MCP6042-I-P/413366)
 * Various resistors, buttons, wires, and header pins from the SCC
+    * Springs
 * [LCD Screens](https://www.amazon.com/NOYITO-Yellow-Green-Backlight-Interface-MEGA2560/dp/B07SYPPTWN/)
 * [USB-C Power Banks](https://www.amazon.com/Charging-10000mAh-Portable-Charger-Essentials/dp/B0FD3BTZHN/)
 * Various Arduino kit components in the SCC
