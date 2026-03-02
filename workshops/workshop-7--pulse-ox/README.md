@@ -21,20 +21,26 @@ Spring:
 
 
 ## Available Components
-* [IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
+* [Red and IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
+    * [Red and IR SMD LEDs](https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/VSMD66694/6051070?s=N4IgTCBcDaIGoGUCyARAbBgnAFhAXQF8g)
 * [Photodiodes](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/PD333-3C-H0-L2/2675634)
 * [Ceramic Capacitors 4.7 uF](https://www.digikey.com/en/products/detail/tdk-corporation/FA26X7R1H475KRU06/5866230)
 * Limited Supply Capacitors (check SCC before incorporating in design)
     * Assorted Ceramic capacitors between 4.7 pF and 0.47 uF
     * Assorted Aluminum Electrolytic capacitors between 2.2 uF and 470 uF. Try to use smaller capacitor values as electrolytic capacitors are larger than the ceramic ones
+    * Limited supply SMD Capacitors 0805
 * Limited Supply Resistors (check SCC)
+    * Limited Supply SMD resistors 0805
 * [MCP6041 Op Amps](https://www.digikey.com/en/products/detail/microchip-technology/MCP6041-I-P/413363)
 * [MCP6042 Dual Op Amps](https://www.digikey.com/en/products/detail/microchip-technology/MCP6042-I-P/413366)
 * Various resistors, buttons, wires, and header pins from the SCC
-    * Springs
+    * Coil Springs
+    * [Torsion Springs](https://www.amazon.com/Ruibapa-Torsional-Springs-Assortment-Stainless/dp/B0F376KWCL/)
+    * [Jumper Wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/)
 * [LCD Screens](https://www.amazon.com/NOYITO-Yellow-Green-Backlight-Interface-MEGA2560/dp/B07SYPPTWN/)
 * [USB-C Power Banks](https://www.amazon.com/Charging-10000mAh-Portable-Charger-Essentials/dp/B0FD3BTZHN/)
 * Various Arduino kit components in the SCC
+
 
 ## Bonus Modules
 * [Bonus Module 1: LCD Display](https://docs.google.com/presentation/d/18gLyrfmwk8M66czrSQp9YIk0QXNJu4j4ahqwxfgKfeg/edit?usp=sharing)
