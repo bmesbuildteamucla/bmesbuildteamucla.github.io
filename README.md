@@ -28,6 +28,7 @@
 * [Workshop 3 - ESP32 Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
+* [Workshop 8 - Soldering](https://docs.google.com/presentation/d/1LxKK2tkmN0iIrist5zjIPbm7EwtaUR2ejZ4REucm-NI/edit?usp=sharing){:target="_blank"}
 
 ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
