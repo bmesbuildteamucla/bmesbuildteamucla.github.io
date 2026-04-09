@@ -19,6 +19,7 @@ Spring:
 * [KiCad & Arduino IDE Libraries](https://drive.google.com/drive/u/3/folders/1hwNMpJOX8Vhz9xLJ0M-7wDrhA3pnRFuU)
 * Pins to avoid on ESP32: 0-3, 6-12. Pin 2 is the internal LED
 * ![esp32 pinout](esp32-pinout.jpeg)
+* [GitHub Base Code](https://github.com/BMES-Build-Team-2025-26/2026-projects/tree/main)
 
 ## Available Components
 * [Red and IR LEDs](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204/2675563)
