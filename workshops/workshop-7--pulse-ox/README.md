@@ -45,6 +45,7 @@ Spring:
 
 ## Bonus Modules
 * [Bonus Module 1: LCD Display](https://docs.google.com/presentation/d/18gLyrfmwk8M66czrSQp9YIk0QXNJu4j4ahqwxfgKfeg/edit?usp=sharing)
+* [Bonus Module 2: Wireless Resources](https://docs.google.com/document/d/1LIHO1TSMjnUx5jFwG5-PPQ9AsicBH1kiVLtY79x2FJQ/edit?usp=sharing)
 * [PCB Debug](https://docs.google.com/presentation/d/1mKb8vS3uuRZqpIThIm9J1n_9MRmLcNuApOylAaTlZXQ/edit?usp=sharing)
 
 ## Activities:
