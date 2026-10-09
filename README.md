@@ -13,6 +13,7 @@
 
 <!-- 25-26 Modules-->
 ## Modules:
+<!--
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to ESP32 and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
     - [Module 2 Recording (25-26)](https://drive.google.com/file/d/1fezmCSshK8X8X--URERH5C8aYIhKaF5S/view?usp=sharing){:target="_blank"}
@@ -21,18 +22,23 @@
 * [Module 5 - PCB Design](https://docs.google.com/presentation/d/1wgtv2vp1518Qk9-QdMdX_D1u6vhKlCuBPCgorhh_2MM/edit?usp=sharing){:target="_blank"}
 * [Module 6 - Processing](https://docs.google.com/presentation/d/1XVoMuQ3VVuTIMmQ8UFYVKIzFvYe9Vg38fwnFgSJrigY/edit?usp=sharing){:target="_blank"}
 * [Module 7 - CAD and 3D Printing](https://docs.google.com/presentation/d/1cFId1Egc6g-ozYwetW16nDFeu1Z04U_YBKycZj1rptI/edit?usp=sharing){:target="_blank"}
+-->
 
-## Workshops 25-26:
+## Workshops 26-27:
+<!--
 * [Workshop 1 Slides](https://docs.google.com/presentation/d/1Rc8E-h27aLDUvWxrQG_kCMX0pwUMNCG-g1hkWBQ5ERM/edit?usp=sharing){:target="_blank"}
 * [Workshop 2 - Coding and ESP32](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-esp32){:target="_blank"}
 * [Workshop 3 - ESP32 Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
 * [Workshop 7 - Pulse Oximeter](https://bmesbuildteamucla.github.io/workshops/workshop-7--pulse-ox){:target="_blank"}
 * [Workshop 8 - Soldering](https://docs.google.com/presentation/d/1LxKK2tkmN0iIrist5zjIPbm7EwtaUR2ejZ4REucm-NI/edit?usp=sharing){:target="_blank"}
+-->
 
+<!--
 ## Winter Break:
 * [Winter Break Problem Set](https://bmesbuildteamucla.github.io/winter-break/problem-set-2)
-
+-->
+<!--
 ## Other Resources:
 * [Pulse Ox Workshop Slides](https://docs.google.com/presentation/d/13jmXClG_r-N-4WmNvx6YzDmx-mO47Yd74tS4BFfrxsE/edit?usp=sharing){:target="_blank"}
 * [Cheat Sheet](https://docs.google.com/document/d/1wIeL6bx7rg2699iLlqAEaEuf3wh1BYzPnBXVcucla6Q/edit?usp=sharing){:target="_blank"}
@@ -41,6 +47,7 @@
 * [Processing](https://processing.org/){:target="_blank"}
 * [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360){:target="_blank"}
 * [KiCad](https://kicad.org){:target="_blank"}
+-->
 
 
 <!--
