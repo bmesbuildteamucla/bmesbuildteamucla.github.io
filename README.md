@@ -2,7 +2,7 @@
 
 ## Announcements:
 
-* Welcome to the Build Team Website for 2025-2026!
+* Welcome to the Build Team Website for 2026-2027!
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
