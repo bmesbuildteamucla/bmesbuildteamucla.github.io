@@ -6,15 +6,16 @@
 
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
-* Join the BMES Discord server [here](https://discord.gg/npV7tzVMU4){:target="_blank"}!
+* Join the BMES Discord server [here](https://discord.gg/CEcVTM6gp){:target="_blank"}!
 * [EH&S Safety Training](https://forms.gle/1mRmJwCDHyDPakGN6){:target="_blank"} due Wed 10/29 11:59PM
 * [Amazon: Freenove Basic Start Kit for ESP32](https://a.co/d/hmO7K2U){:target="_blank"}
-* [Financial Assistance Form for ESP32](https://forms.gle/vjoKWNTKCpHKAhTt8){:target="_blank'}
+* [Financial Assistance Form for ESP32](https://forms.gle/3Fd1dJVSUfmncdBt5){:target="_blank'}
 
 <!-- 25-26 Modules-->
-## Modules:
+## Modules 26-27:
+
+* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1KS_StbrwKlJsQoLasas0BQmFTELIZl9do4UkbY4nwgs/edit?usp=sharing){:target="_blank"}
 <!--
-* [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1Shd84ZZ69Z0s6WoTAXqK0WSVfJCgsZVQwXu1NcO3mcM/edit?usp=sharing){:target="_blank"}
 * [Module 2 - Intro to ESP32 and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
     - [Module 2 Recording (25-26)](https://drive.google.com/file/d/1fezmCSshK8X8X--URERH5C8aYIhKaF5S/view?usp=sharing){:target="_blank"}
 * [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing){:target="_blank"}
