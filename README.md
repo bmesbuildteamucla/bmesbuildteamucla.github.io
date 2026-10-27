@@ -7,7 +7,7 @@
 ## Important Links:
 * [BMES Website](http://bmes.seas.ucla.edu/){:target="_blank"}!
 * Join the BMES Discord server [here](https://discord.gg/CEcVTM6gp){:target="_blank"}!
-* [EH&S Safety Training](https://forms.gle/1mRmJwCDHyDPakGN6){:target="_blank"} due Wed 10/29 11:59PM
+* [EH&S Safety Training](https://forms.gle/1mRmJwCDHyDPakGN6){:target="_blank"} due Wed 11/4 11:59PM
 * [Amazon: Freenove Basic Start Kit for ESP32](https://a.co/d/hmO7K2U){:target="_blank"}
 * [Financial Assistance Form for ESP32](https://forms.gle/3Fd1dJVSUfmncdBt5){:target="_blank'}
 
