@@ -13,10 +13,9 @@
 
 <!-- 25-26 Modules-->
 ## Modules 26-27:
-<!--
 * [Module 1 - Intro to Circuits](https://docs.google.com/presentation/d/1KS_StbrwKlJsQoLasas0BQmFTELIZl9do4UkbY4nwgs/edit?usp=sharing){:target="_blank"}
 
-
+<!--
 * [Module 2 - Intro to ESP32 and Coding](https://docs.google.com/presentation/d/1N-WQpIUewCvAAtX4nuYC8YP4cqgPpRetq4oDZ50vFZ8/edit?usp=sharing){:target="_blank"}
 * [Module 3 - ESP32 Analog, Blood, Spectroscopy](https://docs.google.com/presentation/d/13cWYS6j2SmA5syqL_sD7k9e33I0aW4dQ8fiSdSRAOwg/edit?usp=sharing){:target="_blank"}
 * [Module 4 - Advanced Circuitry](https://docs.google.com/presentation/d/1cKn-7zPSCjam-RKHn4MwqCzdUQIta_7RJqH0Z0tkstA/edit?usp=sharing){:target="_blank"}
@@ -26,9 +25,10 @@
 -->
 
 ## Workshops 26-27:
+<!--
 * [Workshop 1 Slides](https://docs.google.com/presentation/d/1rOU0xBU1mLpq4KIVgMLmtRVBk5n4pe2YzoffrrqVsBI/edit?usp=sharing){:target="_blank"}
 
-<!--
+
 * [Workshop 2 - Coding and ESP32](https://bmesbuildteamucla.github.io/workshops/workshop-2--coding-and-esp32){:target="_blank"}
 * [Workshop 3 - ESP32 Analog](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog){:target="_blank"}
 * [Workshop 4 - Advanced Circuitry](https://bmesbuildteamucla.github.io/workshops/workshop-4--advanced-circuitry){:target="_blank"}
