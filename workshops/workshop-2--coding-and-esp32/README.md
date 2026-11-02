@@ -68,8 +68,8 @@
 	Serial.read() // reads incoming serial data
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
-<!-- 
 
+<!--
 ## Solutions:
 * [Activity 1 - LED Time](activity-1--LED-time)
 * [Activity 2 - LED Flashing](activity-2--LED-flashing)
@@ -80,8 +80,6 @@
 * [Activity 7 - LED Blinking](activity-7--LED-blinking)
 * [Activity 8 - Three LEDs](activity-8--three-LEDs)
 * [Activity 9 - Morse Code](activity-9--morse-code) 
-
 -->
-
 
 
