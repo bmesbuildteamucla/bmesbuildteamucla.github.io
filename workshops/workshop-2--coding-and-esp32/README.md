@@ -5,6 +5,8 @@
 
 # Workshop 2 - Coding and ESP32
 
+[Attendance Form](https://forms.gle/3hSpAFfAz66S7AvW7){:target="_blank"}
+
 ## Activities:
 
 #### Activity 1 - LED Time
