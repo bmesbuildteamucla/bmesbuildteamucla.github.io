@@ -80,11 +80,8 @@
   //What on the ESP32 can output relatively random values?
   ```
 
-
 #### Challenge Activity - Dino Run (Optional)
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
-
-
 
 <!--
 ## Solutions:
