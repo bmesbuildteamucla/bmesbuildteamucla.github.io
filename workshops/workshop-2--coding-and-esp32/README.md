@@ -71,7 +71,7 @@
 	Serial.readString() // reads characters from the serial buffer into a String
 	```
 
-<!--
+
 ## Solutions:
 * [Activity 1 - LED Time](activity-1--LED-time)
 * [Activity 2 - LED Flashing](activity-2--LED-flashing)
@@ -82,6 +82,6 @@
 * [Activity 7 - Three LEDs](activity-8--three-LEDs)
 * [Activity 8 - Storing Potentiometer Values](activity-3--Storing-Potentiometer)
 * [Activity 9 - Morse Code](activity-9--morse-code) 
--->
+
 
 
