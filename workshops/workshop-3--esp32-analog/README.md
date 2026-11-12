@@ -5,7 +5,7 @@
 
 # Workshop 3 - ESP32 Analog
 
-[Attendance Form](https://forms.gle/aWNgUsjrnWT7bKb16){:target="_blank"}
+[Attendance Form](https://forms.gle/s9YQ8ojG3fPZyzUEA){:target="_blank"}
 
 ## Activities:
 ### *** *Note: Remember which pins we use for analog INPUT (ADC) vs analog OUTPUT* ***
