@@ -83,7 +83,6 @@
 #### Challenge Activity - Dino Run (Optional)
 * Use the servo and photoresistor to play the Google dino game automatically up to 300 points. (Bonus: Try to get the highest score possible.)
 
-<!--
 ## Solutions:
 * [Activity 1 - Piezo Buzzer](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog/activity-1--piezo-buzzer)
 * [Activity 2 - Servo motors + Joystick](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog/activity-2--servo-motor)
@@ -92,5 +91,5 @@
 
 * [Challenge Activity - Reaction Time Test](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog/challenge-activity-2--reaction-time-test)
 * [Challenge Activity - Dino Run](https://bmesbuildteamucla.github.io/workshops/workshop-3--esp32-analog/challenge-activity-1--dino-run)
--->
+
 
