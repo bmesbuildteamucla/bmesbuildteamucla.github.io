@@ -74,7 +74,9 @@
     <br>
     <br>
     </details>
-<!-- #### Activity 6 - Processing + ESP32
+
+<!-- 
+#### Activity 6 - Processing + ESP32
 * Set up a button circuit
   - Feel free to try with any input component you prefer ex.potentiometer, potoresistor etc.
 * Set up connection between Processing and Arduino
@@ -85,7 +87,8 @@
     <img width="292" alt="processing setup" src="processing.png">
 
 * Code Processing to draw a circle everytime the button is pressed
-  - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component -->
+  - Feel free to make Processing draw or add any shape/color/effects in response to the input from your chosen component 
+-->
 
 <!--
 ## Solutions:
