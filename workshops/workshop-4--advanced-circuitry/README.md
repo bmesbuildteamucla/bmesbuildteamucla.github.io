@@ -1,5 +1,5 @@
 # Workshop 4 - Advanced Circuitry
-[Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSdThOHz1SEjTVpSlDJppF5OURFrmhMXBVgEIb7zYX_eA_gakQ/viewform?usp=dialog)
+[Attendance Form](https://forms.gle/kEF11EDadZxayRZM9)
 
 ## Activities:
 
